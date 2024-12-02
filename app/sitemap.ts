@@ -33,11 +33,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const sitemapData = sitemapRoutes.flatMap((route) =>
     locales.map((locale) => {
-      const lang = locale === 'en' ? '' : `/${locale}`;
-      const routeUrl = route.url === '' ? '' : `/${route.url}`;
+      // 移除开头的斜杠，并正确处理空字符串情况
+      const lang = locale === 'en' ? '' : locale;
+      const routeUrl = route.url;
+
+      // 构建完整URL，处理各种组合情况
+      const fullPath = [BASE_URL.replace(/\/$/, ''), lang, routeUrl]
+        .filter(Boolean) // 移除空字符串
+        .join('/'); // 用单个斜杠连接
+
       return {
         ...route,
-        url: `${BASE_URL}${lang}${routeUrl}`,
+        url: fullPath,
       };
     }),
   );

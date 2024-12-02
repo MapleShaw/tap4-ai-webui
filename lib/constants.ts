@@ -21,10 +21,10 @@ export const RevalidateOneMonth = 3600 * 24 * 30;
 export const PAGE_SIZE = 20;
 export const InfoPageSize = 12;
 
-export const FORM_PLACEHOLDER = 'https://tap4.ai/';
+export const FORM_PLACEHOLDER = 'https://aiatlas.tech/';
 
 export const WEBSITE_EXAMPLE =
-  '<a href="https://tap4.ai/" title="AI Atlas Tools Directory">AI Atlas Tools Diresctory</a>';
+  '<a href="https://aiatlas.tech/" title="AI Atlas Tools Directory">AI Atlas Tools Diresctory</a>';
 
 export const STARTUP_LIST = [
   {

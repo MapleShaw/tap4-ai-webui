@@ -3,71 +3,71 @@
     "loading": "Chargement..."
   },
   "Navigation": {
-    "title": "Répertoire des outils AI de Tap4",
+    "title": "Tous les Outils IA. Un Atlas.",
     "discover": "Découvrir l'IA",
     "submit": "Soumettre",
-    "newtools": "Nouveaux outils",
-    "startup": "Startups",
+    "newtools": "Nouveaux Outils",
+    "startup": "Startup",
     "menu": "Menu"
   },
   "Footer": {
-    "title": "Répertoire des outils AI de Tap4",
-    "subTitle": "Découvrez les meilleurs outils AI de 2024 dans le Répertoire des outils AI de Tap4 !",
-    "support": "Soutien",
-    "tap4": "Tap4 AI",
-    "tattoo": "Générateur de Tatouages AI",
-    "privacy": "Politique de confidentialité",
-    "termsConditions": "Termes et conditions",
+    "title": "Tous les Outils IA. Un Atlas.",
+    "subTitle": "Votre Guide Expert pour Découvrir et Exploiter les Meilleurs Outils d'IA pour une Productivité Maximale !",
+    "support": "Support",
+    "tap4": "Atlas IA",
+    "tattoo": "Générateur de Tatouages IA",
+    "privacy": "Politique de Confidentialité",
+    "termsConditions": "Conditions d'Utilisation",
     "contactUs": "Contactez-nous"
   },
   "Faq": {
     "title": "FAQ",
     "1": {
-      "question": "Qu'est-ce que le Répertoire des outils AI de Tap4 ?",
-      "answer": "Le Répertoire des outils AI de Tap4 - tap4.ai est en train de construire un répertoire d'outils AI pour vous aider à obtenir vos outils AI préférés. Vous pouvez y trouver des outils d'écriture AI, des outils de marketing AI, des outils de réécriture AI, des outils SEO AI, des outils d'apprentissage AI, des outils de génération AI, des outils de recherche AI, des outils artistiques AI, des outils de musique AI, des outils vidéo AI, des outils de codage AI, des outils photo AI, etc."
+      "question": "Qu'est-ce que le Répertoire d'Outils Atlas IA Open Source ?",
+      "answer": "Le Répertoire d'Outils Atlas IA - tap4.ai construit un répertoire d'outils IA qui vous aide à trouver vos outils IA préférés. Vous pouvez trouver ici des outils d'écriture IA, de marketing IA, de paraphrase IA, de SEO IA, d'apprentissage IA, de génération IA, de recherche IA, d'art IA, de musique IA, de vidéo IA, de codage IA, de photo IA et plus encore."
     },
     "2": {
-      "question": "Comment trouver votre outil AI dans le Répertoire des outils AI de Tap4 ?",
-      "answer-1": "1. Ouvrez tap4.ai.",
-      "answer-2": "2. Explorez les outils AI dans le Répertoire des outils AI de Tap4.",
-      "answer-3": "3. Cliquez sur l'outil AI dont vous avez besoin pour obtenir les détails et y accéder."
+      "question": "Comment trouver vos outils IA dans le Répertoire d'Outils Atlas IA ?",
+      "answer-1": "1. Ouvrez aiatlas.ai",
+      "answer-2": "2. Explorez les outils IA dans le Répertoire d'Outils Atlas IA",
+      "answer-3": "3. Cliquez sur les outils IA dont vous avez besoin pour voir les détails et les visiter"
     },
     "3": {
-      "question": "Quelles sont les principales caractéristiques du Répertoire des outils AI de Tap4 ?",
-      "answer-1": "1. Répertoire d'outils AI gratuit : trouvez gratuitement vos outils AI préférés ici.",
-      "answer-2": "2. Liste des startups : liste gratuite pour les développeurs d'outils AI."
+      "question": "Quelles sont les principales fonctionnalités du Répertoire d'Outils Atlas IA ?",
+      "answer-1": "1. Répertoire d'Outils IA Gratuit : C'est gratuit de trouver vos outils IA préférés ici",
+      "answer-2": "2. Liste de Startups : La liste gratuite pour les développeurs d'outils IA"
     },
     "4": {
-      "question": "La soumission d'outils AI au Répertoire des outils AI de Tap4 est-elle gratuite ?",
-      "answer": "Oui, actuellement c'est gratuit. Mais vous devez partager le lien retour du Répertoire des outils AI de Tap4 !"
+      "question": "Est-ce gratuit de soumettre des outils IA au Répertoire d'Outils Atlas IA ?",
+      "answer": "Oui, c'est actuellement gratuit. Mais vous devez partager le lien retour pour le Répertoire d'Outils Atlas IA !"
     },
     "5": {
-      "question": "Quelles catégories d'outils AI sont prises en charge par le Répertoire des outils AI de Tap4 ?",
-      "answer": "Nous allons prendre en charge tous les types d'outils AI à l'avenir. Veuillez patienter quelques jours."
+      "question": "Quelles catégories d'outils IA le Répertoire d'Outils Atlas IA supporte-t-il ?",
+      "answer": "Nous supporterons tous les types d'outils IA plus tard. Veuillez patienter quelques jours."
     },
     "6": {
-      "question": "Quelle est la fréquence de mise à jour des outils AI dans le Répertoire des outils AI de Tap4 ?",
-      "answer": "La liste des outils AI sera mise à jour quotidiennement."
+      "question": "Quelle est la fréquence de mise à jour des outils IA dans le Répertoire Atlas IA ?",
+      "answer": "La liste des outils IA sera mise à jour quotidiennement."
     },
     "7": {
-      "question": "GPT-4o ou Sora AI sont-ils pris en charge ici ?",
-      "answer": "Vous pouvez obtenir des outils GPT-4o ou Sora AI ici. Il y a des vidéos d'introduction de GPT-4o et Sora, et vous pouvez accéder aux sites web des outils."
+      "question": "Est-ce que GPT-4o ou Sora AI sont supportés ici ?",
+      "answer": "Vous pouvez obtenir l'outil GPT-4o ou Sora AI ici. Voici l'introduction de GPT-4o et la vidéo Sora, et vous pouvez visiter le site web des outils."
     },
     "8": {
       "question": "Dépannage",
-      "answer": "Si le contenu n'apparaît pas, essayez un autre navigateur et effacez le cache. Si le problème persiste, contactez-nous à : contact@6677.ai."
+      "answer": "Si le contenu n'apparaît pas, essayez un autre navigateur, videz votre cache. Si les problèmes persistent, contactez-nous à mapleshaw@gmail.com."
     },
     "9": {
-      "question": "Comment le contenu du Répertoire des outils AI de Tap4 est-il généré ?",
-      "answer": "Le contenu descriptif des outils AI est généré par GPT-4o d'OpenAI."
+      "question": "Comment le contenu du Répertoire d'Outils Atlas IA est-il généré ?",
+      "answer": "Le contenu de la description des outils IA est généré par Claude d'Anthropic."
     },
     "10": {
-      "question": "Quelles sont les autorisations d'utilisation des outils AI ?",
-      "answer": "Le Répertoire des outils AI de Tap4 est simplement un répertoire d'outils AI. Les autorisations d'utilisation des outils AI sont basées sur le site web de l'outil AI."
+      "question": "Quels sont les droits d'utilisation des outils IA ?",
+      "answer": "Le Répertoire d'Outils Atlas IA n'est qu'un répertoire pour les outils IA. Les droits d'utilisation des outils IA sont basés sur le site web des outils IA."
     },
     "11": {
-      "question": "L'interface Web du Répertoire des outils AI de Tap4 est-elle open source ?",
-      "answer": "Oui, nous ouvrirons l'interface Web du Répertoire des outils AI de Tap4 sur GitHub (https://github.com/6677-ai/tap4-ai-webui). Veuillez nous donner un étoile."
+      "question": "L'interface web du Répertoire Atlas IA est-elle open source ?",
+      "answer": "Oui, nous allons rendre open source l'interface web du Répertoire Atlas IA sur GitHub (https://github.com/6677-ai/tap4-ai-webui). Merci de nous donner une étoile."
     }
   },
   "FooterNavigation": {
@@ -115,71 +115,71 @@
   },
   "NotFound": {
     "title": "404 Non Trouvé",
-    "goHome": "Retour à l'accueil"
+    "goHome": "retour à l'accueil"
   },
   "Home": {
-    "title": "Tap4 AI - Découvrez les meilleurs outils d'IA 2024",
-    "subTitle": "Obtenez vos outils IA préférés dans l'annuaire des outils Tap4 AI. Les listes d'outils IA sont mises à jour quotidiennement par GPT-4o. C'est gratuit de soumettre ici pour améliorer votre SEO maintenant.",
-    "ai-navigate": "Liste des outils IA",
-    "exploreMore": "Obtenez plus d'outils IA",
-    "checkDetail": "Voir le détail",
-    "search": "Recherche",
-    "result": "Résultat de recherche",
+    "title": "Tous les Outils IA. Un Atlas.",
+    "subTitle": "Votre Guide Expert pour Découvrir et Exploiter les Meilleurs Outils d'IA pour une Productivité Maximale",
+    "ai-navigate": "Liste des Outils IA",
+    "exploreMore": "Obtenir Plus d'Outils IA",
+    "checkDetail": "Voir les Détails",
+    "search": "Rechercher",
+    "result": "Résultat de la Recherche",
     "empty": "Aucune donnée disponible"
   },
   "Category": {
-    "home": "Accueil",
+    "home": "accueil",
     "empty": "Aucune donnée disponible"
   },
   "Submit": {
-    "title": "Soumettez votre outil AI",
-    "subTitle": "Soumettez votre outil AI et obtenez du trafic du Répertoire des outils AI de Tap4",
-    "website": "Nom du site",
-    "url": "URL du site",
+    "title": "Soumettez votre Outil IA",
+    "subTitle": "Soumettez votre Outil IA et Obtenez du Trafic depuis le Répertoire d'Outils Atlas IA",
+    "website": "Nom du Site Web",
+    "url": "URL du Site Web",
     "submit": "Soumettre",
     "add": "Ajouter",
-    "text": "à la page d'accueil de votre site, et vous pouvez soumettre votre site gratuitement avec succès !",
-    "networkError": "Erreur réseau",
+    "text": "à la page d'accueil de votre site web, et vous pourrez ensuite soumettre votre site web gratuitement avec succès !",
+    "networkError": "Erreur Réseau",
     "success": "succès"
   },
   "Startup": {
-    "title": "Lancez votre startup",
-    "subTitle": "La liste ultime pour lancer et promouvoir le site web de votre startup. Pour ajouter à la liste ou aider à soumettre votre produit à une liste gratuite, veuillez envoyer un email à : contact@tap4.ai.",
+    "title": "Lancez votre Startup",
+    "subTitle": "La Liste Ultime des Sites Web pour Lancer et Promouvoir votre Startup en Ligne. Pour ajouter à la liste ou aider à soumettre votre produit à la liste gratuite, envoyez-nous un email : contact@tap4.ai.",
     "updateTime": "Organisé et mis à jour quotidiennement. Dernière mise à jour :",
     "table": {
       "da": "DA",
-      "website": "Site web",
+      "website": "Site Web",
       "tags": "Tags",
       "price": "Prix",
       "submission": "Soumission"
     },
     "detail": {
-      "visitWebsite": "Visiter le site",
+      "visitWebsite": "Visiter le Site",
       "introduction": "Introduction"
     }
   },
   "Explore": {
-    "title": "Découvrez les meilleurs outils AI de 2024",
-    "subTitle": "Trouvez vos outils AI préférés dans le Répertoire des outils AI de Tap4. La liste des outils AI est mise à jour quotidiennement par GPT-4o."
+    "title": "Tous les Outils IA. Un Atlas.",
+    "subTitle": "Votre Guide Expert pour Découvrir et Exploiter les Meilleurs Outils d'IA pour une Productivité Maximale"
   },
   "Metadata": {
     "home": {
-      "title": "Obtenez vos meilleurs outils AI | Répertoire des outils AI de Tap4",
-      "description": "Le Répertoire des outils AI de Tap4 est un outil qui propose un répertoire gratuit d'outils AI. Obtenez vos outils AI préférés avec le Répertoire des outils AI de Tap4, qui vise à collecter tous les outils AI et à fournir le meilleur service aux utilisateurs.",
-      "keywords": "Répertoire des outils AI de Tap4"
+      "title": "Tous les Outils IA. Un Atlas. | Répertoire d'Outils Atlas IA",
+      "description": "Le Répertoire Atlas IA est un outil qui fournit un répertoire gratuit d'outils IA. Obtenez vos outils IA préférés avec le Répertoire Atlas IA, qui vise à collecter tous les outils IA et à fournir le meilleur pour les utilisateurs.",
+      "keywords": "Répertoire Atlas IA"
     },
     "ai": {
-      "titleSubfix": "Répertoire des outils AI de Tap4"
+      "titleSubfix": "Répertoire Atlas IA"
     },
     "explore": {
-      "title": "Découvrez les meilleurs outils AI de 2024 | Répertoire des outils AI de Tap4",
-      "titlePrefix": "Explorez le Répertoire des outils AI de Tap4",
-      "titleSuffix": "Répertoire des outils AI de Tap4",
-      "description": "Le Répertoire des outils AI de Tap4 est un outil qui propose un répertoire gratuit d'outils AI. Obtenez vos outils AI préférés avec le Répertoire des outils AI de Tap4, qui vise à collecter tous les outils AI et à fournir le meilleur service aux utilisateurs.",
-      "keywords": "Répertoire des outils AI de Tap4"
+      "title": "Meilleure Exploration d'Outils IA 2024 | Répertoire d'Outils Atlas IA Open Source",
+      "titlePrefix": "Explorer le Répertoire Atlas IA",
+      "titleSuffix": "Répertoire Atlas IA",
+      "description": "Le Répertoire Atlas IA est un outil qui fournit un répertoire gratuit d'outils IA. Obtenez vos outils IA préférés avec le Répertoire Atlas IA, qui vise à collecter tous les outils IA et à fournir le meilleur pour les utilisateurs.",
+      "keywords": "Répertoire Atlas IA"
     },
     "submit": {
-      "title": "Soumettez votre outil AI et obtenez du trafic | Répertoire des outils AI de Tap4"
+      "title": "Soumettez votre outil IA et obtenez du Trafic | Répertoire Atlas IA"
     }
   }
 }

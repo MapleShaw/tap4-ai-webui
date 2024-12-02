@@ -24,7 +24,7 @@ export const InfoPageSize = 12;
 export const FORM_PLACEHOLDER = 'https://tap4.ai/';
 
 export const WEBSITE_EXAMPLE =
-  '<a href="https://tap4.ai/" title="Tap4 AI Tools Directory">Tap4 AI Tools Diresctory</a>';
+  '<a href="https://tap4.ai/" title="AI Atlas Tools Directory">AI Atlas Tools Diresctory</a>';
 
 export const STARTUP_LIST = [
   {

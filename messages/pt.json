@@ -3,19 +3,19 @@
     "loading": "carregando..."
   },
   "Navigation": {
-    "title": "Tap4 Diretório de Ferramentas de IA",
+    "title": "Todas as Ferramentas de IA. Um Atlas.",
     "discover": "Descobrir IA",
     "submit": "Enviar",
     "newtools": "Novas Ferramentas",
-    "startup": "Inicialização",
-    "menu": "menu"
+    "startup": "Startup",
+    "menu": "Menu"
   },
   "Footer": {
-    "title": "Tap4 Diretório de Ferramentas de IA",
-    "subTitle": "Descubra as melhores ferramentas de IA de 2024 com o Diretório de Ferramentas de IA do Tap4!",
-    "support": "Apoio",
-    "tap4": "Tap4 AI",
-    "tattoo": "Gerador de Tatuagens AI",
+    "title": "Todas as Ferramentas de IA. Um Atlas.",
+    "subTitle": "Seu Guia Especializado para Descobrir e Aproveitar as Melhores Ferramentas de IA para Máxima Produtividade!",
+    "support": "Suporte",
+    "tap4": "Atlas IA",
+    "tattoo": "Gerador de Tatuagens IA",
     "privacy": "Política de Privacidade",
     "termsConditions": "Termos e Condições",
     "contactUs": "Contate-nos"
@@ -23,51 +23,51 @@
   "Faq": {
     "title": "Perguntas Frequentes",
     "1": {
-      "question": "O que é o Diretório de Ferramentas de IA do Tap4?",
-      "answer": "O Diretório de Ferramentas de IA do Tap4 - tap4.ai está construindo um diretório de ferramentas de IA que ajuda você a obter suas ferramentas de IA favoritas. Você pode obter ferramentas de escrita de IA, ferramentas de marketing de IA, ferramentas de parafraseamento de IA, ferramentas de SEO de IA, ferramentas de estudo de IA, ferramentas de geração de IA, ferramentas de pesquisa de IA, ferramentas de arte de IA, ferramentas de música de IA, ferramentas de vídeo de IA, ferramentas de codificação de IA, ferramentas de foto de IA e muito mais aqui."
+      "question": "O que é o Diretório de Ferramentas Atlas IA Open Source?",
+      "answer": "O Diretório de Ferramentas Atlas IA - tap4.ai está construindo um diretório de ferramentas de IA que ajuda você a obter suas ferramentas de IA favoritas. Você pode encontrar ferramentas de escrita IA, ferramentas de marketing IA, ferramentas de paráfrase IA, ferramentas SEO IA, ferramentas de estudo IA, ferramentas geradoras IA, ferramentas de pesquisa IA, ferramentas de arte IA, ferramentas de música IA, ferramentas de vídeo IA, ferramentas de codificação IA, ferramentas de foto IA e muito mais aqui."
     },
     "2": {
-      "question": "Como encontrar suas ferramentas de IA no diretório de ferramentas de IA do Tap4?",
-      "answer-1": "1. Abra tap4.ai.",
-      "answer-2": "2. Explore as ferramentas de IA no diretório de ferramentas de IA do Tap4.",
-      "answer-3": "3. Clique nas ferramentas de IA que você precisa para obter detalhes e visitá-las."
+      "question": "Como encontrar suas ferramentas de IA no Diretório de Ferramentas Atlas IA?",
+      "answer-1": "1. Abra aiatlas.ai",
+      "answer-2": "2. Explore as ferramentas de IA no Diretório de Ferramentas Atlas IA",
+      "answer-3": "3. Clique nas ferramentas de IA que você precisa para obter detalhes e visitá-las"
     },
     "3": {
-      "question": "Quais são os principais recursos do Diretório de Ferramentas de IA do Tap4?",
-      "answer-1": "1. Diretório de Ferramentas de IA Grátis: É grátis encontrar suas ferramentas de IA favoritas aqui.",
-      "answer-2": "2. Lista de Inicialização: A lista de inicialização gratuita para desenvolvedores de ferramentas de IA."
+      "question": "Quais são as principais características do Diretório de Ferramentas Atlas IA?",
+      "answer-1": "1. Diretório de Ferramentas IA Gratuito: É gratuito encontrar suas Ferramentas IA favoritas aqui",
+      "answer-2": "2. Lista de Startups: A lista gratuita para desenvolvedores de ferramentas IA"
     },
     "4": {
-      "question": "É gratuito enviar ferramentas de IA para o Diretório de Ferramentas de IA do Tap4?",
-      "answer": "Sim, é grátis atualmente. Mas você deve compartilhar o backlink para o Diretório de Ferramentas de IA do Tap4!"
+      "question": "É gratuito enviar ferramentas de IA para o Diretório de Ferramentas Atlas IA?",
+      "answer": "Sim, atualmente é gratuito. Mas você deve compartilhar o backlink para o Diretório de Ferramentas Atlas IA!"
     },
     "5": {
-      "question": "Qual é a lista de categorias de Ferramentas de IA que o Diretório de Ferramentas de IA do Tap4 suporta?",
-      "answer": "Vamos apoiar todos os tipos de Ferramentas de IA mais tarde. Por favor, aguarde alguns dias."
+      "question": "Quais categorias de Ferramentas IA o Diretório de Ferramentas Atlas IA suporta?",
+      "answer": "Vamos suportar todos os tipos de Ferramentas IA posteriormente. Por favor, aguarde alguns dias."
     },
     "6": {
-      "question": "Qual é a frequência para a atualização de ferramentas de IA no Diretório de IA do Tap4?",
-      "answer": "A lista de ferramentas de IA será atualizada diariamente."
+      "question": "Qual é a frequência de atualização das ferramentas IA no Diretório Atlas IA?",
+      "answer": "A lista de ferramentas IA será atualizada diariamente."
     },
     "7": {
-      "question": "Ele suporta o GPT-4o ou Sora AI aqui?",
-      "answer": "Você pode obter a ferramenta GPT-4o ou Sora AI aqui. Aqui está a introdução do vídeo GPT-4o e Sora, e você pode visitar o site das ferramentas."
+      "question": "Há suporte para GPT-4o ou Sora AI aqui?",
+      "answer": "Você pode obter a ferramenta GPT-4o ou Sora AI aqui. Aqui está a introdução do GPT-4o e vídeo Sora, e você pode visitar o site das ferramentas."
     },
     "8": {
-      "question": "Resolução de problemas",
-      "answer": "Se o conteúdo não estiver aparecendo, tente um navegador diferente, limpe seu cache. Se os problemas persistirem, entre em contato conosco em contact@6677.ai."
+      "question": "Solução de Problemas",
+      "answer": "Se o conteúdo não estiver aparecendo, tente um navegador diferente, limpe seu cache. Se os problemas persistirem, contate-nos em mapleshaw@gmail.com."
     },
     "9": {
-      "question": "Como o conteúdo do Diretório de IA do Tap4 é gerado?",
-      "answer": "O conteúdo da descrição das ferramentas de IA é gerado pelo GPT-4o da OpenAI."
+      "question": "Como o conteúdo do Diretório de Ferramentas Atlas IA é gerado?",
+      "answer": "O conteúdo da descrição das ferramentas IA é gerado pelo Claude da Anthropic."
     },
     "10": {
-      "question": "Quais são os direitos de uso das ferramentas de IA?",
-      "answer": "O Diretório de Ferramentas de IA do Tap4 é apenas o Diretório de IA para ferramentas de IA. Os direitos de uso das ferramentas de IA são baseados no site das ferramentas de IA."
+      "question": "Quais são os direitos de uso das ferramentas IA?",
+      "answer": "O Diretório de Ferramentas Atlas IA é apenas um diretório para ferramentas IA. Os direitos de uso das ferramentas IA são baseados no site das ferramentas IA."
     },
     "11": {
-      "question": "O webui do Diretório de IA do Tap4 é de código aberto?",
-      "answer": "Sim, vamos abrir o código-fonte do webui do Diretório de IA do Tap4 no github (https://github.com/6677-ai/tap4-ai-webui). Por favor, nos dê uma estrela."
+      "question": "A interface web do Diretório Atlas IA é open source?",
+      "answer": "Sim, vamos disponibilizar o código-fonte da interface web do Diretório Atlas IA no GitHub (https://github.com/6677-ai/tap4-ai-webui). Por favor, nos dê uma estrela."
     }
   },
   "FooterNavigation": {
@@ -118,13 +118,13 @@
     "goHome": "ir para casa"
   },
   "Home": {
-    "title": "Tap4 AI - Descubra as melhores ferramentas de IA 2024",
-    "subTitle": "Obtenha suas ferramentas de IA favoritas no Diretório de Ferramentas de IA Tap4. A lista de ferramentas de IA é atualizada diariamente pelo GPT-4o. É grátis enviar aqui para melhorar seu SEO agora.",
-    "ai-navigate": "Lista de Ferramentas de IA",
-    "exploreMore": "Obtenha mais ferramentas de IA",
-    "checkDetail": "Ver Detalhe",
+    "title": "Atlas de Ferramentas de IA: Tornando a IA Acessível para Todos",
+    "subTitle": "Seu Guia Especializado para Descobrir e Aproveitar as Melhores Ferramentas de IA para Máxima Produtividade",
+    "ai-navigate": "Lista de Ferramentas IA",
+    "exploreMore": "Obter mais Ferramentas IA",
+    "checkDetail": "Ver Detalhes",
     "search": "Pesquisar",
-    "result": "Resultado da pesquisa",
+    "result": "Resultado da Pesquisa",
     "empty": "Nenhum dado disponível"
   },
   "Category": {
@@ -132,54 +132,54 @@
     "empty": "Nenhum dado disponível"
   },
   "Submit": {
-    "title": "Envie sua Ferramenta de IA",
-    "subTitle": "Envie sua Ferramenta de IA e Obtenha tráfego do Diretório de IA do Tap4",
+    "title": "Envie sua Ferramenta IA",
+    "subTitle": "Envie sua Ferramenta IA e Obtenha Tráfego do Diretório Atlas IA",
     "website": "Nome do Website",
     "url": "URL do Website",
     "submit": "Enviar",
     "add": "Adicionar",
-    "text": "para a página inicial do seu site. Em seguida, você pode enviar seu site com sucesso gratuitamente!",
-    "networkError": "Erro de rede",
-    "success": "sucesso"
+    "text": "à página inicial do seu website, e então você poderá enviar seu website gratuitamente com sucesso!",
+    "networkError": "Erro de Rede",
+    "success": "Sucesso"
   },
   "Startup": {
-    "title": "Inicie o Lançamento da sua Startup",
-    "subTitle": "A Lista Definitiva de Sites para Lançar e Promover Sua Startup Online. Para adicionar à lista ou ajudar a enviar seu produto para a lista gratuita, por favor, envie um e-mail para nós: contact@tap4.ai.",
-    "updateTime": "Selecionado e atualizado diariamente. Última atualização:",
+    "title": "Inicie seu Startup",
+    "subTitle": "A Lista Definitiva de Websites para Lançar e Promover seu Startup Online. Para adicionar à lista ou ajudar a enviar seu produto para a lista gratuita, por favor nos envie um email: contact@tap4.ai.",
+    "updateTime": "Curado e atualizado diariamente. Última atualização:",
     "table": {
       "da": "DA",
       "website": "Website",
       "tags": "Tags",
       "price": "Preço",
-      "submission": "Envio"
+      "submission": "Submissão"
     },
     "detail": {
-      "visitWebsite": "Visite o Website",
+      "visitWebsite": "Visitar Website",
       "introduction": "Introdução"
     }
   },
   "Explore": {
-    "title": "Descubra as Melhores Ferramentas de IA 2024",
-    "subTitle": "Obtenha suas ferramentas de IA favoritas no Diretório de Ferramentas de IA do Tap4. A lista de ferramentas de IA é atualizada diariamente pelo GPT-4o."
+    "title": "Todas as Ferramentas de IA. Um Atlas.",
+    "subTitle": "Seu Guia Especializado para Descobrir e Aproveitar as Melhores Ferramentas de IA para Máxima Produtividade"
   },
   "Metadata": {
     "home": {
-      "title": "Obtenha suas melhores Ferramentas de IA | Diretório de IA do Tap4",
-      "description": "O Diretório de IA do Tap4 é uma ferramenta que fornece um Diretório de Ferramentas de IA gratuito. Obtenha suas ferramentas de IA favoritas com o Diretório de IA do Tap4, o Diretório de IA do Tap4 visa reunir todas as ferramentas de IA e fornecer o melhor para os usuários.",
-      "keywords": "Diretório de IA do Tap4"
+      "title": "Todas as Ferramentas de IA. Um Atlas. | Diretório de Ferramentas Atlas IA",
+      "description": "O Diretório Atlas IA é uma ferramenta que fornece um Diretório de Ferramentas IA gratuito. Obtenha suas ferramentas IA favoritas com o Diretório Atlas IA, que visa reunir todas as ferramentas IA e fornecer o melhor para os usuários.",
+      "keywords": "Diretório Atlas IA"
     },
     "ai": {
-      "titleSubfix": "Diretório de IA do Tap4"
+      "titleSubfix": "Diretório Atlas IA"
     },
     "explore": {
-      "title": "Melhores Ferramentas de IA Explore 2024 | Diretório de IA do Tap4",
-      "titlePrefix": "Explorar Diretório de IA do Tap4",
-      "titleSuffix": "Diretório de IA do Tap4",
-      "description": "O Diretório de IA do Tap4 é uma ferramenta que fornece um Diretório de Ferramentas de IA gratuito. Obtenha suas ferramentas de IA favoritas com o Diretório de IA do Tap4, o Diretório de IA do Tap4 visa reunir todas as ferramentas de IA e fornecer o melhor para os usuários.",
-      "keywords": "Diretório de IA do Tap4"
+      "title": "Melhores Ferramentas IA Explore 2024 | Diretório de Ferramentas Atlas IA Open Source",
+      "titlePrefix": "Explorar Diretório Atlas IA",
+      "titleSuffix": "Diretório Atlas IA",
+      "description": "O Diretório Atlas IA é uma ferramenta que fornece um Diretório de Ferramentas IA gratuito. Obtenha suas ferramentas IA favoritas com o Diretório Atlas IA, que visa reunir todas as ferramentas IA e fornecer o melhor para os usuários.",
+      "keywords": "Diretório Atlas IA"
     },
     "submit": {
-      "title": "Envie sua ferramenta de IA e obtenha Tráfego | Diretório de IA do Tap4"
+      "title": "Envie sua ferramenta IA e obtenha Tráfego | Diretório Atlas IA"
     }
   }
 }

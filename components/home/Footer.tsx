@@ -31,37 +31,6 @@ function InfoLink({
 export default function Footer() {
   const t = useTranslations('Footer');
 
-  const SupportLinks = [
-    {
-      title: 'Chat o1',
-      href: 'https://chat4o.ai/',
-    },
-    {
-      title: 'Grok Image Generator',
-      href: 'https://grokimagegenerator.net/',
-    },
-    {
-      title: 'Flux AI Image Generator',
-      href: 'https://flux-ai.io/',
-    },
-    {
-      title: 'Photo to Video AI',
-      href: 'https://dreammachineai.online/',
-    },
-    {
-      title: 'Flux Pro Image Generator',
-      href: 'https://flux-pro.net/',
-    },
-    {
-      title: t('tap4'),
-      href: 'https://tap4.ai/',
-    },
-    {
-      title: t('tattoo'),
-      href: 'https://tattooai.design/',
-    },
-  ];
-
   const INFO_LIST = [
     {
       title: t('privacy'),
@@ -75,28 +44,30 @@ export default function Footer() {
 
   return (
     <footer className='w-full bg-[#15141A]'>
-      <div className='mx-auto flex min-h-[251px] max-w-pc flex-col items-center justify-between p-10 pb-5 lg:h-[180px] lg:flex-row lg:px-0 lg:pb-10'>
+      <div className='mx-auto flex min-h-[180px] max-w-pc flex-col items-center justify-between p-10 pb-5 lg:flex-row lg:px-0 lg:pb-10'>
+        {/* 左侧标题部分 */}
         <div className='flex flex-col items-center lg:items-stretch'>
           <p className='text-xl font-bold text-white lg:h-8 lg:text-[32px]'>{t('title')}</p>
           <p className='text-xs'>{t('subTitle')}</p>
         </div>
-        <div className='mt-5 flex flex-col items-center gap-y-5 lg:mt-0 lg:flex-row lg:items-stretch lg:gap-x-10'>
-          <div className='flex w-full flex-col gap-2'>
-            <p className='font-bold'>{t('support')}</p>
-            {SupportLinks.map((item) => (
-              <a
-                href={item.href}
-                key={item.href}
-                target='_blank'
-                rel='noreferrer'
-                className='text-xs hover:opacity-70 lg:text-sm'
-                title={item.title}
-              >
-                {item.title}
-              </a>
-            ))}
-          </div>
-          <div className='grid grid-cols-2 gap-x-10 gap-y-5 lg:grid-cols-1 lg:gap-3'>
+
+        {/* 右侧链接部分 */}
+        <div className='mt-5 flex flex-col items-center gap-5 lg:mt-0 lg:flex-row lg:items-start lg:gap-10'>
+          {/* 社交媒体链接 */}
+          <a
+            href='https://x.com/msjiaozhu' // 替换成你的 Twitter 链接
+            target='_blank'
+            rel='noreferrer'
+            className='flex items-center gap-2 text-xs hover:opacity-70 lg:text-sm'
+          >
+            <svg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg' width='24' height='24' fill='currentColor'>
+              <path d='M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z' />
+            </svg>
+            {/* <span>Twitter</span> */}
+          </a>
+
+          {/* 信息链接和联系方式 */}
+          <div className='flex flex-row gap-3'>
             {INFO_LIST.map((item) => (
               <InfoLink key={item.href} href={item.href} title={item.title} />
             ))}

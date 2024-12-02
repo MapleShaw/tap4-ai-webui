@@ -19,10 +19,10 @@ export default function Faq() {
     <div className='mx-auto max-w-pc space-y-8 pb-5'>
       <h2 className='text-center text-2xl font-bold lg:pb-3 lg:text-3xl'>{t('title')}</h2>
       <div className='grid grid-cols-1 gap-5 px-3 lg:grid-cols-2 lg:gap-16 lg:px-0'>
-        <div>
+        {/* <div>
           <TitleItem>{t('1.question')}</TitleItem>
           <ContentItem>{t('1.answer')}</ContentItem>
-        </div>
+        </div> */}
         <div>
           <TitleItem>{t('2.question')}</TitleItem>
           <ContentItem>{t('2.answer-1')}</ContentItem>
@@ -62,10 +62,10 @@ export default function Faq() {
           <TitleItem>{t('10.question')}</TitleItem>
           <ContentItem>{t('10.answer')}</ContentItem>
         </div>
-        <div>
+        {/* <div>
           <TitleItem>{t('11.question')}</TitleItem>
           <ContentItem>{t('11.answer')}</ContentItem>
-        </div>
+        </div> */}
       </div>
     </div>
   );

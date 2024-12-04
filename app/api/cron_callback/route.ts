@@ -81,6 +81,8 @@ export async function POST(req: NextRequest) {
         thumbnail_url: screenshot_thumbnail_data,
         tag_name: tags && tags.length ? tags[0] : 'other',
         category_name: tags && tags.length ? tags[0] : 'other',
+        collection_time: new Date().toISOString(),
+        star_rating: 0,
         title,
         url,
       });

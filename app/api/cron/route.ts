@@ -15,7 +15,7 @@ import crawler from './crawler';
 // update submit table status
 export const dynamic = 'force-dynamic';
 
-export async function GET(req: NextRequest) {
+export async function POST(req: NextRequest) {
   try {
     // 获取请求头中的 Authorization
     const authHeader = req.headers.get('Authorization');

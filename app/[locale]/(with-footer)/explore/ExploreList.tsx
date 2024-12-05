@@ -21,6 +21,7 @@ export default async function ExploreList({ pageNum }: { pageNum?: string }) {
     supabase
       .from('web_navigation')
       .select('*', { count: 'exact' })
+      .order('star_rating', { ascending: false })
       .order('collection_time', { ascending: false })
       .range(start, end),
   ]);

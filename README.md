@@ -7,10 +7,6 @@ suitable for learners interested in NextJs. Everyone is welcome to fork and star
 
 [Simplified Chinese](https://github.com/6677-ai/tap4-ai-webui/blob/main/README.zh-CN.md) | English
 
-## Support Tap4 AI in Product Hunt
-
-<a href="https://www.producthunt.com/posts/ai-tools-directory-by-tap4-ai?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ai&#0045;tools&#0045;directory&#0045;by&#0045;tap4&#0045;ai" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=464357&theme=light" alt="AI&#0032;Tools&#0032;Directory&#0032;by&#0032;Tap4&#0032;AI - Open&#0045;source&#0032;AI&#0032;navigation&#0032;&#0038;&#0032;discovery&#0032;with&#0032;multi&#0045;language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
 ## Version 2.0.0 Update Notes
 
 - AI site data is stored using a supabase database.
@@ -43,13 +39,7 @@ click to switch to the [version 1.0.0 branch](https://github.com/6677-ai/tap4-ai
 
 ## Follow and Support Links
 
-Please follow our Twitter: https://x.com/tap4ai
-
-If you find the project helpful, please consider buying me a coffee:
-
-<a href="https://www.buymeacoffee.com/tap4ai0o" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-If you are interested in the project, please add my WeChat: helloleo2023, note: "tap4 ai open source"
+Please follow my X: https://x.com/msjiaozhu
 
 ## Deployment Instructions
 
@@ -79,7 +69,7 @@ NEXT_PUBLIC_SITE_URL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY writ
 
 ```sh
 # Your domain
-NEXT_PUBLIC_SITE_URL="https://tap4.ai"
+NEXT_PUBLIC_SITE_URL="https://aiatlas.tech"
 
 # Google tracking ID and ad URL
 GOOGLE_TRACKING_ID="G-XXXXXXX" GOOGLE_ADSENSE_URL="https://xxxx.googlesyndication.com/xxxxx/xxxxx"
@@ -144,7 +134,7 @@ NEXT_PUBLIC_SITE_URL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY writ
 
 ```sh
 # Your domain
-NEXT_PUBLIC_SITE_URL="https://tap4.ai"
+NEXT_PUBLIC_SITE_URL="https://aiatlas.tech"
 
 # Google tracking ID and ad URL
 GOOGLE_TRACKING_ID="G-XXXXXXX" GOOGLE_ADSENSE_URL="https://xxxx.googlesyndication.com/xxxxx/xxxxx"
@@ -201,84 +191,9 @@ Due to compatibility issues with different site anti-crawling mechanisms, the cr
 such issues, you currently need to manually query the database submit table, and then manually create the relevant
 website content and insert it into the web_navigation table.
 
-### How to get the ai tools for project initialization?
+## Wanna submit your website on aiatlas.tech?
 
-You can get the 13000+ AIs from Tap4 AI collected from other AI Tools Directory in
-[AI Source List](https://github.com/6677-ai/tap4-ai-webui/blob/main/ai_source_list)
-
-## Wanna submit your website on Tap4.ai?
-
-Open: [Tap4 AI](https://tap4.ai)
-
-### Wanna add you website to our `/startup` page?
-
-- open an issue here: [TAP4-AI-Directory](https://github.com/6677-ai/TAP4-AI-Directory/issues)
-- email us: mapleshaw@gmail.com
-
-## Links to our products
-
-### AI Video Online - Advanced AI Video All in One
-
-[AI Video Online](https://videoweb.ai/)
-More about AI Video Online:
-https://www.zhihu.com/pin/1835046959477567488
-
-### Flux Pro AI - Free Online Flux.1 AI Image Generator
-
-[Flux 1.1 Pro](https://fluxproweb.com/)
-More about Flux Pro AI
-https://www.zhihu.com/pin/1832771259513069568
-
-
-### Free Stable Diffusion 3 Online Tool
-
-[Free Stable Diffusion 3 Online](https://stable-diffusion-3.online)
-
-### Free Tiny Png Tool
-
-[Free Type Png Tool](https://freetinypng.com)
-
-### Flux AI - Flux.1 AI Image Generator
-
-[Flux AI](https://flux-ai.io/)
-
-
-#### More API
-
-### Photo to Video AI
-
-Photo to Video AI is currently available for free experience, please visit
-[Photo to Video AI](https://dreammachineai.online/)
-
-### Flux Pro Image Generator
-
-Flux Pro Image Generator is currently available for free experience, please visit
-[Flux Pro Image Generator](https://flux-pro.net/)
-
-### Chat o1
-
-Chatbot build with openai o1 and chatgpt 4o, please visit
-[Chat O1](https://chat4o.ai/)
-
-### Grok Image Generator
-
-Grok Image Generator with flux ai, please visit
-[Grok Image Generator](https://grokimagegenerator.net/))
-
-### Free Stable Diffusion 3 Online
-
-Stable Diffusion 3 Medium is currently available for free experience, please visit
-[Free Stable Diffusion 3 Online](https://stable-diffusion-3.online/)
-
-### The Tattoo AI Generator and Design
-
-Tattao AI Design is a tattoo ai generator and design for the tattoo fans. If you are interested with it, visit
-[Tattoo AI Design](https://tattooai.design)
-
-### Claude 3.5 Sonnet
-
-Claude 3.5 Sonnet is the most powerful llm model released by Claude AI. If you are interested with it, visit
-[Tattoo AI Design](https://claude35.org/)
+Open: [aiatlas.tech](https://aiatlas.tech/submit)
 
 ## Other open source
 

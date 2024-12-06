@@ -6,10 +6,6 @@
 
 [English](https://github.com/6677-ai/tap4-ai-webui/blob/main/README.md) | 简体中文
 
-## 请在Product Hunt支持下Tap4 AI
-
-<a href="https://www.producthunt.com/posts/ai-tools-directory-by-tap4-ai?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ai&#0045;tools&#0045;directory&#0045;by&#0045;tap4&#0045;ai" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=464357&theme=light" alt="AI&#0032;Tools&#0032;Directory&#0032;by&#0032;Tap4&#0032;AI - Open&#0045;source&#0032;AI&#0032;navigation&#0032;&#0038;&#0032;discovery&#0032;with&#0032;multi&#0045;language | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
 ## v2.0.0版本更新说明
 
 - AI站点数据采用supabase数据库存储
@@ -42,14 +38,7 @@
 
 ## 感谢关注链接
 
-欢迎关注我们的Twitter: https://x.com/tap4ai
-
-如果觉得项目对你有帮助，欢迎请我喝杯咖啡：
-
-<a href="https://www.buymeacoffee.com/tap4ai0o" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-如果你对项目有兴趣，欢迎添加我微信: helloleo2023, 备注: "tap4 ai开源"，也可以扫描二维码:
-![tap4-ai-wx](./public/images/tap4-ai-wechat.jpg)
+欢迎关注我的 X: https://x.com/msjiaozhu
 
 ## 部署说明
 
@@ -74,7 +63,7 @@ NEXT_PUBLIC_SITE_URL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY，�
 
 ```sh
 # Your domain
-NEXT_PUBLIC_SITE_URL="https://tap4.ai"
+NEXT_PUBLIC_SITE_URL="https://aiatlas.tech"
 
 # Google tracking ID and ad URL
 GOOGLE_TRACKING_ID="G-XXXXXXX" GOOGLE_ADSENSE_URL="https://xxxx.googlesyndication.com/xxxxx/xxxxx"
@@ -136,7 +125,7 @@ NEXT_PUBLIC_SITE_URL,NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY，�
 
 ```sh
 # Your domain
-NEXT_PUBLIC_SITE_URL="https://tap4.ai"
+NEXT_PUBLIC_SITE_URL="https://aiatlas.tech"
 
 # Google tracking ID and ad URL
 GOOGLE_TRACKING_ID="G-XXXXXXX"
@@ -195,52 +184,9 @@ pnpm dev
 - 由于不同站点反爬虫机制的兼容性原因，目前爬虫可能出现加载失败的情况，此类问题目前需要手动去查询数据库submit表，然后手动
   去创建网站相关的内容，插入到web_navigation数据表中
 
-### 如何获得初始化需要的AI工具列表？
+## 打算在 aiatlas.tech 上提交您的网站？
 
-可以通过Tap4 AI开源的来自其他导航站的13000+个AI工具列表导入(支持sql和csv)：
-[AI Source List](https://github.com/6677-ai/tap4-ai-webui/blob/main/ai_source_list)
-
-## 打算在 Tap4.ai 上提交您的网站？
-
-请打开：[Tap4 AI](https://tap4.ai/submit)
-
-### 打算将您的网站添加到我们的 `/startup` 页面？
-
-- 在这里打开一个问题：[TAP4-AI-Directory](https://github.com/6677-ai/TAP4-AI-Directory/issues)
-- 给我们发邮件：[mapleshaw@gmail.com](mailto:mapleshaw@gmail.com)
-
-## 我们产品的链接
-
-### TAP4-AI-Directory
-
-全球AI工具的集合。| 收集免费的ChatGPT镜像、替代品、prompt、其他AI工具等。欲了解更多信息，请访
-问：[Tap4 AI](https://tap4.ai)
-
-### 如何在网站列表中获得您的首批用户
-
-这是提交您的产品以获取用户的网站列表。请访问
-[Launch Your Product](https://github.com/6677-ai/TAP4-AI-Directory/blob/main/Startup-Your-Product-List.md)
-
-### Flux AI Image Generator
-
-Flux AI Image Generator现在支持免费体验，欢迎点击访问： [Flux AI Image Generator](https://flux-ai.io/)
-
-### Photo to Video AI
-
-Photo to Video AI现在支持免费体验，欢迎点击访问： [Photo to Video AI](https://dreammachineai.online/)
-
-### Flux Pro Image Generator
-
-Flux Pro Image Generator现在支持免费体验，欢迎点击访问： [Flux Pro Image Generator](https://flux-pro.net/)
-
-### Free Stable Diffusion 3 Online
-
-Stable Diffusion 3 Medium目前可以免费体验，欢迎点击访问：
-[Free Stable Diffusion 3 Online](https://stable-diffusion-3.online/)
-
-### The Tattoo AI Generator and Design
-
-Tattao AI Design是为纹身爱好者设计的纹身ai生成器，欢迎点击访问： [Tattoo AI Design](https://tattooai.design)
+请打开：[Tap4 AI](https://aiatlas.tech/submit)
 
 ## 其他开源项目
 

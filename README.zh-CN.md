@@ -6,6 +6,8 @@
 
 [English](https://github.com/6677-ai/tap4-ai-webui/blob/main/README.md) | 简体中文
 
+Demo 🌍[AI Atlas](https://aiatlas.tech)
+
 ## v2.0.0版本更新说明
 
 - AI站点数据采用supabase数据库存储
@@ -34,7 +36,7 @@
 
 ## 前端页面截图
 
-![tai4-ai](./public/images/tap4ai.zh-CN.png)
+![tai4-ai](./public/images/aiatlas.zh-CN.png)
 
 ## 感谢关注链接
 
@@ -186,7 +188,7 @@ pnpm dev
 
 ## 打算在 aiatlas.tech 上提交您的网站？
 
-请打开：[Tap4 AI](https://aiatlas.tech/submit)
+请打开：[AI Atlas](https://aiatlas.tech/submit)
 
 ## 其他开源项目
 

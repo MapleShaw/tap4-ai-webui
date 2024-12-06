@@ -7,6 +7,8 @@ suitable for learners interested in NextJs. Everyone is welcome to fork and star
 
 [Simplified Chinese](https://github.com/6677-ai/tap4-ai-webui/blob/main/README.zh-CN.md) | English
 
+Demo 🌍[AI Atlas](https://aiatlas.tech)
+
 ## Version 2.0.0 Update Notes
 
 - AI site data is stored using a supabase database.
@@ -35,7 +37,7 @@ click to switch to the [version 1.0.0 branch](https://github.com/6677-ai/tap4-ai
 
 ## Front-end Page Screenshot
 
-![tap4-ai](./public/images/tap4ai.zh-CN.png)
+![tap4-ai](./public/images/aiatlas.png)
 
 ## Follow and Support Links
 

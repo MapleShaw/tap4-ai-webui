@@ -1,53 +1,39 @@
 import { type MetadataRoute } from 'next';
 import { createClient } from '@/db/supabase/client';
 
-// import { locales } from '@/i18n';
-
 import { BASE_URL } from '@/lib/env';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const supabase = createClient();
 
-  // 获取所有工具数据
-  const { data: tools } = await supabase
-    .from('web_navigation')
-    .select('name')
-    .order('collection_time', { ascending: false });
-
-  // 计算需要多少个子 sitemap
+  // 获取工具总数
   const { count } = await supabase.from('web_navigation').select('*', { count: 'exact', head: true });
 
   // 主要路由
   const mainRoutes: MetadataRoute.Sitemap = [
     {
-      url: BASE_URL,
-      lastModified: new Date(),
-      changeFrequency: 'daily' as const,
-      priority: 1,
-    },
-    {
-      url: '', // home
+      url: `${BASE_URL}`,
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 1,
     },
     {
-      url: 'explore',
+      url: `${BASE_URL}/explore`,
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 1,
     },
     {
-      url: 'submit',
+      url: `${BASE_URL}/submit`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
-      priority: 0.8,
+      priority: 1,
     },
     {
-      url: 'startup',
+      url: `${BASE_URL}/startup`,
       lastModified: new Date(),
       changeFrequency: 'daily',
-      priority: 0.8,
+      priority: 1,
     },
   ];
 
@@ -55,8 +41,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const URLS_PER_SITEMAP = 1000;
   const sitemapCount = Math.ceil((count || 0) / URLS_PER_SITEMAP);
 
-  // 如果工具数量小于1000,直接返回单个sitemap
-  if (!tools || tools.length <= URLS_PER_SITEMAP) {
+  // 如果工具数量小于1000，直接获取所有工具并返回单个sitemap
+  if (count && count <= URLS_PER_SITEMAP) {
+    const { data: tools } = await supabase
+      .from('web_navigation')
+      .select('name')
+      .order('collection_time', { ascending: false });
+
     return [
       ...mainRoutes,
       ...(tools || []).map((tool) => ({
@@ -68,31 +59,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ];
   }
 
-  // 生成子 sitemap 引用
+  // 如果工具数量大于1000，返回sitemap索引
   const sitemapIndexes = Array.from({ length: sitemapCount }, (_, i) => ({
     url: `${BASE_URL}/sitemaps/tools-${i + 1}`,
     lastModified: new Date(),
   }));
 
   return [...mainRoutes, ...sitemapIndexes];
-
-  // const sitemapData = sitemapRoutes.flatMap((route) =>
-  //   locales.map((locale) => {
-  //     // 移除开头的斜杠，并正确处理空字符串情况
-  //     const lang = locale === 'en' ? '' : locale;
-  //     const routeUrl = route.url;
-
-  //     // 构建完整URL，处理各种组合情况
-  //     const fullPath = [BASE_URL.replace(/\/$/, ''), lang, routeUrl]
-  //       .filter(Boolean) // 移除空字符串
-  //       .join('/'); // 用单个斜杠连接
-
-  //     return {
-  //       ...route,
-  //       url: fullPath,
-  //     };
-  //   }),
-  // );
-
-  // return sitemapData;
 }

@@ -1,5 +1,4 @@
 Sitemap: https://www.aiatlas.tech/sitemap.xml
-Sitemap: https://www.aiatlas.tech/sitemaps/tools-1
 
 User-agent: *
 Allow: /

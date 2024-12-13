@@ -1,9 +1,10 @@
-import { NextResponse } from 'next/server';
+import { NextRequest, NextResponse } from 'next/server';
 import { createClient } from '@/db/supabase/client';
 
 import { BASE_URL } from '@/lib/env';
 
-export default async function GET(request: Request, { params }: { params: { slug: string[] } }) {
+/* eslint-disable import/prefer-default-export */
+export const GET = async (request: NextRequest, { params }: { params: { slug: string[] } }) => {
   const slug = params.slug.join('/'); // 例如: "tools-1"
   const page = parseInt(slug.replace('tools-', ''), 10);
 
@@ -37,11 +38,11 @@ export default async function GET(request: Request, { params }: { params: { slug
         .join('')}
     </urlset>`;
 
-  return new NextResponse(sitemap, {
+  return new Response(sitemap, {
     headers: {
       'Content-Type': 'application/xml',
       // 添加缓存控制以提高性能
       'Cache-Control': 'public, max-age=3600, s-maxage=3600',
     },
   });
-}
+};

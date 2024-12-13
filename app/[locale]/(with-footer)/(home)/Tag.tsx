@@ -2,7 +2,11 @@ import Link from 'next/link';
 
 export function TagItem({ children }: { children: React.ReactNode }) {
   return (
-    <div className='flex h-[38px] items-center justify-center gap-[2px] whitespace-nowrap rounded-full bg-[#2C2D36] px-3 text-xs'>
+    <div
+      className='flex h-[42px] items-center justify-center gap-[2px] whitespace-nowrap rounded-full
+    border border-gray-700/50 bg-[#2C2D36] px-4 text-sm font-medium
+    transition-colors hover:bg-[#3A3B45]'
+    >
       {children}
     </div>
   );

@@ -48,12 +48,16 @@ export default async function Page() {
 
   return (
     <div className='relative w-full'>
+      {/* 添加渐变背景 */}
+      <div className='absolute inset-0 h-[600px] bg-gradient-to-b from-[#2C2D36] via-[#2d1b42] to-transparent opacity-50' />
       <div className='relative mx-auto w-full max-w-pc flex-1 px-3 lg:px-0'>
-        <div className='my-5 flex flex-col text-center lg:mx-auto lg:my-10 lg:gap-1'>
-          <h1 className='text-2xl font-bold text-white lg:text-5xl'>{t('title')}</h1>
-          <h2 className='text-balance text-xs font-bold text-white lg:text-sm'>{t('subTitle')}</h2>
+        <div className='my-10 flex flex-col text-center lg:mx-auto lg:my-20 lg:max-w-[800px]'>
+          <h1 className='bg-gradient-to-r from-[#FF8BFF] via-[#89C4FF] to-[#7AFFAF] bg-clip-text text-3xl font-bold text-transparent lg:text-6xl'>
+            {t('title')}
+          </h1>
+          <h2 className='mt-4 text-balance text-sm font-medium text-white/80 lg:text-xl'>{t('subTitle')}</h2>
         </div>
-        <div className='flex w-full items-center justify-center'>
+        <div className='mx-auto mb-16 flex w-full max-w-[600px] items-center justify-center px-4'>
           <SearchForm />
         </div>
         <div className='mb-10 mt-5'>

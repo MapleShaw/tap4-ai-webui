@@ -22,11 +22,12 @@ export const GET = async (request: NextRequest, { params }: { params: { slug: st
     .range(start, start + URLS_PER_SITEMAP - 1)
     .order('collection_time', { ascending: false });
 
+  // prettier-ignore
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     ${(tools || [])
-      .map(
-        (tool) => `
+    .map(
+      (tool) => `
       <url>
         <loc>${BASE_URL}/ai/${tool.name}</loc>
         <lastmod>${new Date().toISOString()}</lastmod>
@@ -34,8 +35,8 @@ export const GET = async (request: NextRequest, { params }: { params: { slug: st
         <priority>0.8</priority>
       </url>
       `,
-      )
-      .join('')}
+    )
+    .join('')}
     </urlset>`;
 
   return new Response(sitemap, {

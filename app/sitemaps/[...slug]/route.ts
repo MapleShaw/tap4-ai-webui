@@ -14,7 +14,6 @@ export const GET = async (request: NextRequest, { params }: { params: { slug: st
 
   const URLS_PER_SITEMAP = 1000;
   const start = (page - 1) * URLS_PER_SITEMAP;
-
   const supabase = createClient();
   const { data: tools } = await supabase
     .from('web_navigation')

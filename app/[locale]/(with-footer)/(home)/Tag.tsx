@@ -12,20 +12,20 @@ export function TagItem({ children }: { children: React.ReactNode }) {
   );
 }
 
-export function TagLink({ name, href }: { name: string; href: string }) {
+export function TagLink({ name, title, href }: { name: string; title: string; href: string }) {
   return (
     <Link href={href} title={name}>
-      <TagItem>{name}</TagItem>
+      <TagItem>{title}</TagItem>
     </Link>
   );
 }
 
-export function TagList({ data }: { data: { name: string; href: string; id: string }[] }) {
+export function TagList({ data }: { data: { name: string; title: string; href: string; id: string }[] }) {
   return (
     <ul className='no-scrollbar flex max-w-full flex-1 items-center gap-3 overflow-auto'>
       {data.map((item) => (
         <li key={item.href}>
-          <TagLink name={item.name} href={item.href} />
+          <TagLink name={item.name} title={item.title} href={item.href} />
         </li>
       ))}
     </ul>

@@ -88,6 +88,9 @@ CRON_AUTH_KEY="keyxxxx"
 # Submit API verification key
 SUBMIT_AUTH_KEY="xxxx"
 
+# Groq API key
+GROQ_API_KEY="xxxx"
+
 ```
 
 **注：此版本采用了vercel的定时任务用来自动读取自动提交的网站并生成网站结果**

@@ -125,7 +125,9 @@
     "checkDetail": "查看详情",
     "search": "搜索",
     "result": "搜索结果",
-    "empty": "暂无数据"
+    "empty": "暂无数据",
+    "hotTools": "精选推荐",
+    "newTools": "新品首发"
   },
   "Category": {
     "home": "首页",

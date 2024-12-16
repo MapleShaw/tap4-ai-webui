@@ -1,151 +1,153 @@
 {
   "Common": {
-    "loading": "loading..."
+    "loading": "Loading..."
   },
   "Navigation": {
-    "title": "All AI Tools. One Atlas.",
+    "title": "AI Efficiency Tool Map: Make AI Easy for Everyone",
     "discover": "Discover AI",
     "submit": "Submit",
     "newtools": "New Tools",
     "startup": "Startup",
-    "menu": "menu"
+    "menu": "Menu"
   },
   "Footer": {
-    "title": "All AI Tools. One Atlas.",
-    "subTitle": "Your Curated Guide to Discover and Leverage Top AI Tools for Peak Productivity!",
+    "title": "AI Efficiency Tool Map: Make AI Easy for Everyone",
+    "subTitle": "Your Professional Guide to Discover and Utilize Top AI Tools to Boost Productivity!",
     "support": "Support",
-    "tap4": "AI Atlas",
+    "tap4": "AI Map",
     "tattoo": "AI Tattoo Generator",
-    "privacy": "Privacy policy",
-    "termsConditions": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "termsConditions": "Terms and Conditions",
     "contactUs": "Contact Us"
   },
   "Faq": {
-    "title": "Frequently Asked Questions",
     "1": {
-      "question": "What is Open-source AI Atlas Tools Directory?",
-      "answer": "AI Atlas Tools Directory - tap4.ai is building an ai tools directory that helps you get your favorite ai tools. It can get ai writing tools, ai markting tools, ai paraphrasing tools, ai seo tools, ai study tools, ai generator tools, ai research tools, ai art tools, ai music tools, ai video tools, ai coding tools, ai photo tools and more here."
+      "question": "What is the Open-Source AI Tool Directory?",
+      "answer": "AI Tool Directory - tap4.ai is building an AI tool directory to help you get your favorite AI tools. You can find AI writing tools, AI marketing tools, AI rewriting tools, AI SEO tools, AI learning tools, AI generation tools, AI research tools, AI art tools, AI music tools, AI video tools, AI coding tools, AI image tools, and more."
     },
     "2": {
-      "question": "How to found your ai tools in AI Atlas tools directory?",
-      "answer-1": "1. Open aiatlas.ai.",
-      "answer-2": "2. Explore the ai tools in the AI Atlas tools directory.",
-      "answer-3": "3. Click the ai tools that you need to get the detail and visit it."
+      "question": "How to find your AI tool in the AI Tool Directory?",
+      "answer-1": "1. Open aiatlas.ai",
+      "answer-2": "2. Browse AI tools in the AI Tool Directory",
+      "answer-3": "3. Click on the AI tool you need, view details and access it"
     },
     "3": {
-      "question": "What are the main features of AI Atlas tools directory?",
-      "answer-1": "1. Free AI Tools Directory: It's free to found your favorite AI Tools here.",
-      "answer-2": "2. Startup List: The free startup list for ai tools developers."
+      "question": "What are the main features of the AI Tool Directory?",
+      "answer-1": "1. Free AI Tool Directory: Find your favorite AI tools for free",
+      "answer-2": "2. Startup Company List: Free startup company list for AI tool developers"
     },
     "4": {
-      "question": "Is it free to submit ai tools to AI Atlas tools directory?",
-      "answer": "Yes, it's free currently. But you should share the backlink for AI Atlas tools directory!"
+      "question": "Is submitting an AI tool to the AI Tool Directory free?",
+      "answer": "Yes, it's free for now. But you should share the reverse link of the AI Tool Directory!"
     },
     "5": {
-      "question": "What's the categories list of AI Tools that AI Atlas tools directory support?",
-      "answer": "We will support all kinds of AI Tools later. Please wait for a few days."
+      "question": "What types of AI tools does the AI Tool Directory support?",
+      "answer": "We will support all types of AI tools soon. Please wait for a few days."
     },
     "6": {
-      "question": "What's the frequency for the up of AI tools in AI Atlas tools directory?",
-      "answer": "The list of AI tools will be updated daily."
+      "question": "How often is the AI tool list updated?",
+      "answer": "The AI tool list will be updated daily."
     },
     "7": {
-      "question": "Is it support GPT-4o or Sora AI here?",
-      "answer": "You can get the GPT-4o or Sora AI tool here. Here is the introduction of GPT-4o and Sora video, and you can visit the website of the tools."
+      "question": "Does the AI Map support GPT-4o or Sora AI?",
+      "answer": "You can get GPT-4o or Sora AI tools here. There are introductions to GPT-4o and Sora video tools, and you can access the tool's website."
     },
     "8": {
       "question": "Troubleshooting",
-      "answer": "If the content aren't appearing, try a different browser, clear your cache. If issues persist, contact us at mapleshaw@gmail.com."
+      "answer": "If the content doesn't appear, try using another browser, clear cache. If the problem still exists, contact us: mapleshaw@gmail.com"
     },
     "9": {
-      "question": "How does the content of AI Atlas tools directory get generated?",
-      "answer": "The content of the description of the ai tools is generated by Claude from Anthropic."
+      "question": "How is the content of the AI Tool Directory generated?",
+      "answer": "The description content of AI tools is generated by Anthropic's Claude."
     },
     "10": {
-      "question": "What are the usage rights of the AI tools?",
-      "answer": "AI Atlas tools directory is just the AI Directory for AI tools. The usage rights of the AI tools are based on the AI tools' website."
+      "question": "What are the usage rights of AI tools?",
+      "answer": "The AI Tool Directory is just a directory of AI tools. The usage rights of AI tools are based on the AI tool's website."
     },
     "11": {
-      "question": "Does the webui of AI Atlas Directory is open source?",
-      "answer": "Yes, we will open source the webui of AI Atlas Directory in the github(https://github.com/6677-ai/tap4-ai-webui). Please star us."
-    }
+      "question": "Is the Web UI of the AI Map open-source?",
+      "answer": "Yes, we will open-source the Web UI of the AI Map on GitHub (https://github.com/6677-ai/tap4-ai-webui). Please give us a star."
+    },
+    "title": "Frequently Asked Questions"
   },
   "FooterNavigation": {
     "privacyPolicy": {
-      "1-h1": "Privacy Policy for Open-source AI Atlas Tools Directory",
-      "1-p": "This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.",
+      "1-h1": "Open-Source AI Tool Directory Privacy Policy",
+      "1-p": "This page is used to notify visitors regarding our policies with the collection, use, and disclosure of personal information. If you choose to use our service, then you agree to the collection and use of information related to this policy. We collect personal information to provide and improve our service. Unless otherwise stated in this privacy policy, we will not share your information with anyone.",
       "2-h2": "1. Information Collection and Use",
-      "2-p": "For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. The app does use third-party services that may collect information used to identify you.",
+      "2-p": "To provide better service, we may request certain personally identifiable information when you use our service. The information we request will be stored on your device, and we will not collect it in any way. This application uses third-party services that may collect information used to identify you.",
       "3-h2": "2. Log Data",
-      "3-p": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ('IP') address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "3-p": "I want to inform you that every time you use our service, we collect data and information (through third-party products) when an error occurs in the application on your phone. This log data may include your device's IP address, device name, operating system version, configuration, time and date of use, and other statistical information.",
       "4-h2": "3. Cookies",
-      "4-p": "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these \"cookies\" explicitly. However, the app may use third party code and libraries that use \"cookies\" to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",
+      "4-p": "Cookies are files with small amounts of data, usually used as anonymous unique identifiers. These data are sent to your browser from the website you visit and stored on your device's memory. This service does not explicitly use these 'cookies'. However, this application may use third-party code and libraries that use 'cookies' to collect information and improve their service.",
       "5-h2": "4. Service Providers",
-      "5-p-1": "I may employ third-party companies and individuals due to the following reasons:",
-      "5-li-1": "To facilitate our Service;",
-      "5-li-2": "To provide the Service on our behalf;",
-      "5-li-3": "To perform Service-related services;",
-      "5-li-4": "To assist us in analyzing how our Service is used;",
-      "5-p-2": "I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.",
+      "5-p-1": "We may employ third-party companies and individuals for the following reasons:",
+      "5-li-1": "To facilitate our service;",
+      "5-li-2": "To provide service on our behalf;",
+      "5-li-3": "To perform services related to our service;",
+      "5-li-4": "To help us analyze how our service is used;",
+      "5-p-2": "I want to inform users of this service that these third parties have access to your personal information. The reason is that they are performing tasks assigned to them on our behalf. However, they have an obligation not to disclose or use this information for any other purpose.",
       "6-h2": "5. Security",
-      "6-p": "I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.",
+      "6-p": "I value the trust you place in us by providing personal information, so we are committed to using commercially acceptable means to protect it. However, please remember that no method of transmission over the internet or electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.",
       "7-h2": "6. Links to Other Sites",
-      "7-p": "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.",
+      "7-p": "This service may contain links to other websites. If you click on a third-party link, you will be directed to that website. Please note that these external websites are not operated by us. Therefore, I strongly advise you to review the privacy policies of these websites. I am not responsible for the content, privacy policies, or practices of any third-party website or service.",
       "8-h2": "7. Changes to This Privacy Policy",
-      "8-p": "I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page."
+      "8-p": "I may update our privacy policy from time to time. Therefore, I suggest you review this page periodically for any changes. I will notify you of any changes by posting the new privacy policy on this page. These changes are effective as soon as they are posted on this page."
     },
     "termsConditions": {
-      "1-h1": "Terms of Service for AI Atlas Directory",
-      "1-p": "Welcome to AI Atlas Directory! Our website, located at https://tap4.ai (\"Website\"), is dedicated to providing you with the ability to create custom images. By accessing or using our Website, you agree to be bound by these Terms of Service (\"Terms\"). If you do not agree with any part of the terms, then you are prohibited from using the Website.",
-      "2-h2": "1. Use License",
-      "2-p": "You are granted a limited, non-exclusive, non-transferable license to use the Website and its services for personal, non-commercial purposes. This license does not include any rights to copy, modify, or distribute the Website's content or use it for commercial purposes without our prior written consent.",
+      "1-h1": "AI Tool Directory Service Terms",
+      "1-p": "Welcome to the AI Tool Directory! Our website is located at https://tap4.ai ('Website'), dedicated to providing you with the ability to create custom images. By accessing or using our website, you agree to be bound by these service terms ('Terms'). If you do not agree to any term, then you are prohibited from using this website.",
+      "2-h2": "1. License to Use",
+      "2-p": "You are granted a limited, non-exclusive, non-transferable license to use this website and its services for personal, non-commercial purposes. This license does not include any right to copy, modify, or distribute the content of this website or use it for commercial purposes without our prior written consent.",
       "3-h2": "2. Ownership",
-      "3-p": "The ownership of images generated from text on the Website belongs to the person who created the image. Tap4.ai claims no ownership over images created by users.",
+      "3-p": "The ownership of images generated from text on the website belongs to the creator of the image. Tap4.ai does not claim ownership of user-created images.",
       "4-h2": "3. User Data Collection",
-      "4-p": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at",
-      "terms-of-service": "terms-of-service",
+      "4-p": "We collect personal data (name, email, and payment information) and non-personal data (web page cookies) to improve our service. The use of this data is subject to our privacy policy, which can be found at",
+      "terms-of-service": "Terms of Service",
       "5-h2": "4. Governing Law",
-      "5-p": "These Terms shall be governed and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.",
+      "5-p": "These terms shall be governed by and construed in accordance with the laws of the United States, without giving effect to any principles of conflicts of law.",
       "6-h2": "5. Changes to Terms",
-      "6-p": "AI Atlas Directory reserves the right, at our sole discretion, to modify or replace these Terms at any time. We will notify users of any changes by email. Your continued use of the Website after any change in these Terms will constitute your acceptance of such changes.",
+      "6-p": "The AI Tool Directory reserves the right to modify or replace these terms at any time without notice. We will notify users of any changes by posting the new terms on this page. These changes are effective as soon as they are posted on this page.",
       "7-h2": "6. Contact Information",
-      "7-p": "If you have any questions about these Terms, please contact us at contact@6677.ai.",
-      "last-p": "By using AI Atlas Directory, you signify your acceptance of these Terms of Service."
+      "7-p": "If you have any questions about these terms, please contact us: contact@6677.ai",
+      "last-p": "By using the AI Tool Directory, you acknowledge that you have read, understood, and agree to be bound by these terms."
     }
   },
   "NotFound": {
     "title": "404 Not Found",
-    "goHome": "go home"
+    "goHome": "Go Home"
   },
   "Home": {
-    "title": "All AI Tools. One Atlas.",
-    "subTitle": "Your Curated Guide to Discover and Leverage Top AI Tools for Peak Productivity",
-    "ai-navigate": "AI Tools List",
+    "title": "AI Efficiency Tool Map: Make AI Easy for Everyone",
+    "subTitle": "Your Professional Guide to Discover and Utilize Top AI Tools to Boost Productivity",
+    "ai-navigate": "AI Tool List",
     "exploreMore": "Get More AI Tools",
-    "checkDetail": "View Detail",
+    "checkDetail": "View Details",
     "search": "Search",
     "result": "Search Result",
-    "empty": "No data available"
+    "empty": "No Data",
+    "hotTools": "Hot Recommended",
+    "newTools": "New Arrival"
   },
   "Category": {
-    "home": "home",
-    "empty": "No data available"
+    "home": "Home",
+    "empty": "No Data"
   },
   "Submit": {
-    "title": "Submit your AI Tool",
-    "subTitle": "Submit your AI Tool and Get traffic from AI Atlas Tools Directory",
+    "title": "Submit Your AI Tool",
+    "subTitle": "Submit Your AI Tool and Get Traffic from the AI Tool Directory",
     "website": "Website Name",
     "url": "Website URL",
     "submit": "Submit",
     "add": "Add",
-    "text": "to your website homepage, And then you can submit your website successfully for free！",
+    "text": "Go to your website's homepage, and then you can successfully submit your website for free!",
     "networkError": "Network Error",
-    "success": "success"
+    "success": "Success"
   },
   "Startup": {
-    "title": "Kickstart Your Startup Launch",
-    "subTitle": "The Ultimate List of Websites to Launch and Promote Your Startup Online. For adding to the list or helping to submit for your product to the free list, please email us: mapleshaw@gmail.com. ",
-    "updateTime": "Curated and updated daily. Last updated:",
+    "title": "Start Your Startup",
+    "subTitle": "The ultimate list to launch and promote your startup company website. To add to the list or help submit your product to the free list, please send an email to: contact@tap4.ai",
+    "updateTime": "Updated daily. Last updated:",
     "table": {
       "da": "DA",
       "website": "Website",
@@ -159,27 +161,27 @@
     }
   },
   "Explore": {
-    "title": "All AI Tools. One Atlas.",
-    "subTitle": "Your Curated Guide to Discover and Leverage Top AI Tools for Peak Productivity."
+    "title": "AI Efficiency Tool Map: Make AI Easy for Everyone",
+    "subTitle": "Your Professional Guide to Discover and Utilize Top AI Tools to Boost Productivity"
   },
   "Metadata": {
     "home": {
-      "title": "AI SEO Tools & Scale Agile Solutions | AI Atlas Tools Directory",
-      "description": "AI Atlas Directory provides free AI SEO tools and scale agile solutions. Get your favorite AI tools with AI Atlas Directory, helping businesses scale with agile AI solutions.",
-      "keywords": "AI Atlas Directory, ai seo tools, scale agile solutions"
+      "title": "AI SEO Tools and Agile Solutions | AI Tool Directory",
+      "description": "The AI Tool Directory provides free AI SEO tools and agile extension solutions. Get your favorite AI tools through the AI Tool Directory, helping businesses achieve agile AI solutions.",
+      "keywords": "AI Tool Directory, AI SEO Tools, Agile Solutions"
     },
     "ai": {
-      "titleSubfix": "AI Atlas Directory"
+      "titleSubfix": "AI Tool Directory"
     },
     "explore": {
-      "title": "Best AI Tools Explore 2024 | Open-source AI Atlas Tools Directory",
-      "titlePrefix": "AI Atlas Directory Explore",
-      "titleSuffix": "AI Atlas Directory",
-      "description": "AI Atlas Directory is a tool provides free AI Tools Directory. Get your favorite AI tools with AI Atlas Directory, AI Atlas Directory aims to collect all the AI tools and provide the best for users.",
-      "keywords": "AI Atlas Directory"
+      "title": "2024 Best AI Tool Exploration | Open-Source AI Tool Directory",
+      "titlePrefix": "AI Tool Directory Exploration",
+      "titleSuffix": "AI Tool Directory",
+      "description": "The AI Tool Directory is a tool that provides a free AI tool directory. Get your favorite AI tools through the AI Tool Directory, aiming to collect all AI tools and provide the best service to users.",
+      "keywords": "AI Tool Directory"
     },
     "submit": {
-      "title": "Submit your AI tool and get Get Traffic | AI Atlas Directory"
+      "title": "Submit Your AI Tool and Get Traffic | AI Tool Directory"
     }
   }
 }

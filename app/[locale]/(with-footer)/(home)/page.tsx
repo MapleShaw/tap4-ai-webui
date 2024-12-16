@@ -8,6 +8,7 @@ import { getTranslations } from 'next-intl/server';
 import { RevalidateOneHour } from '@/lib/constants';
 import Faq from '@/components/Faq';
 import SearchForm from '@/components/home/SearchForm';
+import Icon from '@/components/image/Icon';
 import WebNavCardList from '@/components/webNav/WebNavCardList';
 
 import { TagList } from './Tag';
@@ -65,13 +66,24 @@ export default async function Page() {
             data={categoryList!.map((item) => ({
               id: String(item.id),
               name: item.name,
+              title: item.title,
               href: `/category/${item.name}`,
             }))}
           />
         </div>
+        <div className='mb-16 flex flex-col gap-5'>
+          <h2 className='flex items-center gap-2 text-left text-[24px] font-semibold'>
+            <Icon src='/icons/hot.svg' className='h-6 w-6 text-red-500' width={24} height={24} />
+            {t('hotTools')}
+          </h2>
+          <WebNavCardList dataList={navigationList!.slice(0, 6)} />
+        </div>
         <div className='flex flex-col gap-5'>
-          <h2 className='text-center text-[18px] lg:text-[32px]'>{t('ai-navigate')}</h2>
-          <WebNavCardList dataList={navigationList!} />
+          <h2 className='flex items-center gap-2 text-left text-[24px] font-semibold'>
+            <Icon src='/icons/new.svg' className='h-6 w-6' />
+            {t('newTools')}
+          </h2>
+          <WebNavCardList dataList={navigationList!.slice(6)} />
           <Link
             href='/explore'
             className='mx-auto mb-5 flex w-fit items-center justify-center gap-5 rounded-[9px] border border-white p-[10px] text-sm leading-4 hover:opacity-70'

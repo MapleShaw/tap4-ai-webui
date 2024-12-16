@@ -1,185 +1,187 @@
 {
   "Common": {
-    "loading": "carregando..."
+    "loading": "Carregando..."
   },
   "Navigation": {
-    "title": "Todas as Ferramentas de IA. Um Atlas.",
-    "discover": "Descobrir IA",
+    "title": "Mapa de Ferramentas de Eficiência do AI: Permitindo que Todos Dominem o AI com Facilidade",
+    "discover": "Descobrir AI",
     "submit": "Enviar",
     "newtools": "Novas Ferramentas",
-    "startup": "Startup",
+    "startup": "Iniciar",
     "menu": "Menu"
   },
   "Footer": {
-    "title": "Todas as Ferramentas de IA. Um Atlas.",
-    "subTitle": "Seu Guia Especializado para Descobrir e Aproveitar as Melhores Ferramentas de IA para Máxima Produtividade!",
+    "title": "Mapa de Ferramentas de Eficiência do AI: Permitindo que Todos Dominem o AI com Facilidade",
+    "subTitle": "Seu Guia Profissional, Descobrir e Utilizar as Melhores Ferramentas do AI para Aumentar a Produtividade!",
     "support": "Suporte",
-    "tap4": "Atlas IA",
-    "tattoo": "Gerador de Tatuagens IA",
+    "tap4": "Mapa do AI",
+    "tattoo": "Gerador de Tatuagem do AI",
     "privacy": "Política de Privacidade",
     "termsConditions": "Termos e Condições",
-    "contactUs": "Contate-nos"
+    "contactUs": "Contate-Nos"
   },
   "Faq": {
-    "title": "Perguntas Frequentes",
     "1": {
-      "question": "O que é o Diretório de Ferramentas Atlas IA Open Source?",
-      "answer": "O Diretório de Ferramentas Atlas IA - tap4.ai está construindo um diretório de ferramentas de IA que ajuda você a obter suas ferramentas de IA favoritas. Você pode encontrar ferramentas de escrita IA, ferramentas de marketing IA, ferramentas de paráfrase IA, ferramentas SEO IA, ferramentas de estudo IA, ferramentas geradoras IA, ferramentas de pesquisa IA, ferramentas de arte IA, ferramentas de música IA, ferramentas de vídeo IA, ferramentas de codificação IA, ferramentas de foto IA e muito mais aqui."
+      "question": "O que é o diretório de ferramentas do AI?",
+      "answer": "O diretório de ferramentas do AI - tap4.ai está construindo um diretório de ferramentas do AI para ajudá-lo a obter as ferramentas do AI que você gosta. Você pode encontrar ferramentas de escrita do AI, ferramentas de marketing do AI, ferramentas de reescrita do AI, ferramentas de SEO do AI, ferramentas de aprendizado do AI, ferramentas de geração do AI, ferramentas de pesquisa do AI, ferramentas de arte do AI, ferramentas de música do AI, ferramentas de vídeo do AI, ferramentas de codificação do AI, ferramentas de imagem do AI e muito mais."
     },
     "2": {
-      "question": "Como encontrar suas ferramentas de IA no Diretório de Ferramentas Atlas IA?",
-      "answer-1": "1. Abra aiatlas.ai",
-      "answer-2": "2. Explore as ferramentas de IA no Diretório de Ferramentas Atlas IA",
-      "answer-3": "3. Clique nas ferramentas de IA que você precisa para obter detalhes e visitá-las"
+      "question": "Como encontrar as ferramentas do AI no diretório de ferramentas do AI?",
+      "answer-1": "1. Abra o aiatlas.ai",
+      "answer-2": "2. Navegue pelo diretório de ferramentas do AI",
+      "answer-3": "3. Clique na ferramenta do AI que você precisa, veja os detalhes e acesse-a"
     },
     "3": {
-      "question": "Quais são as principais características do Diretório de Ferramentas Atlas IA?",
-      "answer-1": "1. Diretório de Ferramentas IA Gratuito: É gratuito encontrar suas Ferramentas IA favoritas aqui",
-      "answer-2": "2. Lista de Startups: A lista gratuita para desenvolvedores de ferramentas IA"
+      "question": "Quais são as principais funcionalidades do diretório de ferramentas do AI?",
+      "answer-1": "1. Diretório de ferramentas do AI gratuito: encontrar as ferramentas do AI que você gosta é gratuito",
+      "answer-2": "2. Lista de empresas de startup: lista de empresas de startup gratuitas para desenvolvedores de ferramentas do AI"
     },
     "4": {
-      "question": "É gratuito enviar ferramentas de IA para o Diretório de Ferramentas Atlas IA?",
-      "answer": "Sim, atualmente é gratuito. Mas você deve compartilhar o backlink para o Diretório de Ferramentas Atlas IA!"
+      "question": "Enviar uma ferramenta do AI para o diretório de ferramentas do AI é gratuito?",
+      "answer": "Sim, é gratuito por enquanto. Mas você deve compartilhar o link de retorno do diretório de ferramentas do AI!"
     },
     "5": {
-      "question": "Quais categorias de Ferramentas IA o Diretório de Ferramentas Atlas IA suporta?",
-      "answer": "Vamos suportar todos os tipos de Ferramentas IA posteriormente. Por favor, aguarde alguns dias."
+      "question": "Quais categorias de ferramentas do AI o diretório de ferramentas do AI suporta?",
+      "answer": "Vamos suportar todas as categorias de ferramentas do AI em breve. Por favor, aguarde alguns dias."
     },
     "6": {
-      "question": "Qual é a frequência de atualização das ferramentas IA no Diretório Atlas IA?",
-      "answer": "A lista de ferramentas IA será atualizada diariamente."
+      "question": "Qual é a frequência de atualização das ferramentas do AI no diretório de ferramentas do AI?",
+      "answer": "A lista de ferramentas do AI será atualizada diariamente."
     },
     "7": {
-      "question": "Há suporte para GPT-4o ou Sora AI aqui?",
-      "answer": "Você pode obter a ferramenta GPT-4o ou Sora AI aqui. Aqui está a introdução do GPT-4o e vídeo Sora, e você pode visitar o site das ferramentas."
+      "question": "Este site suporta GPT-4o ou Sora AI?",
+      "answer": "Você pode obter ferramentas do GPT-4o ou Sora AI aqui. Há uma introdução às ferramentas do GPT-4o e Sora AI, você pode acessar o site da ferramenta."
     },
     "8": {
-      "question": "Solução de Problemas",
-      "answer": "Se o conteúdo não estiver aparecendo, tente um navegador diferente, limpe seu cache. Se os problemas persistirem, contate-nos em mapleshaw@gmail.com."
+      "question": "Solução de problemas",
+      "answer": "Se o conteúdo não aparecer, tente usar outro navegador, limpe o cache. Se o problema persistir, contate-nos: mapleshaw@gmail.com"
     },
     "9": {
-      "question": "Como o conteúdo do Diretório de Ferramentas Atlas IA é gerado?",
-      "answer": "O conteúdo da descrição das ferramentas IA é gerado pelo Claude da Anthropic."
+      "question": "Como o conteúdo do diretório de ferramentas do AI é gerado?",
+      "answer": "O conteúdo de descrição das ferramentas do AI é gerado pelo Claude da Anthropic."
     },
     "10": {
-      "question": "Quais são os direitos de uso das ferramentas IA?",
-      "answer": "O Diretório de Ferramentas Atlas IA é apenas um diretório para ferramentas IA. Os direitos de uso das ferramentas IA são baseados no site das ferramentas IA."
+      "question": "Quais são os direitos de uso das ferramentas do AI?",
+      "answer": "O diretório de ferramentas do AI é apenas um diretório de ferramentas do AI. Os direitos de uso das ferramentas do AI são baseados no site da ferramenta do AI."
     },
     "11": {
-      "question": "A interface web do Diretório Atlas IA é open source?",
-      "answer": "Sim, vamos disponibilizar o código-fonte da interface web do Diretório Atlas IA no GitHub (https://github.com/6677-ai/tap4-ai-webui). Por favor, nos dê uma estrela."
-    }
+      "question": "O UI da web do diretório de ferramentas do AI é de código aberto?",
+      "answer": "Sim, vamos tornar o UI da web do diretório de ferramentas do AI de código aberto no GitHub (https://github.com/6677-ai/tap4-ai-webui). Por favor, dê uma estrela."
+    },
+    "title": "Perguntas Frequentes"
   },
   "FooterNavigation": {
     "privacyPolicy": {
-      "1-h1": "Política de Privacidade para o Diretório de Ferramentas de IA do Tap4",
-      "1-p": "Esta página é usada para informar os visitantes sobre minhas políticas com relação à coleta, uso e divulgação de Informações Pessoais caso alguém decida usar meu Serviço. Se você optar por usar meu Serviço, concorda com a coleta e uso de informações em relação a esta política. As Informações Pessoais que eu coleto são usadas para fornecer e melhorar o Serviço. Não usarei ou compartilharei suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade. Os termos usados nesta Política de Privacidade têm os mesmos significados que em nossos Termos e Condições.",
-      "2-h2": "1. Coleta e Uso de Informações",
-      "2-p": "Para uma melhor experiência, ao usar nosso Serviço, posso solicitar que você nos forneça certas informações de identificação pessoal. As informações que solicito serão retidas em seu dispositivo e não serão coletadas por mim de forma alguma. O aplicativo usa serviços de terceiros que podem coletar informações usadas para identificá-lo.",
-      "3-h2": "2. Dados de Registro",
-      "3-p": "Quero informar que sempre que você usar meu Serviço, em caso de erro no aplicativo, coletarei dados e informações (por meio de produtos de terceiros ) em seu telefone chamados Dados de Registro. Esses Dados de Registro podem incluir informações como o endereço de Protocolo de Internet ('IP') do seu dispositivo, nome do dispositivo, versão do sistema operacional, a configuração do aplicativo ao utilizar meu Serviço, o horário e a data do uso do Serviço e outras estatísticas.",
+      "1-h1": "Política de Privacidade do Diretório de Ferramentas do AI",
+      "1-p": "Esta página é usada para notificar os visitantes sobre a coleta, uso e divulgação de informações pessoais. Se você escolher usar nossos serviços, isso significa que você concorda em coletar e usar as informações relacionadas a essa política. Eu coletei as informações pessoais para fornecer e melhorar os serviços. A menos que seja especificado nesta política de privacidade, eu não compartilharei suas informações com ninguém.",
+      "2-h2": "1. Coleta de informações",
+      "2-p": "Para fornecer um serviço melhor, eu posso solicitar que você forneça algumas informações pessoais identificáveis ao usar nossos serviços. As informações solicitadas serão salvas em seu dispositivo e eu não as coletarei de nenhuma maneira.",
+      "3-h2": "2. Dados de log",
+      "3-p": "Eu quero informá-lo de que, quando você usa nossos serviços, eu coletei dados de log, incluindo seu endereço IP, nome do dispositivo, versão do sistema operacional, configuração do serviço, hora e data de uso do serviço e outras informações estatísticas.",
       "4-h2": "3. Cookies",
-      "4-p": "Cookies são arquivos com uma pequena quantidade de dados que são comumente usados como identificadores exclusivos anônimos. Eles são enviados para o seu navegador a partir dos sites que você visita e são armazenados na memória interna do seu dispositivo. Este Serviço não usa explicitamente esses \"cookies\". No entanto, o aplicativo pode usar código e bibliotecas de terceiros que usam \"cookies\" para coletar informações e melhorar seus serviços. Você tem a opção de aceitar ou recusar esses cookies e saber quando um cookie está sendo enviado para seu dispositivo. Se você optar por recusar nossos cookies, talvez não consiga usar algumas partes deste Serviço.",
-      "5-h2": "4. Prestadores de Serviços",
-      "5-p-1": "Posso empregar empresas e indivíduos terceirizados pelos seguintes motivos:",
-      "5-li-1": "Para facilitar nosso Serviço;",
-      "5-li-2": "Para fornecer o Serviço em nosso nome;",
-      "5-li-3": "Para realizar serviços relacionados ao Serviço;",
-      "5-li-4": "Para nos ajudar a analisar como nosso Serviço é utilizado;",
-      "5-p-2": "Quero informar aos usuários deste Serviço que esses terceiros têm acesso às suas Informações Pessoais. O motivo é realizar as tarefas atribuídas a eles em nosso nome. No entanto, eles são obrigados a não divulgar ou usar as informações para qualquer outra finalidade.",
+      "4-p": "Cookies são arquivos de dados que contêm poucos dados e são usados como identificadores únicos anônimos. Esses dados são enviados do site que você visita para seu navegador e armazenados em sua memória. Nossos serviços não usam cookies explicitamente. No entanto, nossos serviços podem usar códigos e bibliotecas de terceiros que usam cookies para coletar informações e melhorar seus serviços.",
+      "5-h2": "4. Fornecedores de serviços",
+      "5-p-1": "Eu posso contratar empresas e indivíduos de terceiros para:",
+      "5-li-1": "Promover nossos serviços;",
+      "5-li-2": "Representar nossos serviços;",
+      "5-li-3": "Executar serviços relacionados a nossos serviços;",
+      "5-li-4": "Nos ajudar a analisar o uso de nossos serviços;",
+      "5-p-2": "Eu quero informá-lo de que esses terceiros podem acessar suas informações pessoais. O motivo é que eles representam nossos serviços e têm o dever de não divulgar ou usar essas informações para outros fins.",
       "6-h2": "5. Segurança",
-      "6-p": "Valorizo sua confiança ao nos fornecer suas Informações Pessoais, por isso estamos nos esforçando para usar meios comercialmente aceitáveis ​​de protegê-las. Mas lembre-se de que nenhum método de transmissão pela Internet ou método de armazenamento eletrônico é 100% seguro e confiável, e não posso garantir sua segurança absoluta.",
-      "7-h2": "6. Links para Outros Sites",
-      "7-p": "Este Serviço pode conter links para outros sites. Se você clicar em um link de terceiros, será direcionado para esse site. Observe que esses sites externos não são operados por mim. Portanto, recomendo que você revise a Política de Privacidade desses sites. Não tenho controle sobre e não assumo responsabilidade pelo conteúdo, políticas de privacidade ou práticas de sites ou serviços de terceiros.",
-      "8-h2": "7. Alterações nesta Política de Privacidade",
-      "8-p": "Posso atualizar nossa Política de Privacidade periodicamente. Assim, é recomendável revisar esta página periodicamente para quaisquer alterações. Notificarei você sobre quaisquer alterações publicando a nova Política de Privacidade nesta página. Essas alterações são efetivas imediatamente após serem publicadas nesta página."
+      "6-p": "Eu valorizo a confiança que você deposita em mim ao fornecer informações pessoais, portanto, estamos comprometidos em usar métodos comerciais aceitáveis para protegê-las. No entanto, lembre-se de que não há método de transmissão pela internet ou método de armazenamento eletrônico que seja 100% seguro e confiável, e eu não posso garantir sua segurança absoluta.",
+      "7-h2": "6. Links para outros sites",
+      "7-p": "Nossos serviços podem conter links para outros sites. Se você clicar em um link de terceiros, você será redirecionado para esse site. Por favor, note que esses sites externos não são operados por mim. Eu não tenho controle sobre o conteúdo, políticas de privacidade ou práticas de terceiros.",
+      "8-h2": "7. Alterações nesta política de privacidade",
+      "8-p": "Eu posso atualizar nossa política de privacidade de tempos em tempos. Portanto, é recomendável que você revise esta página regularmente para verificar se há alterações. Eu notificarei você sobre quaisquer alterações publicando uma nova política de privacidade nesta página. Essas alterações entrarão em vigor assim que forem publicadas nesta página."
     },
     "termsConditions": {
-      "1-h1": "Termos de Serviço para o Diretório de IA do Tap4",
-      "1-p": "Bem-vindo ao Diretório de IA do Tap4! Nosso site, localizado em https://tap4.ai (\"Website\"), é dedicado a fornecer a você a capacidade de criar imagens personalizadas. Ao acessar ou usar nosso Website, você concorda em ficar vinculado a estes Termos de Serviço (\"Termos\"). Se você não concorda com qualquer parte dos termos, então você está proibido de usar o Website.",
-      "2-h2": "1. Licença de Uso",
-      "2-p": "Você recebe uma licença limitada, não exclusiva e intransferível para usar o Website e seus serviços para fins pessoais e não comerciais. Esta licença não inclui quaisquer direitos de copiar, modificar ou distribuir o conteúdo do Website ou usá-lo para fins comerciais sem nosso consentimento prévio por escrito.",
+      "1-h1": "Termos e Condições do Diretório de Ferramentas do AI",
+      "1-p": "Bem-vindo ao Diretório de Ferramentas do AI! Nosso site está localizado em https://tap4.ai (\"Site\"), dedicado a fornecer a você a capacidade de criar imagens personalizadas. Ao acessar ou usar nosso site, você concorda em estar sujeito a esses termos e condições (\"Termos\"). Se você não concorda com qualquer termo, então é proibido usar o site.",
+      "2-h2": "1. Licença de uso",
+      "2-p": "Você é concedido uma licença limitada, não exclusiva e não transferível para usar nosso site e serviços para fins pessoais e não comerciais. Essa licença não inclui o direito de copiar, modificar ou distribuir o conteúdo do site ou usá-lo para fins comerciais sem o consentimento prévio por escrito.",
       "3-h2": "2. Propriedade",
-      "3-p": "A propriedade das imagens geradas a partir do texto no Website pertence à pessoa que criou a imagem. O Tap4.ai não reivindica nenhuma propriedade sobre imagens criadas pelos usuários.",
-      "4-h2": "3. Coleta de Dados do Usuário",
-      "4-p": "Coletamos dados pessoais (nome, e-mail e informações de pagamento) e dados não pessoais (cookies da web) para melhorar nossos serviços. O uso desses dados é regido por nossa Política de Privacidade, que pode ser encontrada em",
-      "terms-of-service": "terms-of-service",
-      "5-h2": "4. Lei Aplicável",
-      "5-p": "Estes Termos serão regidos e interpretados de acordo com as leis dos Estados Unidos da América, sem levar em consideração seus princípios de conflitos de leis.",
-      "6-h2": "5. Alterações nos Termos",
-      "6-p": "O Diretório de IA do Tap4 reserva-se o direito, a nosso exclusivo critério, de modificar ou substituir estes Termos a qualquer momento. Notificaremos os usuários de quaisquer alterações por e-mail. Seu uso continuado do Website após qualquer alteração nestes Termos constituirá sua aceitação de tais alterações.",
-      "7-h2": "6. Informações de Contato",
-      "7-p": "Se você tiver alguma dúvida sobre estes Termos, entre em contato conosco em contact@6677.ai.",
-      "last-p": "Ao usar o Diretório de IA do Tap4, você indica sua aceitação destes Termos de Serviço."
+      "3-p": "A propriedade das imagens geradas no site pertence à pessoa que as criou. Tap4.ai não reivindica a propriedade das imagens criadas pelos usuários.",
+      "4-h2": "3. Coleta de dados do usuário",
+      "4-p": "Nós coletamos dados pessoais (nome, endereço de e-mail e informações de pagamento) e dados não pessoais (cookies da web) para melhorar nossos serviços. O uso desses dados está sujeito à nossa política de privacidade, que pode ser encontrada em",
+      "terms-of-service": "Termos de Serviço",
+      "5-h2": "4. Lei aplicável",
+      "5-p": "Esses termos devem ser regidos e interpretados de acordo com as leis dos EUA, independentemente das disposições de conflito de leis.",
+      "6-h2": "5. Alterações nos termos",
+      "6-p": "O Diretório de Ferramentas do AI se reserva o direito de modificar ou substituir esses termos a qualquer momento e sem aviso prévio. Você continuará a usar o site após essas alterações, o que constituirá sua aceitação dessas alterações.",
+      "7-h2": "6. Informações de contato",
+      "7-p": "Se você tiver alguma dúvida sobre esses termos, por favor, contate-nos: contact@6677.ai",
+      "last-p": "Usando o Diretório de Ferramentas do AI significa que você aceita esses termos de serviço."
     }
   },
   "NotFound": {
     "title": "404 Não Encontrado",
-    "goHome": "ir para casa"
+    "goHome": "Voltar para a página inicial"
   },
   "Home": {
-    "title": "Atlas de Ferramentas de IA: Tornando a IA Acessível para Todos",
-    "subTitle": "Seu Guia Especializado para Descobrir e Aproveitar as Melhores Ferramentas de IA para Máxima Produtividade",
-    "ai-navigate": "Lista de Ferramentas IA",
-    "exploreMore": "Obter mais Ferramentas IA",
-    "checkDetail": "Ver Detalhes",
+    "title": "Mapa de Ferramentas de Eficiência do AI: Permitindo que Todos Dominem o AI com Facilidade",
+    "subTitle": "Seu Guia Profissional, Descobrir e Utilizar as Melhores Ferramentas do AI para Aumentar a Produtividade",
+    "ai-navigate": "Lista de Ferramentas do AI",
+    "exploreMore": "Obter mais ferramentas do AI",
+    "checkDetail": "Ver detalhes",
     "search": "Pesquisar",
-    "result": "Resultado da Pesquisa",
-    "empty": "Nenhum dado disponível"
+    "result": "Resultado da pesquisa",
+    "empty": "Nenhum dado encontrado",
+    "hotTools": "Ferramentas Quentes",
+    "newTools": "Novas Ferramentas"
   },
   "Category": {
-    "home": "Início",
-    "empty": "Nenhum dado disponível"
+    "home": "Página Inicial",
+    "empty": "Nenhum dado encontrado"
   },
   "Submit": {
-    "title": "Envie sua Ferramenta IA",
-    "subTitle": "Envie sua Ferramenta IA e Obtenha Tráfego do Diretório Atlas IA",
-    "website": "Nome do Website",
-    "url": "URL do Website",
+    "title": "Enviar Sua Ferramenta do AI",
+    "subTitle": "Enviar sua ferramenta do AI e obter tráfego do Mapa de Ferramentas do AI",
+    "website": "Nome do site",
+    "url": "URL do site",
     "submit": "Enviar",
     "add": "Adicionar",
-    "text": "à página inicial do seu website, e então você poderá enviar seu website gratuitamente com sucesso!",
-    "networkError": "Erro de Rede",
+    "text": "Vá para a página inicial do seu site e, em seguida, você pode enviar sua ferramenta do AI com sucesso!",
+    "networkError": "Erro de rede",
     "success": "Sucesso"
   },
   "Startup": {
-    "title": "Inicie seu Startup",
-    "subTitle": "A Lista Definitiva de Websites para Lançar e Promover seu Startup Online. Para adicionar à lista ou ajudar a enviar seu produto para a lista gratuita, por favor nos envie um email: mapleshaw@gmail.com.",
-    "updateTime": "Curado e atualizado diariamente. Última atualização:",
+    "title": "Iniciar Sua Empresa",
+    "subTitle": "Iniciar e promover sua empresa de startup com a lista de empresas de startup do Mapa de Ferramentas do AI. Para adicionar à lista ou ajudar a enviar seu produto para a lista gratuita, envie um e-mail para: contact@tap4.ai",
+    "updateTime": "Atualizado diariamente. Última atualização:",
     "table": {
       "da": "DA",
-      "website": "Website",
+      "website": "Site",
       "tags": "Tags",
       "price": "Preço",
-      "submission": "Submissão"
+      "submission": "Enviar"
     },
     "detail": {
-      "visitWebsite": "Visitar Website",
+      "visitWebsite": "Visite o site",
       "introduction": "Introdução"
     }
   },
   "Explore": {
-    "title": "Todas as Ferramentas de IA. Um Atlas.",
-    "subTitle": "Seu Guia Especializado para Descobrir e Aproveitar as Melhores Ferramentas de IA para Máxima Produtividade"
+    "title": "Mapa de Ferramentas de Eficiência do AI: Permitindo que Todos Dominem o AI com Facilidade",
+    "subTitle": "Seu Guia Profissional, Descobrir e Utilizar as Melhores Ferramentas do AI para Aumentar a Produtividade"
   },
   "Metadata": {
     "home": {
-      "title": "Todas as Ferramentas de IA. Um Atlas. | Diretório de Ferramentas Atlas IA",
-      "description": "O Diretório Atlas IA é uma ferramenta que fornece um Diretório de Ferramentas IA gratuito. Obtenha suas ferramentas IA favoritas com o Diretório Atlas IA, que visa reunir todas as ferramentas IA e fornecer o melhor para os usuários.",
-      "keywords": "Diretório Atlas IA"
+      "title": "Ferramentas de SEO do AI e Soluções Ágeis | Mapa de Ferramentas do AI",
+      "description": "O Mapa de Ferramentas do AI fornece ferramentas de SEO do AI e soluções ágeis gratuitas. Use o Mapa de Ferramentas do AI para obter as ferramentas do AI que você gosta e ajudar as empresas a implementar soluções ágeis do AI.",
+      "keywords": "Mapa de Ferramentas do AI, Ferramentas de SEO do AI, Soluções Ágeis"
     },
     "ai": {
-      "titleSubfix": "Diretório Atlas IA"
+      "titleSubfix": "Mapa de Ferramentas do AI"
     },
     "explore": {
-      "title": "Melhores Ferramentas IA Explore 2024 | Diretório de Ferramentas Atlas IA Open Source",
-      "titlePrefix": "Explorar Diretório Atlas IA",
-      "titleSuffix": "Diretório Atlas IA",
-      "description": "O Diretório Atlas IA é uma ferramenta que fornece um Diretório de Ferramentas IA gratuito. Obtenha suas ferramentas IA favoritas com o Diretório Atlas IA, que visa reunir todas as ferramentas IA e fornecer o melhor para os usuários.",
-      "keywords": "Diretório Atlas IA"
+      "title": "Explorar as Melhores Ferramentas do AI de 2024 | Mapa de Ferramentas do AI",
+      "titlePrefix": "Mapa de Ferramentas do AI Explorar",
+      "titleSuffix": "Mapa de Ferramentas do AI",
+      "description": "O Mapa de Ferramentas do AI é uma ferramenta que fornece um diretório de ferramentas do AI gratuitas. Use o Mapa de Ferramentas do AI para obter as ferramentas do AI que você gosta e ajudar as empresas a implementar soluções ágeis do AI.",
+      "keywords": "Mapa de Ferramentas do AI"
     },
     "submit": {
-      "title": "Envie sua ferramenta IA e obtenha Tráfego | Diretório Atlas IA"
+      "title": "Enviar Sua Ferramenta do AI e Obter Tráfego | Mapa de Ferramentas do AI"
     }
   }
 }

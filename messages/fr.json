@@ -1,185 +1,187 @@
 {
   "Common": {
-    "loading": "Chargement..."
+    "loading": "Chargement en cours..."
   },
   "Navigation": {
-    "title": "Tous les Outils IA. Un Atlas.",
+    "title": "Carte d'outils d'efficacité AI : permettre à chacun de maîtriser facilement l'IA",
     "discover": "Découvrir l'IA",
     "submit": "Soumettre",
-    "newtools": "Nouveaux Outils",
-    "startup": "Startup",
+    "newtools": "Nouveaux outils",
+    "startup": "Démarrer",
     "menu": "Menu"
   },
   "Footer": {
-    "title": "Tous les Outils IA. Un Atlas.",
-    "subTitle": "Votre Guide Expert pour Découvrir et Exploiter les Meilleurs Outils d'IA pour une Productivité Maximale !",
+    "title": "Carte d'outils d'efficacité AI : permettre à chacun de maîtriser facilement l'IA",
+    "subTitle": "Votre guide professionnel, découvrir et utiliser les outils AI de pointe pour améliorer la productivité !",
     "support": "Support",
-    "tap4": "Atlas IA",
-    "tattoo": "Générateur de Tatouages IA",
-    "privacy": "Politique de Confidentialité",
-    "termsConditions": "Conditions d'Utilisation",
-    "contactUs": "Contactez-nous"
+    "tap4": "Carte AI",
+    "tattoo": "Générateur de tatouage AI",
+    "privacy": "Politique de confidentialité",
+    "termsConditions": "Termes et conditions",
+    "contactUs": "Nous contacter"
   },
   "Faq": {
-    "title": "FAQ",
     "1": {
-      "question": "Qu'est-ce que le Répertoire d'Outils Atlas IA Open Source ?",
-      "answer": "Le Répertoire d'Outils Atlas IA - tap4.ai construit un répertoire d'outils IA qui vous aide à trouver vos outils IA préférés. Vous pouvez trouver ici des outils d'écriture IA, de marketing IA, de paraphrase IA, de SEO IA, d'apprentissage IA, de génération IA, de recherche IA, d'art IA, de musique IA, de vidéo IA, de codage IA, de photo IA et plus encore."
+      "question": "Qu'est-ce que la carte d'outils d'efficacité AI open-source ?",
+      "answer": "La carte d'outils d'efficacité AI - tap4.ai est en train de créer un répertoire d'outils AI pour vous aider à obtenir vos outils AI préférés. Vous pouvez trouver ici des outils d'écriture AI, des outils de marketing AI, des outils de réécriture AI, des outils SEO AI, des outils d'apprentissage AI, des outils de génération AI, des outils de recherche AI, des outils d'art AI, des outils de musique AI, des outils de vidéo AI, des outils de codage AI, des outils d'image AI, etc."
     },
     "2": {
-      "question": "Comment trouver vos outils IA dans le Répertoire d'Outils Atlas IA ?",
+      "question": "Comment trouver vos outils AI dans la carte d'outils d'efficacité AI ?",
       "answer-1": "1. Ouvrez aiatlas.ai",
-      "answer-2": "2. Explorez les outils IA dans le Répertoire d'Outils Atlas IA",
-      "answer-3": "3. Cliquez sur les outils IA dont vous avez besoin pour voir les détails et les visiter"
+      "answer-2": "2. Parcourez le répertoire d'outils AI de la carte d'outils d'efficacité AI",
+      "answer-3": "3. Cliquez sur l'outil AI que vous avez besoin, consultez les détails et accédez-y"
     },
     "3": {
-      "question": "Quelles sont les principales fonctionnalités du Répertoire d'Outils Atlas IA ?",
-      "answer-1": "1. Répertoire d'Outils IA Gratuit : C'est gratuit de trouver vos outils IA préférés ici",
-      "answer-2": "2. Liste de Startups : La liste gratuite pour les développeurs d'outils IA"
+      "question": "Quels sont les principaux fonctionnalités de la carte d'outils d'efficacité AI ?",
+      "answer-1": "1. Répertoire d'outils AI gratuit : trouver vos outils AI préférés est gratuit",
+      "answer-2": "2. Liste des entreprises de démarrage : liste gratuite des entreprises de démarrage pour les développeurs d'outils AI"
     },
     "4": {
-      "question": "Est-ce gratuit de soumettre des outils IA au Répertoire d'Outils Atlas IA ?",
-      "answer": "Oui, c'est actuellement gratuit. Mais vous devez partager le lien retour pour le Répertoire d'Outils Atlas IA !"
+      "question": "Est-ce que soumettre un outil AI à la carte d'outils d'efficacité AI est gratuit ?",
+      "answer": "Oui, c'est actuellement gratuit. Mais vous devriez partager le lien de retour de la carte d'outils d'efficacité AI !"
     },
     "5": {
-      "question": "Quelles catégories d'outils IA le Répertoire d'Outils Atlas IA supporte-t-il ?",
-      "answer": "Nous supporterons tous les types d'outils IA plus tard. Veuillez patienter quelques jours."
+      "question": "Quels sont les types d'outils AI que la carte d'outils d'efficacité AI prend en charge ?",
+      "answer": "Nous allons bientôt prendre en charge tous les types d'outils AI. Veuillez patienter quelques jours."
     },
     "6": {
-      "question": "Quelle est la fréquence de mise à jour des outils IA dans le Répertoire Atlas IA ?",
-      "answer": "La liste des outils IA sera mise à jour quotidiennement."
+      "question": "Quelle est la fréquence de mise à jour des outils AI dans la carte d'outils d'efficacité AI ?",
+      "answer": "La liste des outils AI sera mise à jour tous les jours."
     },
     "7": {
-      "question": "Est-ce que GPT-4o ou Sora AI sont supportés ici ?",
-      "answer": "Vous pouvez obtenir l'outil GPT-4o ou Sora AI ici. Voici l'introduction de GPT-4o et la vidéo Sora, et vous pouvez visiter le site web des outils."
+      "question": "La carte d'outils d'efficacité AI prend-elle en charge GPT-4o ou Sora AI ?",
+      "answer": "Vous pouvez obtenir des outils GPT-4o ou Sora AI ici. Il y a une introduction aux outils GPT-4o et Sora vidéo que vous pouvez visiter sur le site web de l'outil."
     },
     "8": {
       "question": "Dépannage",
-      "answer": "Si le contenu n'apparaît pas, essayez un autre navigateur, videz votre cache. Si les problèmes persistent, contactez-nous à mapleshaw@gmail.com."
+      "answer": "Si le contenu n'apparaît pas, essayez d'utiliser un autre navigateur, effacez le cache. Si le problème persiste, contactez-nous : mapleshaw@gmail.com"
     },
     "9": {
-      "question": "Comment le contenu du Répertoire d'Outils Atlas IA est-il généré ?",
-      "answer": "Le contenu de la description des outils IA est généré par Claude d'Anthropic."
+      "question": "Comment la carte d'outils d'efficacité AI génère-t-elle son contenu ?",
+      "answer": "Le contenu de description des outils AI est généré par Claude d'Anthropic."
     },
     "10": {
-      "question": "Quels sont les droits d'utilisation des outils IA ?",
-      "answer": "Le Répertoire d'Outils Atlas IA n'est qu'un répertoire pour les outils IA. Les droits d'utilisation des outils IA sont basés sur le site web des outils IA."
+      "question": "Quels sont les droits d'utilisation des outils AI ?",
+      "answer": "La carte d'outils d'efficacité AI est simplement un répertoire d'outils AI. Les droits d'utilisation des outils AI sont basés sur le site web de l'outil AI."
     },
     "11": {
-      "question": "L'interface web du Répertoire Atlas IA est-elle open source ?",
-      "answer": "Oui, nous allons rendre open source l'interface web du Répertoire Atlas IA sur GitHub (https://github.com/6677-ai/tap4-ai-webui). Merci de nous donner une étoile."
-    }
+      "question": "La carte d'outils d'efficacité AI est-elle open-source ?",
+      "answer": "Oui, nous allons rendre open-source l'interface utilisateur web de la carte d'outils d'efficacité AI sur GitHub (https://github.com/6677-ai/tap4-ai-webui). Veuillez nous donner une étoile."
+    },
+    "title": "Questions fréquentes"
   },
   "FooterNavigation": {
     "privacyPolicy": {
-      "1-h1": "Politique de confidentialité du Répertoire des outils AI de Tap4",
-      "1-p": "Cette page est utilisée pour informer les visiteurs de mes politiques concernant la collecte, l'utilisation et la divulgation des informations personnelles si quelqu'un décide d'utiliser mon service. Si vous choisissez d'utiliser mon service, vous acceptez la collecte et l'utilisation des informations en relation avec cette politique. Les informations personnelles que je collecte sont utilisées pour fournir et améliorer le service. Je n'utiliserai ni ne partagerai vos informations avec personne, sauf comme décrit dans cette politique de confidentialité. Les termes utilisés dans cette politique de confidentialité ont les mêmes significations que dans nos Termes et Conditions.",
+      "1-h1": "Politique de confidentialité de la carte d'outils d'efficacité AI open-source",
+      "1-p": "Cette page vise à informer les visiteurs sur notre politique de collecte, d'utilisation et de divulgation des informations personnelles. Si vous choisissez d'utiliser nos services, cela signifie que vous acceptez la collecte et l'utilisation des informations liées à cette politique.",
       "2-h2": "1. Collecte et utilisation des informations",
-      "2-p": "Pour une meilleure expérience, lors de l'utilisation de notre service, je peux vous demander de nous fournir certaines informations personnellement identifiables. Les informations que je demande seront conservées sur votre appareil et ne seront en aucun cas collectées par moi. L'application utilise des services tiers qui peuvent collecter des informations utilisées pour vous identifier.",
+      "2-p": "Pour fournir un service meilleur, nous pouvons vous demander certaines informations personnelles identifiables lorsque vous utilisez nos services. Les informations que nous demandons seront stockées sur votre appareil et nous ne les collectons pas de manière explicite.",
       "3-h2": "2. Données de journal",
-      "3-p": "Je tiens à vous informer que chaque fois que vous utilisez mon service, en cas d'erreur dans l'application, je collecte des données et des informations sur votre téléphone via des produits tiers appelés données de journal. Ces données de journal peuvent inclure des informations telles que l'adresse IP de votre appareil, le nom de l'appareil, la version du système d'exploitation, la configuration de l'application lors de l'utilisation de mon service, l'heure et la date de votre utilisation du service, et d'autres statistiques.",
+      "3-p": "Je veux vous informer que, chaque fois que vous utilisez nos services, nous collectons des données et des informations (via des produits tiers) sur votre appareil (par exemple, votre adresse IP, le nom de votre appareil, la version du système d'exploitation, la configuration de votre service, l'heure et la date d'utilisation du service, etc.).",
       "4-h2": "3. Cookies",
-      "4-p": "Les cookies sont des fichiers contenant une petite quantité de données qui sont couramment utilisés comme identifiants uniques anonymes. Ces données sont envoyées à votre navigateur à partir des sites web que vous visitez et sont stockées sur la mémoire interne de votre appareil. Ce service n'utilise pas explicitement ces \"cookies\". Cependant, l'application peut utiliser des codes et des bibliothèques tiers qui utilisent des \"cookies\" pour collecter des informations et améliorer leurs services. Vous avez la possibilité d'accepter ou de refuser ces cookies et de savoir quand un cookie est envoyé à votre appareil. Si vous choisissez de refuser nos cookies, vous ne pourrez peut-être pas utiliser certaines parties de ce service.",
-      "5-h2": "4. Prestataires de services",
-      "5-p-1": "Je peux employer des sociétés tierces et des individus pour les raisons suivantes :",
-      "5-li-1": "Pour faciliter notre service ;",
-      "5-li-2": "Pour fournir le service en notre nom ;",
-      "5-li-3": "Pour exécuter des services liés au service ;",
-      "5-li-4": "Pour nous aider à analyser l'utilisation de notre service ;",
-      "5-p-2": "Je veux informer les utilisateurs de ce service que ces tiers ont accès à vos informations personnelles. La raison est d'exécuter les tâches qui leur sont assignées en notre nom. Cependant, ils sont obligés de ne pas divulguer ou utiliser les informations à d'autres fins.",
+      "4-p": "Un cookie est un petit fichier contenant des données qui sont envoyées à votre navigateur à partir d'un site web et stockées sur votre appareil. Ce service n'utilise pas explicitement de cookies. Cependant, ce service peut utiliser des codes et des bibliothèques tiers qui utilisent des cookies pour collecter des informations et améliorer leurs services.",
+      "5-h2": "4. Fournisseurs de services",
+      "5-p-1": "Nous pouvons employer des tiers pour :",
+      "5-li-1": "Fournir nos services ;",
+      "5-li-2": "Agir en notre nom pour fournir des services ;",
+      "5-li-3": "Exécuter des services liés à nos services ;",
+      "5-li-4": "Nous aider à analyser l'utilisation de nos services ;",
+      "5-p-2": "Nous voulons informer les utilisateurs de ce service que ces tiers peuvent accéder à vos informations personnelles. La raison en est qu'ils exécutent des tâches qui leur sont assignées. Cependant, ils ont l'obligation de ne pas divulguer ou utiliser ces informations à d'autres fins.",
       "6-h2": "5. Sécurité",
-      "6-p": "Je valorise votre confiance en nous fournissant vos informations personnelles, nous nous efforçons donc d'utiliser des moyens commercialement acceptables pour les protéger. Mais rappelez-vous qu'aucune méthode de transmission sur Internet, ou méthode de stockage électronique n'est 100% sécurisée et fiable, et je ne peux garantir leur sécurité absolue.",
+      "6-p": "Nous prenons au sérieux la confiance que vous nous accordez en nous fournissant des informations personnelles, nous nous engageons donc à utiliser des moyens commercialement acceptables pour les protéger. Cependant, nous devons vous rappeler qu'aucun moyen de transmission par internet ou de stockage électronique n'est sécurisé à 100%.",
       "7-h2": "6. Liens vers d'autres sites",
-      "7-p": "Ce service peut contenir des liens vers d'autres sites. Si vous cliquez sur un lien tiers, vous serez dirigé vers ce site. Notez que ces sites externes ne sont pas exploités par moi. Par conséquent, je vous conseille fortement de consulter la politique de confidentialité de ces sites. Je n'ai aucun contrôle sur et n'assume aucune responsabilité quant au contenu, aux politiques de confidentialité ou aux pratiques de tout site ou service tiers.",
-      "8-h2": "7. Modifications de cette politique de confidentialité",
-      "8-p": "Je peux mettre à jour notre politique de confidentialité de temps en temps. Ainsi, vous êtes conseillé de consulter cette page périodiquement pour tout changement. Je vous notifierai de tout changement en publiant la nouvelle politique de confidentialité sur cette page. Ces changements sont effectifs immédiatement après leur publication sur cette page."
+      "7-p": "Ce service peut contenir des liens vers d'autres sites. Si vous cliquez sur un lien tiers, vous serez dirigé vers ce site. Veuillez noter que ces sites tiers ne sont pas exploités par nous. Nous vous recommandons donc de consulter les politiques de confidentialité de ces sites.",
+      "8-h2": "7. Changements apportés à cette politique de confidentialité",
+      "8-p": "Nous pouvons mettre à jour notre politique de confidentialité de temps en temps. Nous vous recommandons donc de consulter régulièrement cette page pour prendre connaissance de tout changement. Les changements apportés à cette politique de confidentialité prendront effet dès leur publication sur cette page."
     },
     "termsConditions": {
-      "1-h1": "Termes et Conditions du Répertoire des outils AI de Tap4",
-      "1-p": "Bienvenue sur le Répertoire des outils AI de Tap4 ! Notre site web situé à l'adresse https://tap4.ai (le \"Site\") est dédié à vous fournir la capacité de créer des images personnalisées. En accédant ou en utilisant notre site web, vous acceptez d'être lié par ces termes de service (les \"Termes\"). Si vous n'êtes pas d'accord avec l'un de ces termes, il vous est interdit d'utiliser le site.",
+      "1-h1": "Termes et conditions de la carte d'outils d'efficacité AI",
+      "1-p": "Bienvenue sur la carte d'outils d'efficacité AI ! Notre site web est situé à l'adresse https://tap4.ai (le \"site web\"), et nous nous efforçons de vous fournir la capacité de créer des images personnalisées. En accédant ou en utilisant notre site web, vous acceptez être lié par ces termes et conditions (les \"termes\"). Si vous n'acceptez pas ces termes, vous n'êtes pas autorisé à utiliser ce site web.",
       "2-h2": "1. Licence d'utilisation",
-      "2-p": "Vous êtes accordé une licence limitée, non exclusive et non transférable pour utiliser le site et ses services pour des usages personnels et non commerciaux. Cette licence n'inclut pas le droit de copier, modifier ou distribuer le contenu du site ou de l'utiliser à des fins commerciales sans notre consentement écrit préalable.",
+      "2-p": "Vous êtes autorisé à utiliser ce site web et ses services pour des fins personnelles et non commerciales. Cette licence ne comprend pas le droit de copier, de modifier ou de distribuer le contenu du site web ou de l'utiliser à des fins commerciales sans notre consentement écrit préalable.",
       "3-h2": "2. Propriété",
-      "3-p": "La propriété des images générées à partir de texte sur le site appartient à la personne qui a créé l'image. Tap4.ai ne revendique pas la propriété des images créées par les utilisateurs.",
-      "4-h2": "3. Collecte de données des utilisateurs",
-      "4-p": "Nous recueillons des données personnelles (nom, email et informations de paiement) et des données non personnelles (cookies web) pour améliorer nos services. L'utilisation de ces données est soumise à notre politique de confidentialité, disponible à ",
-      "terms-of-service": "Termes de service",
-      "5-h2": "4. Droit applicable",
-      "5-p": "Ces termes sont régis et interprétés conformément aux lois des États-Unis, sans égard à ses dispositions en matière de conflit de lois.",
-      "6-h2": "5. Modifications des termes",
-      "6-p": "Tap4 AI Directory se réserve le droit, à sa seule discrétion, de modifier ou de remplacer ces termes à tout moment. Nous vous informerons par email de tout changement. Votre utilisation continue du site après ces changements constitue votre acceptation des nouveaux termes.",
+      "3-p": "La propriété des images générées sur le site web appartient à la personne qui les a créées. Tap4.ai ne revendique pas la propriété des images créées par les utilisateurs.",
+      "4-h2": "3. Collecte de données utilisateur",
+      "4-p": "Nous collectons des données personnelles (nom, adresse e-mail et informations de paiement) et des données non personnelles (cookies de navigateur) pour améliorer nos services. L'utilisation de ces données est soumise à notre politique de confidentialité, disponible à l'adresse",
+      "terms-of-service": "Termes et conditions",
+      "5-h2": "4. Loi applicable",
+      "5-p": "Ces termes sont régis et interprétés conformément aux lois des États-Unis, sans tenir compte des principes de conflit de lois.",
+      "6-h2": "5. Changements apportés à ces termes",
+      "6-p": "La carte d'outils d'efficacité AI se réserve le droit de modifier ou de remplacer ces termes à tout moment, à sa seule discrétion. Nous vous informerons de tout changement par e-mail. En continuant à utiliser ce site web après la publication de ces changements, vous acceptez être lié par ces termes modifiés.",
       "7-h2": "6. Informations de contact",
-      "7-p": "Si vous avez des questions sur ces termes, veuillez nous contacter : contact@6677.ai.",
-      "last-p": "En utilisant le Répertoire des outils AI de Tap4, vous acceptez ces termes de service."
+      "7-p": "Si vous avez des questions ou des préoccupations concernant ces termes, veuillez nous contacter à l'adresse : contact@6677.ai",
+      "last-p": "En utilisant la carte d'outils d'efficacité AI, vous acceptez être lié par ces termes et conditions."
     }
   },
   "NotFound": {
-    "title": "404 Non Trouvé",
-    "goHome": "retour à l'accueil"
+    "title": "404 Non trouvé",
+    "goHome": "Retour à l'accueil"
   },
   "Home": {
-    "title": "Tous les Outils IA. Un Atlas.",
-    "subTitle": "Votre Guide Expert pour Découvrir et Exploiter les Meilleurs Outils d'IA pour une Productivité Maximale",
-    "ai-navigate": "Liste des Outils IA",
-    "exploreMore": "Obtenir Plus d'Outils IA",
-    "checkDetail": "Voir les Détails",
+    "title": "Carte d'outils d'efficacité AI : permettre à chacun de maîtriser facilement l'IA",
+    "subTitle": "Votre guide professionnel, découvrir et utiliser les outils AI de pointe pour améliorer la productivité",
+    "ai-navigate": "Liste des outils AI",
+    "exploreMore": "Obtenir plus d'outils AI",
+    "checkDetail": "Voir les détails",
     "search": "Rechercher",
-    "result": "Résultat de la Recherche",
-    "empty": "Aucune donnée disponible"
+    "result": "Résultats de recherche",
+    "empty": "Aucune données",
+    "hotTools": "Outils recommandés",
+    "newTools": "Nouveaux outils"
   },
   "Category": {
-    "home": "accueil",
-    "empty": "Aucune donnée disponible"
+    "home": "Accueil",
+    "empty": "Aucune données"
   },
   "Submit": {
-    "title": "Soumettez votre Outil IA",
-    "subTitle": "Soumettez votre Outil IA et Obtenez du Trafic depuis le Répertoire d'Outils Atlas IA",
-    "website": "Nom du Site Web",
-    "url": "URL du Site Web",
+    "title": "Soumettre votre outil AI",
+    "subTitle": "Soumettre votre outil AI et obtenir du trafic à partir de la carte d'outils d'efficacité AI",
+    "website": "Nom du site web",
+    "url": "URL du site web",
     "submit": "Soumettre",
     "add": "Ajouter",
-    "text": "à la page d'accueil de votre site web, et vous pourrez ensuite soumettre votre site web gratuitement avec succès !",
-    "networkError": "Erreur Réseau",
-    "success": "succès"
+    "text": "Allez sur votre page d'accueil, puis vous pouvez soumettre votre site web gratuitement !",
+    "networkError": "Erreur de réseau",
+    "success": "Succès"
   },
   "Startup": {
-    "title": "Lancez votre Startup",
-    "subTitle": "La Liste Ultime des Sites Web pour Lancer et Promouvoir votre Startup en Ligne. Pour ajouter à la liste ou aider à soumettre votre produit à la liste gratuite, envoyez-nous un email : mapleshaw@gmail.com.",
-    "updateTime": "Organisé et mis à jour quotidiennement. Dernière mise à jour :",
+    "title": "Démarrer votre entreprise",
+    "subTitle": "Démarrer et promouvoir votre entreprise avec la liste des entreprises de démarrage. Pour ajouter à la liste ou aider à soumettre votre produit à la liste gratuite, veuillez envoyer un e-mail à : contact@tap4.ai",
+    "updateTime": "Mise à jour quotidienne. Dernière mise à jour :",
     "table": {
       "da": "DA",
-      "website": "Site Web",
-      "tags": "Tags",
+      "website": "Site web",
+      "tags": "Étiquettes",
       "price": "Prix",
       "submission": "Soumission"
     },
     "detail": {
-      "visitWebsite": "Visiter le Site",
-      "introduction": "Introduction"
+      "visitWebsite": "Visiter le site web",
+      "introduction": "Présentation"
     }
   },
   "Explore": {
-    "title": "Tous les Outils IA. Un Atlas.",
-    "subTitle": "Votre Guide Expert pour Découvrir et Exploiter les Meilleurs Outils d'IA pour une Productivité Maximale"
+    "title": "Carte d'outils d'efficacité AI : permettre à chacun de maîtriser facilement l'IA",
+    "subTitle": "Votre guide professionnel, découvrir et utiliser les outils AI de pointe pour améliorer la productivité"
   },
   "Metadata": {
     "home": {
-      "title": "Tous les Outils IA. Un Atlas. | Répertoire d'Outils Atlas IA",
-      "description": "Le Répertoire Atlas IA est un outil qui fournit un répertoire gratuit d'outils IA. Obtenez vos outils IA préférés avec le Répertoire Atlas IA, qui vise à collecter tous les outils IA et à fournir le meilleur pour les utilisateurs.",
-      "keywords": "Répertoire Atlas IA"
+      "title": "Outils SEO AI et solutions d'agilité | Carte d'outils d'efficacité AI",
+      "description": "La carte d'outils d'efficacité AI fournit des outils SEO AI et des solutions d'agilité gratuites. Obtenez vos outils AI préférés avec la carte d'outils d'efficacité AI et aidez les entreprises à mettre en œuvre des solutions d'agilité AI.",
+      "keywords": "Carte d'outils d'efficacité AI, outils SEO AI, solutions d'agilité"
     },
     "ai": {
-      "titleSubfix": "Répertoire Atlas IA"
+      "titleSubfix": "Carte d'outils d'efficacité AI"
     },
     "explore": {
-      "title": "Meilleure Exploration d'Outils IA 2024 | Répertoire d'Outils Atlas IA Open Source",
-      "titlePrefix": "Explorer le Répertoire Atlas IA",
-      "titleSuffix": "Répertoire Atlas IA",
-      "description": "Le Répertoire Atlas IA est un outil qui fournit un répertoire gratuit d'outils IA. Obtenez vos outils IA préférés avec le Répertoire Atlas IA, qui vise à collecter tous les outils IA et à fournir le meilleur pour les utilisateurs.",
-      "keywords": "Répertoire Atlas IA"
+      "title": "Meilleurs outils AI 2024 | Carte d'outils d'efficacité AI open-source",
+      "titlePrefix": "Carte d'outils d'efficacité AI",
+      "titleSuffix": "Carte d'outils d'efficacité AI",
+      "description": "La carte d'outils d'efficacité AI est un répertoire d'outils AI gratuits. Obtenez vos outils AI préférés avec la carte d'outils d'efficacité AI, qui vise à collecter tous les outils AI et à fournir le meilleur service aux utilisateurs.",
+      "keywords": "Carte d'outils d'efficacité AI"
     },
     "submit": {
-      "title": "Soumettez votre outil IA et obtenez du Trafic | Répertoire Atlas IA"
+      "title": "Soumettre votre outil AI et obtenir du trafic | Carte d'outils d'efficacité AI"
     }
   }
 }

@@ -1,155 +1,157 @@
 {
   "Common": {
-    "loading": "Wird geladen..."
+    "loading": "Laden..."
   },
   "Navigation": {
-    "title": "Alle KI-Tools. Ein Atlas.",
-    "discover": "KI entdecken",
+    "title": "AI-Effizienz-Tool-Karte: Jeder kann leicht AI beherrschen",
+    "discover": "Entdecken Sie AI",
     "submit": "Einreichen",
     "newtools": "Neue Tools",
-    "startup": "Startup",
+    "startup": "Gründung",
     "menu": "Menü"
   },
   "Footer": {
-    "title": "Alle KI-Tools. Ein Atlas.",
-    "subTitle": "Ihr kuratierter Leitfaden zum Entdecken und Nutzen der besten KI-Tools für maximale Produktivität!",
-    "support": "Support",
-    "tap4": "KI Atlas",
-    "tattoo": "KI Tattoo Generator",
-    "privacy": "Datenschutzrichtlinie",
-    "termsConditions": "Nutzungsbedingungen",
-    "contactUs": "Kontakt"
+    "title": "AI-Effizienz-Tool-Karte: Jeder kann leicht AI beherrschen",
+    "subTitle": "Ihr professioneller Leitfaden, um Spitzen-AI-Tools zu entdecken und Ihre Produktivität zu steigern!",
+    "support": "Unterstützung",
+    "tap4": "AI-Karte",
+    "tattoo": "AI-Tattoo-Generator",
+    "privacy": "Datenschutzerklärung",
+    "termsConditions": "Bedingungen und Konditionen",
+    "contactUs": "Kontaktieren Sie uns"
   },
   "Faq": {
-    "title": "Häufig gestellte Fragen",
     "1": {
-      "question": "Was ist das Open-Source KI Atlas Tools Verzeichnis?",
-      "answer": "Das KI Atlas Tools Verzeichnis - tap4.ai erstellt ein KI-Tools-Verzeichnis, das Ihnen hilft, Ihre bevorzugten KI-Tools zu finden. Hier finden Sie KI-Schreibtools, KI-Marketingtools, KI-Umschreibungstools, KI-SEO-Tools, KI-Lerntools, KI-Generatortools, KI-Forschungstools, KI-Kunsttools, KI-Musiktools, KI-Videotools, KI-Codierungstools, KI-Fototools und mehr."
+      "question": "Was ist die offene AI-Tool-Karte?",
+      "answer": "Die AI-Tool-Karte - tap4.ai baut ein Verzeichnis von AI-Tools auf, um Ihnen Ihre Lieblings-AI-Tools zu beschaffen. Sie können hier AI-Schreibtools, AI-Marketing-Tools, AI-Umbau-Tools, AI-SEO-Tools, AI-Lern-Tools, AI-Generierungs-Tools, AI-Forschungs-Tools, AI-Kunst-Tools, AI-Musik-Tools, AI-Video-Tools, AI-Codier-Tools, AI-Bild-Tools usw. finden."
     },
     "2": {
-      "question": "Wie finde ich KI-Tools im KI Atlas Tools Verzeichnis?",
+      "question": "Wie finde ich mein AI-Tool im AI-Tool-Verzeichnis?",
       "answer-1": "1. Öffnen Sie aiatlas.ai",
-      "answer-2": "2. Erkunden Sie die KI-Tools im KI Atlas Tools Verzeichnis",
-      "answer-3": "3. Klicken Sie auf die KI-Tools, die Sie benötigen, um Details zu erhalten und sie zu besuchen"
+      "answer-2": "2. Durchsuchen Sie das AI-Tool-Verzeichnis nach AI-Tools",
+      "answer-3": "3. Klicken Sie auf das benötigte AI-Tool, um Details anzuzeigen und darauf zuzugreifen"
     },
     "3": {
-      "question": "Was sind die Hauptfunktionen des KI Atlas Tools Verzeichnisses?",
-      "answer-1": "1. Kostenloses KI-Tools-Verzeichnis: Es ist kostenlos, hier Ihre bevorzugten KI-Tools zu finden",
-      "answer-2": "2. Startup-Liste: Die kostenlose Startup-Liste für KI-Tool-Entwickler"
+      "question": "Was sind die Hauptfunktionen der AI-Tool-Karte?",
+      "answer-1": "1. Kostenlose AI-Tool-Verzeichnis: Hier finden Sie kostenlose AI-Tools",
+      "answer-2": "2. Liste von Start-ups: Kostenlose Liste von Start-ups für AI-Tool-Entwickler"
     },
     "4": {
-      "question": "Ist es kostenlos, KI-Tools zum KI Atlas Tools Verzeichnis einzureichen?",
-      "answer": "Ja, derzeit ist es kostenlos. Aber Sie sollten den Backlink für das KI Atlas Tools Verzeichnis teilen!"
+      "question": "Ist die Einreichung von AI-Tools in die AI-Tool-Karte kostenlos?",
+      "answer": "Ja, es ist derzeit kostenlos. Sie sollten jedoch einen Rücklink zur AI-Tool-Karte teilen!"
     },
     "5": {
-      "question": "Welche KI-Tool-Kategorien unterstützt das KI Atlas Tools Verzeichnis?",
-      "answer": "Wir werden später alle Arten von KI-Tools unterstützen. Bitte warten Sie einige Tage."
+      "question": "Welche Arten von AI-Tools werden von der AI-Tool-Karte unterstützt?",
+      "answer": "Wir werden bald alle Arten von AI-Tools unterstützen. Bitte warten Sie einige Tage."
     },
     "6": {
-      "question": "Wie oft wird die KI-Tools-Liste im KI Atlas Verzeichnis aktualisiert?",
-      "answer": "Die KI-Tools-Liste wird täglich aktualisiert."
+      "question": "Wie oft wird die AI-Tool-Liste aktualisiert?",
+      "answer": "Die AI-Tool-Liste wird täglich aktualisiert."
     },
     "7": {
-      "question": "Wird hier GPT-4o oder Sora AI unterstützt?",
-      "answer": "Sie können hier das GPT-4o oder Sora AI Tool erhalten. Hier ist die Einführung von GPT-4o und Sora Video, und Sie können die Website der Tools besuchen."
+      "question": "Werden GPT-4o oder Sora AI unterstützt?",
+      "answer": "Sie können hier GPT-4o- oder Sora-AI-Tools erhalten. Hier gibt es eine Einführung in GPT-4o- und Sora-Videos, die Sie auf der Website des Tools besuchen können."
     },
     "8": {
       "question": "Fehlerbehebung",
-      "answer": "Wenn der Inhalt nicht erscheint, versuchen Sie einen anderen Browser, löschen Sie Ihren Cache. Bei anhaltenden Problemen kontaktieren Sie uns unter mapleshaw@gmail.com"
+      "answer": "Wenn der Inhalt nicht angezeigt wird, versuchen Sie, einen anderen Browser zu verwenden und den Cache zu leeren. Wenn das Problem noch besteht, kontaktieren Sie uns: mapleshaw@gmail.com"
     },
     "9": {
-      "question": "Wie wird der Inhalt des KI Atlas Tools Verzeichnisses generiert?",
-      "answer": "Der Beschreibungsinhalt der KI-Tools wird von Claude von Anthropic generiert."
+      "question": "Wie werden die Inhalte der AI-Tool-Karte generiert?",
+      "answer": "Die Beschreibungen der AI-Tools werden von Anthropic's Claude generiert."
     },
     "10": {
-      "question": "Was sind die Nutzungsrechte der KI-Tools?",
-      "answer": "Das KI Atlas Tools Verzeichnis ist nur das Verzeichnis für KI-Tools. Die Nutzungsrechte der KI-Tools basieren auf der Website der KI-Tools."
+      "question": "Was sind die Nutzungsrechte für AI-Tools?",
+      "answer": "Die AI-Tool-Karte ist nur ein Verzeichnis von AI-Tools. Die Nutzungsrechte für AI-Tools basieren auf der Website des AI-Tools."
     },
     "11": {
-      "question": "Ist die Web UI des KI Atlas Verzeichnisses Open Source?",
-      "answer": "Ja, wir werden die Web UI des KI Atlas Verzeichnisses auf GitHub (https://github.com/6677-ai/tap4-ai-webui) als Open Source veröffentlichen. Bitte geben Sie uns einen Stern!"
-    }
+      "question": "Ist die Web-Oberfläche der AI-Tool-Karte open-source?",
+      "answer": "Ja, wir werden die Web-Oberfläche der AI-Tool-Karte auf GitHub (https://github.com/6677-ai/tap4-ai-webui) open-source machen. Bitte geben Sie uns einen Stern."
+    },
+    "title": "Häufig gestellte Fragen"
   },
   "FooterNavigation": {
     "privacyPolicy": {
-      "1-h1": "Datenschutzrichtlinie für das Open-Source KI Atlas Tools Verzeichnis",
-      "1-p": "Diese Seite informiert Besucher über unsere Richtlinien zur Erfassung, Nutzung und Offenlegung personenbezogener Daten, wenn jemand unseren Service nutzt. Wenn Sie sich entscheiden, unseren Service zu nutzen, stimmen Sie der Erfassung und Nutzung von Informationen in Bezug auf diese Richtlinie zu. Die personenbezogenen Daten, die wir erfassen, werden zur Bereitstellung und Verbesserung des Services verwendet. Wir werden Ihre Informationen nicht verwenden oder mit anderen teilen, außer wie in dieser Datenschutzrichtlinie beschrieben.",
-      "2-h2": "1. Erfassung und Nutzung von Informationen",
-      "2-p": "Für eine bessere Erfahrung bei der Nutzung unseres Services können wir Sie auffordern, uns bestimmte personenbezogene Daten zur Verfügung zu stellen. Die von uns angeforderten Informationen werden von uns gespeichert und wie in dieser Datenschutzrichtlinie beschrieben verwendet. Die App verwendet Dienste von Drittanbietern, die Informationen sammeln können, die zu Ihrer Identifizierung verwendet werden können.",
+      "1-h1": "Datenschutzerklärung der offenen AI-Tool-Karte",
+      "1-p": "Diese Seite informiert Besucher über die Erhebung, Verwendung und Offenlegung personenbezogener Daten. Wenn Sie unsere Dienste nutzen, stimmen Sie der Erhebung und Verwendung von Informationen gemäß dieser Richtlinie zu. Wir erheben personenbezogene Daten, um unsere Dienste bereitzustellen und zu verbessern. Wir teilen Ihre Informationen nicht mit Dritten, es sei denn, es ist in dieser Datenschutzerklärung anders angegeben.",
+      "2-h2": "1. Erhebung und Verwendung von Informationen",
+      "2-p": "Um unsere Dienste bereitzustellen, bitten wir Sie möglicherweise um bestimmte personenbezogene Daten. Die von uns angeforderten Informationen werden auf Ihrem Gerät gespeichert und wir teilen sie nicht mit Dritten.",
       "3-h2": "2. Protokolldaten",
-      "3-p": "Wir möchten Sie darüber informieren, dass wir bei der Nutzung unseres Services im Falle eines Fehlers in der App Daten und Informationen (durch Produkte von Drittanbietern) auf Ihrem Telefon sammeln, die als Protokolldaten bezeichnet werden. Diese Protokolldaten können Informationen wie die Internet Protocol (\"IP\") Adresse Ihres Geräts, den Gerätenamen, die Version des Betriebssystems, die Konfiguration der App bei der Nutzung unseres Services, die Uhrzeit und das Datum Ihrer Nutzung des Services und andere Statistiken enthalten.",
+      "3-p": "Wir möchten Ihnen mitteilen, dass wir bei jedem Besuch unserer Website möglicherweise Protokolldaten erheben, wenn ein Fehler auftritt. Diese Protokolldaten können Ihre IP-Adresse, Geräteinformationen, Konfigurationsinformationen und andere statistische Informationen enthalten.",
       "4-h2": "3. Cookies",
-      "4-p": "Cookies sind Dateien mit einer kleinen Datenmenge, die üblicherweise als anonyme eindeutige Kennungen verwendet werden. Diese werden von den Websites, die Sie besuchen, an Ihren Browser gesendet und im internen Speicher Ihres Geräts gespeichert. Dieser Service verwendet diese \"Cookies\" nicht explizit. Die App kann jedoch Code und Bibliotheken von Drittanbietern verwenden, die \"Cookies\" verwenden, um Informationen zu sammeln und ihre Dienste zu verbessern.",
+      "4-p": "Cookies sind Dateien mit geringem Dateninhalt, die normalerweise als anonyme eindeutige Kennung verwendet werden. Diese Daten werden von der besuchten Website an Ihren Browser gesendet und auf Ihrem Gerät gespeichert. Wir verwenden keine Cookies, um Ihre personenbezogenen Daten zu erheben. Wir verwenden jedoch möglicherweise Drittanbieter-Codes und -Bibliotheken, die Cookies verwenden, um Informationen zu erheben und ihre Dienste zu verbessern.",
       "5-h2": "4. Dienstleister",
-      "5-p-1": "Wir können aus folgenden Gründen Drittunternehmen und Einzelpersonen beschäftigen:",
-      "5-li-1": "Um unseren Service zu erleichtern;",
-      "5-li-2": "Um den Service in unserem Namen bereitzustellen;",
-      "5-li-3": "Um servicebezogene Dienstleistungen zu erbringen; oder",
-      "5-li-4": "Um uns bei der Analyse der Nutzung unseres Services zu unterstützen.",
-      "5-p-2": "Wir möchten die Nutzer dieses Services darüber informieren, dass diese Dritten Zugang zu Ihren personenbezogenen Daten haben. Der Grund dafür ist, die ihnen von uns übertragenen Aufgaben auszuführen. Sie sind jedoch verpflichtet, die Informationen nicht für andere Zwecke offenzulegen oder zu verwenden.",
+      "5-p-1": "Wir können Dritte beauftragen, um unsere Dienste bereitzustellen:",
+      "5-li-1": "Um unsere Dienste zu fördern;",
+      "5-li-2": "Um unsere Dienste zu vertreten;",
+      "5-li-3": "Um Dienstleistungen im Zusammenhang mit unseren Diensten zu erbringen;",
+      "5-li-4": "Um die Verwendung unserer Dienste zu analysieren;",
+      "5-p-2": "Wir möchten Ihnen mitteilen, dass diese Dritten möglicherweise auf Ihre personenbezogenen Daten zugreifen können. Der Grund dafür ist, dass sie unsere Dienste im Auftrag von uns erbringen. Sie haben jedoch die Pflicht, Ihre Informationen nicht für andere Zwecke offenzulegen oder zu verwenden.",
       "6-h2": "5. Sicherheit",
-      "6-p": "Wir schätzen Ihr Vertrauen in die Bereitstellung Ihrer personenbezogenen Daten und bemühen uns daher, wirtschaftlich akzeptable Mittel zu deren Schutz einzusetzen. Denken Sie jedoch daran, dass keine Übertragungsmethode über das Internet oder elektronische Speichermethode 100% sicher und zuverlässig ist, und wir können ihre absolute Sicherheit nicht garantieren.",
-      "7-h2": "6. Links zu anderen Websites",
-      "7-p": "Dieser Service kann Links zu anderen Websites enthalten. Wenn Sie auf einen Link eines Dritten klicken, werden Sie zu dieser Website weitergeleitet. Beachten Sie, dass diese externen Websites nicht von uns betrieben werden. Daher empfehlen wir Ihnen dringend, die Datenschutzrichtlinie dieser Websites zu überprüfen. Wir haben keine Kontrolle über und übernehmen keine Verantwortung für den Inhalt, die Datenschutzrichtlinien oder Praktiken von Websites oder Diensten Dritter.",
-      "8-h2": "7. Änderungen dieser Datenschutzrichtlinie",
-      "8-p": "Wir können unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Daher empfehlen wir Ihnen, diese Seite regelmäßig auf Änderungen zu überprüfen. Wir werden Sie über alle Änderungen informieren, indem wir die neue Datenschutzrichtlinie auf dieser Seite veröffentlichen. Diese Änderungen treten sofort nach ihrer Veröffentlichung auf dieser Seite in Kraft."
+      "6-p": "Wir achten darauf, Ihre personenbezogenen Daten zu schützen, indem wir kommerziell akzeptable Mittel verwenden, um sie zu schützen. Bitte beachten Sie jedoch, dass keine Übertragung von Informationen über das Internet oder elektronische Speicherung 100% sicher und zuverlässig ist.",
+      "7-h2": "6. Verlinkungen zu anderen Websites",
+      "7-p": "Unsere Dienste können Links zu anderen Websites enthalten. Wenn Sie auf einen Link zu einer Drittanbieter-Website klicken, werden Sie zu dieser Website weitergeleitet. Bitte beachten Sie, dass wir keine Kontrolle über den Inhalt, die Datenschutzerklärung oder die Praktiken dieser Drittanbieter-Websites haben.",
+      "8-h2": "7. Änderungen an dieser Datenschutzerklärung",
+      "8-p": "Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren. Wir empfehlen Ihnen, diese Seite regelmäßig zu überprüfen, um Änderungen zu erkennen. Wir werden Sie über Änderungen an dieser Datenschutzerklärung informieren, indem wir eine neue Version auf dieser Seite veröffentlichen."
     },
     "termsConditions": {
-      "1-h1": "Nutzungsbedingungen des KI Atlas Verzeichnisses",
-      "1-p": "Willkommen beim KI Atlas Verzeichnis! Unsere Website (https://tap4.ai, die \"Website\") ist der Bereitstellung der Möglichkeit zur Erstellung benutzerdefinierter Bilder gewidmet. Durch den Zugriff auf oder die Nutzung unserer Website stimmen Sie zu, an diese Nutzungsbedingungen (die \"Bedingungen\") gebunden zu sein. Wenn Sie mit einem Teil der Bedingungen nicht einverstanden sind, ist Ihnen die Nutzung der Website untersagt.",
-      "2-h2": "1. Nutzungslizenz",
-      "2-p": "Ihnen wird eine beschränkte, nicht-exklusive und nicht übertragbare Lizenz zur Nutzung unserer Website und ihrer Dienste für persönliche und nicht-kommerzielle Zwecke gewährt. Diese Lizenz beinhaltet nicht das Recht, den Inhalt der Website ohne unsere vorherige schriftliche Zustimmung zu kopieren, zu modifizieren, zu verteilen oder für kommerzielle Zwecke zu nutzen.",
+      "1-h1": "Bedingungen und Konditionen der AI-Tool-Karte",
+      "1-p": "Willkommen bei der AI-Tool-Karte! Unsere Website befindet sich unter https://tap4.ai („Website“) und bietet Ihnen die Möglichkeit, benutzerdefinierte Bilder zu erstellen. Durch den Besuch oder die Verwendung unserer Website stimmen Sie den Bedingungen und Konditionen („Bedingungen“) zu. Wenn Sie nicht mit allen Bedingungen einverstanden sind, ist die Verwendung der Website untersagt.",
+      "2-h2": "1. Nutzungsrecht",
+      "2-p": "Sie erhalten eine begrenzte, nicht ausschließliche, nicht übertragbare Lizenz, um die Website und ihre Dienste für persönliche, nicht kommerzielle Zwecke zu nutzen. Ohne unsere vorherige schriftliche Zustimmung ist diese Lizenz nicht auf die Vervielfältigung, Modifizierung oder Verbreitung von Inhalten der Website oder die Verwendung für kommerzielle Zwecke ausgedehnt.",
       "3-h2": "2. Eigentum",
-      "3-p": "Das Eigentum an den aus Text generierten Bildern auf der Website gehört der Person, die das Bild erstellt hat. Tap4.ai erhebt keinen Anspruch auf das Eigentum an von Benutzern erstellten Bildern.",
-      "4-h2": "3. Benutzerdatenerfassung",
-      "4-p": "Zur Verbesserung unserer Dienste erfassen wir personenbezogene Daten (Name, E-Mail, Zahlungsinformationen) und nicht personenbezogene Daten (Web-Cookies). Die Nutzung dieser Daten unterliegt unserer Datenschutzrichtlinie. Weitere Details finden Sie unter",
-      "terms-of-service": "Nutzungsbedingungen",
-      "5-h2": "4. Geltendes Recht",
-      "5-p": "Diese Bedingungen unterliegen den Gesetzen der Vereinigten Staaten von Amerika und werden in Übereinstimmung mit diesen ausgelegt, ungeachtet ihrer Kollisionsnormen.",
-      "6-h2": "5. Änderungen der Bedingungen",
-      "6-p": "Das KI Atlas Verzeichnis behält sich das Recht vor, diese Bedingungen nach eigenem Ermessen jederzeit zu ändern oder zu ersetzen. Wir werden die Benutzer per E-Mail über alle Änderungen informieren. Ihre fortgesetzte Nutzung der Website nach solchen Änderungen dieser Bedingungen stellt Ihre Zustimmung zu solchen Änderungen dar.",
+      "3-p": "Das Eigentum an den auf der Website generierten Bildern gehört den Erstellern der Bilder. Tap4.ai beansprucht kein Eigentum an den von den Benutzern erstellten Bildern.",
+      "4-h2": "3. Datenerhebung",
+      "4-p": "Wir erheben personenbezogene Daten (Name, E-Mail-Adresse und Zahlungsinformationen) und nicht personenbezogene Daten (Web-Cookies), um unsere Dienste zu verbessern. Die Verwendung dieser Daten unterliegt unserer Datenschutzerklärung, die auf",
+      "terms-of-service": "Bedingungen und Konditionen",
+      "5-h2": "4. Anwendbares Recht",
+      "5-p": "Diese Bedingungen unterliegen dem Recht der Vereinigten Staaten und werden entsprechend ausgelegt, ohne Berücksichtigung von Kollisionsnormen.",
+      "6-h2": "5. Änderungen an diesen Bedingungen",
+      "6-p": "Die AI-Tool-Karte behält sich das Recht vor, diese Bedingungen jederzeit zu ändern oder zu ersetzen. Wir werden Sie über Änderungen an diesen Bedingungen informieren, indem wir eine neue Version auf dieser Seite veröffentlichen.",
       "7-h2": "6. Kontaktinformationen",
-      "7-p": "Wenn Sie Fragen zu diesen Bedingungen haben, kontaktieren Sie uns bitte unter contact@6677.ai.",
-      "last-p": "Durch die Nutzung des KI Atlas Verzeichnisses zeigen Sie Ihre Zustimmung zu diesen Nutzungsbedingungen an."
+      "7-p": "Wenn Sie Fragen zu diesen Bedingungen haben, kontaktieren Sie uns bitte: contact@6677.ai",
+      "last-p": "Die Verwendung der AI-Tool-Karte bedeutet, dass Sie diese Bedingungen akzeptieren."
     }
   },
   "NotFound": {
     "title": "404 Nicht gefunden",
-    "goHome": "Zur Startseite"
+    "goHome": "Zurück zur Startseite"
   },
   "Home": {
-    "title": "Alle KI-Tools. Ein Atlas.",
-    "subTitle": "Ihr kuratierter Leitfaden zum Entdecken und Nutzen der besten KI-Tools für maximale Produktivität",
-    "ai-navigate": "KI-Tools Liste",
-    "exploreMore": "Mehr KI-Tools erhalten",
+    "title": "AI-Effizienz-Tool-Karte: Jeder kann leicht AI beherrschen",
+    "subTitle": "Ihr professioneller Leitfaden, um Spitzen-AI-Tools zu entdecken und Ihre Produktivität zu steigern",
+    "ai-navigate": "AI-Tool-Liste",
+    "exploreMore": "Erkunden Sie mehr AI-Tools",
     "checkDetail": "Details anzeigen",
     "search": "Suchen",
     "result": "Suchergebnis",
-    "empty": "Keine Daten verfügbar"
+    "empty": "Keine Daten verfügbar",
+    "hotTools": "Empfohlene Tools",
+    "newTools": "Neue Tools"
   },
   "Category": {
     "home": "Startseite",
     "empty": "Keine Daten verfügbar"
   },
   "Submit": {
-    "title": "Reichen Sie Ihr KI-Tool ein",
-    "subTitle": "Reichen Sie Ihr KI-Tool ein und erhalten Sie Traffic vom KI Atlas Tools Verzeichnis",
+    "title": "Einreichen Ihres AI-Tools",
+    "subTitle": "Einreichen Ihres AI-Tools und erhalten Sie Traffic von der AI-Tool-Karte",
     "website": "Website-Name",
     "url": "Website-URL",
     "submit": "Einreichen",
     "add": "Hinzufügen",
-    "text": "zu Ihrer Website-Homepage, und dann können Sie Ihre Website kostenlos erfolgreich einreichen!",
+    "text": "Gehen Sie zu Ihrer Website-Startseite und dann können Sie Ihr Tool kostenlos erfolgreich einreichen!",
     "networkError": "Netzwerkfehler",
-    "success": "Erfolg"
+    "success": "Erfolgreich"
   },
   "Startup": {
-    "title": "Starten Sie Ihr Startup",
-    "subTitle": "Die ultimative Liste von Websites zum Starten und Bewerben Ihres Startups online. Um zur Liste hinzugefügt zu werden oder Ihr Produkt zur kostenlosen Liste hinzuzufügen, senden Sie uns bitte eine E-Mail an: mapleshaw@gmail.com",
-    "updateTime": "Täglich kuratiert und aktualisiert. Zuletzt aktualisiert:",
+    "title": "Starten Sie Ihr Unternehmen",
+    "subTitle": "Starten und fördern Sie Ihr Unternehmen-Website mit der ultimativen Liste. Um Ihre Produkte in die kostenlose Liste aufzunehmen, senden Sie bitte eine E-Mail an: contact@tap4.ai",
+    "updateTime": "Täglich geplant und aktualisiert. Letzte Aktualisierung:",
     "table": {
       "da": "DA",
       "website": "Website",
-      "tags": "Tags",
+      "tags": "Schlüsselwörter",
       "price": "Preis",
       "submission": "Einreichung"
     },
@@ -159,27 +161,27 @@
     }
   },
   "Explore": {
-    "title": "Alle KI-Tools. Ein Atlas.",
-    "subTitle": "Ihr kuratierter Leitfaden zum Entdecken und Nutzen der besten KI-Tools für maximale Produktivität"
+    "title": "AI-Effizienz-Tool-Karte: Jeder kann leicht AI beherrschen",
+    "subTitle": "Ihr professioneller Leitfaden, um Spitzen-AI-Tools zu entdecken und Ihre Produktivität zu steigern"
   },
   "Metadata": {
     "home": {
-      "title": "Alle KI-Tools. Ein Atlas. | KI Atlas Tools Verzeichnis",
-      "description": "Das KI Atlas Verzeichnis ist ein Tool, das ein kostenloses KI-Tools-Verzeichnis bereitstellt. Erhalten Sie Ihre bevorzugten KI-Tools mit dem KI Atlas Verzeichnis, das darauf abzielt, alle KI-Tools zu sammeln und das Beste für die Benutzer bereitzustellen.",
-      "keywords": "KI Atlas Verzeichnis"
+      "title": "AI-SEO-Tools und agile Lösungen | AI-Tool-Karte",
+      "description": "Die AI-Tool-Karte bietet kostenlose AI-SEO-Tools und agile Erweiterungslösungen. Mit der AI-Tool-Karte können Sie Ihre Lieblings-AI-Tools finden und Unternehmen helfen, agile AI-Lösungen umzusetzen.",
+      "keywords": "AI-Tool-Karte, AI-SEO-Tools, agile Lösungen"
     },
     "ai": {
-      "titleSubfix": "KI Atlas Verzeichnis"
+      "titleSubfix": "AI-Tool-Karte"
     },
     "explore": {
-      "title": "Beste KI-Tools-Erkundung 2024 | Open-Source KI Atlas Tools Verzeichnis",
-      "titlePrefix": "KI Atlas Verzeichnis erkunden",
-      "titleSuffix": "KI Atlas Verzeichnis",
-      "description": "Das KI Atlas Verzeichnis ist ein Tool, das ein kostenloses KI-Tools-Verzeichnis bereitstellt. Erhalten Sie Ihre bevorzugten KI-Tools mit dem KI Atlas Verzeichnis, das darauf abzielt, alle KI-Tools zu sammeln und das Beste für die Benutzer bereitzustellen.",
-      "keywords": "KI Atlas Verzeichnis"
+      "title": "2024 Best AI-Tools Erkundung | Offene AI-Tool-Karte",
+      "titlePrefix": "AI-Tool-Karte Erkundung",
+      "titleSuffix": "AI-Tool-Karte",
+      "description": "Die AI-Tool-Karte ist ein Tool, das kostenlose AI-Tools anbietet. Mit der AI-Tool-Karte können Sie Ihre Lieblings-AI-Tools finden und Unternehmen helfen, agile AI-Lösungen umzusetzen.",
+      "keywords": "AI-Tool-Karte"
     },
     "submit": {
-      "title": "Reichen Sie Ihr KI-Tool ein und erhalten Sie Traffic | KI Atlas Verzeichnis"
+      "title": "Einreichen Ihres AI-Tools und erhalten Sie Traffic | AI-Tool-Karte"
     }
   }
 }

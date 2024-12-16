@@ -95,6 +95,8 @@ CRON_AUTH_KEY="keyxxxx"
 # Submit API verification key
 SUBMIT_AUTH_KEY="xxxx"
 
+# Groq API key
+GROQ_API_KEY="xxxx"
 ```
 
 **Note: This version uses Vercel's scheduled tasks to automatically read and submit websites and generate website

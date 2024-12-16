@@ -47,6 +47,7 @@ export default async function Page({ params }: { params: { search?: string } }) 
             data={categoryList!.map((item) => ({
               id: String(item.id),
               name: item.name,
+              title: item.title,
               href: `/category/${item.name}`,
             }))}
           />

@@ -1,6 +1,13 @@
 import fs from 'fs';
 import path from 'path';
+// eslint-disable-next-line import/no-extraneous-dependencies
+import * as dotenv from 'dotenv';
 import { Groq } from 'groq-sdk';
+
+dotenv.config();
+
+// 添加一行调试代码
+console.log('GROQ_API_KEY:', process.env.GROQ_API_KEY);
 
 // 从环境变量获取 API key
 const groq = new Groq({
@@ -11,7 +18,53 @@ if (!process.env.GROQ_API_KEY) {
   throw new Error('GROQ_API_KEY environment variable is not set');
 }
 
-async function translateJSON(sourceJSON: any, targetLang: string) {
+// 查找新增的词条
+function findNewEntries(source: any, existing: any, prefix = ''): any {
+  const newEntries: any = {};
+
+  Object.keys(source).forEach((key) => {
+    const currentPath = prefix ? `${prefix}.${key}` : key;
+
+    if (!(key in existing)) {
+      // 如果键不存在于目标文件中，添加整个子树
+      newEntries[key] = source[key];
+    } else if (typeof source[key] === 'object' && source[key] !== null) {
+      // 如果是对象，递归检查
+      const subEntries = findNewEntries(source[key], existing[key], currentPath);
+      if (Object.keys(subEntries).length > 0) {
+        newEntries[key] = subEntries;
+      }
+    }
+  });
+
+  return newEntries;
+}
+
+// 合并翻译结果
+function mergeTranslations(existing: any, newTranslations: any): any {
+  const merged = { ...existing };
+
+  Object.keys(newTranslations).forEach((key) => {
+    if (typeof newTranslations[key] === 'object' && newTranslations[key] !== null) {
+      merged[key] = merged[key] || {};
+      merged[key] = mergeTranslations(merged[key], newTranslations[key]);
+    } else {
+      merged[key] = newTranslations[key];
+    }
+  });
+
+  return merged;
+}
+
+async function translateJSON(sourceJSON: any, existingJSON: any, targetLang: string) {
+  // 找出需要翻译的新键
+  const newEntries = findNewEntries(sourceJSON, existingJSON);
+
+  if (Object.keys(newEntries).length === 0) {
+    console.log(`No new entries to translate for ${targetLang}`);
+    return existingJSON;
+  }
+
   const result = await groq.chat.completions.create({
     messages: [
       {
@@ -25,32 +78,31 @@ async function translateJSON(sourceJSON: any, targetLang: string) {
       },
       {
         role: 'user',
-        content: JSON.stringify(sourceJSON, null, 2),
+        content: JSON.stringify(newEntries, null, 2),
       },
     ],
     model: 'llama3-70b-8192',
-    temperature: 0.1, // 降低温度以获得更准确的翻译
+    temperature: 0.1,
     max_tokens: 4096,
   });
+
   if (result.choices[0].message.content) {
     try {
-      let { content } = result.choices[0].message;
-
-      // 尝试提取JSON内容
-      const [jsonMatch] = content.match(/\{[\s\S]*\}/) || [];
-      if (jsonMatch) {
-        content = jsonMatch;
+      const { content } = result.choices[0].message;
+      // 确保 JSON 格式完整
+      let jsonString = content.match(/\{[\s\S]*\}/)?.[0] ?? content;
+      // 检查并修复不完整的 JSON
+      if (jsonString.split('{').length > jsonString.split('}').length) {
+        jsonString += '}';
       }
-
-      // 解析JSON
-      return JSON.parse(content);
+      const translatedNewEntries = JSON.parse(jsonString);
+      return mergeTranslations(existingJSON, translatedNewEntries);
     } catch (e) {
       console.error(`解析${targetLang}的JSON失败:`, e);
       console.log('原始响应:', result.choices[0].message.content);
       throw e;
     }
   } else {
-    console.error(`No content to parse for ${targetLang}`);
     throw new Error(`No content to parse for ${targetLang}`);
   }
 }
@@ -60,7 +112,6 @@ async function updateTranslations() {
     // 读取中文源文件
     const cnJSON = JSON.parse(fs.readFileSync('./messages/cn.json', 'utf8'));
 
-    // 语言映射表
     const langMap = {
       en: 'English',
       de: 'German',
@@ -75,15 +126,24 @@ async function updateTranslations() {
     // 并行处理所有翻译
     const translations = await Promise.all(
       Object.entries(langMap).map(async ([langCode, langName]) => {
-        console.log(`Translating to ${langName}...`);
+        console.log(`检查 ${langName} 的新词条...`);
         try {
-          const translated = await translateJSON(cnJSON, langName);
+          // 读取现有翻译文件（如果存在）
+          let existingTranslation = {};
+          const filePath = path.join('./messages', `${langCode}.json`);
+
+          if (fs.existsSync(filePath)) {
+            existingTranslation = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+          }
+
+          // 执行增量翻译
+          const translated = await translateJSON(cnJSON, existingTranslation, langName);
           return {
             langCode,
             content: translated,
           };
         } catch (e) {
-          console.error(`Failed to translate ${langName}:`, e);
+          console.error(`翻译 ${langName} 失败:`, e);
           return null;
         }
       }),
@@ -95,12 +155,12 @@ async function updateTranslations() {
 
       const filePath = path.join('./messages', `${translation.langCode}.json`);
       fs.writeFileSync(filePath, JSON.stringify(translation.content, null, 2));
-      console.log(`Updated ${translation.langCode} translation`);
+      console.log(`更新了 ${translation.langCode} 翻译`);
     });
 
-    console.log('All translations completed!');
+    console.log('所有翻译完成！');
   } catch (e) {
-    console.error('Translation process failed:', e);
+    console.error('翻译过程失败:', e);
   }
 }
 

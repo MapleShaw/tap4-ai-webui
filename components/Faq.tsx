@@ -1,72 +1,93 @@
+'use client';
+
+import { useState } from 'react';
 import { CircleHelp } from 'lucide-react';
 import { useTranslations } from 'next-intl';
 
-function TitleItem({ children }: { children: React.ReactNode }) {
-  return (
-    <h3 className='flex items-center gap-1 text-2xl'>
-      <CircleHelp /> {children}
-    </h3>
-  );
-}
+function FaqItem({ question, answers }: { question: string; answers: string[] }) {
+  const [isOpen, setIsOpen] = useState(false);
 
-function ContentItem({ children }: { children: React.ReactNode }) {
-  return <p className='mt-3 text-white/60'>{children}</p>;
+  return (
+    <div className='w-full max-w-2xl border-b border-white/10'>
+      <button
+        type='button'
+        onClick={() => setIsOpen(!isOpen)}
+        className='flex w-full items-center justify-between py-4 text-left'
+      >
+        <h3 className='flex items-center gap-2 text-xl'>
+          <CircleHelp /> {question}
+        </h3>
+        <span className={`transform transition-transform ${isOpen ? 'rotate-180' : ''}`}>▼</span>
+      </button>
+      {isOpen && (
+        <div className='pb-4'>
+          {answers.map((answer) => (
+            <p key={`faq-answer-${answer.slice(0, 20)}`} className='mt-2 text-white/60'>
+              {answer}
+            </p>
+          ))}
+        </div>
+      )}
+    </div>
+  );
 }
 
 export default function Faq() {
   const t = useTranslations('Faq');
+
+  const faqItems = [
+    /* {
+      question: t('1.question'),
+      answers: [t('1.answer')],
+    }, */
+    {
+      question: t('2.question'),
+      answers: [t('2.answer-1'), t('2.answer-2'), t('2.answer-3')],
+    },
+    {
+      question: t('3.question'),
+      answers: [t('3.answer-1'), t('3.answer-2')],
+    },
+    {
+      question: t('4.question'),
+      answers: [t('4.answer')],
+    },
+    {
+      question: t('5.question'),
+      answers: [t('5.answer')],
+    },
+    {
+      question: t('6.question'),
+      answers: [t('6.answer')],
+    },
+    {
+      question: t('7.question'),
+      answers: [t('7.answer')],
+    },
+    {
+      question: t('8.question'),
+      answers: [t('8.answer')],
+    },
+    {
+      question: t('9.question'),
+      answers: [t('9.answer')],
+    },
+    {
+      question: t('10.question'),
+      answers: [t('10.answer')],
+    },
+    /* {
+      question: t('11.question'),
+      answers: [t('11.answer')],
+    } */
+  ];
+
   return (
-    <div className='mx-auto max-w-pc space-y-8 pb-5'>
-      <h2 className='text-center text-2xl font-bold lg:pb-3 lg:text-3xl'>{t('title')}</h2>
-      <div className='grid grid-cols-1 gap-5 px-3 lg:grid-cols-2 lg:gap-16 lg:px-0'>
-        {/* <div>
-          <TitleItem>{t('1.question')}</TitleItem>
-          <ContentItem>{t('1.answer')}</ContentItem>
-        </div> */}
-        <div>
-          <TitleItem>{t('2.question')}</TitleItem>
-          <ContentItem>{t('2.answer-1')}</ContentItem>
-          <ContentItem>{t('2.answer-2')}</ContentItem>
-          <ContentItem>{t('2.answer-3')}</ContentItem>
-        </div>
-        <div>
-          <TitleItem>{t('3.question')}</TitleItem>
-          <ContentItem>{t('3.answer-1')}</ContentItem>
-          <ContentItem>{t('3.answer-2')}</ContentItem>
-        </div>
-        <div>
-          <TitleItem>{t('4.question')}</TitleItem>
-          <ContentItem>{t('4.answer')}</ContentItem>
-        </div>
-        <div>
-          <TitleItem>{t('5.question')}</TitleItem>
-          <ContentItem>{t('5.answer')}</ContentItem>
-        </div>
-        <div>
-          <TitleItem>{t('6.question')}</TitleItem>
-          <ContentItem>{t('6.answer')}</ContentItem>
-        </div>
-        <div>
-          <TitleItem>{t('7.question')}</TitleItem>
-          <ContentItem>{t('7.answer')}</ContentItem>
-        </div>
-        <div>
-          <TitleItem>{t('8.question')}</TitleItem>
-          <ContentItem>{t('8.answer')}</ContentItem>
-        </div>
-        <div>
-          <TitleItem>{t('9.question')}</TitleItem>
-          <ContentItem>{t('9.answer')}</ContentItem>
-        </div>
-        <div>
-          <TitleItem>{t('10.question')}</TitleItem>
-          <ContentItem>{t('10.answer')}</ContentItem>
-        </div>
-        {/* <div>
-          <TitleItem>{t('11.question')}</TitleItem>
-          <ContentItem>{t('11.answer')}</ContentItem>
-        </div> */}
-      </div>
+    <div className='mx-auto flex max-w-2xl flex-col items-center space-y-4 pb-5'>
+      <h2 className='mb-8 text-center text-2xl font-bold lg:text-3xl'>{t('title')}</h2>
+      {faqItems.map((item) => (
+        <FaqItem key={`faq-item-${item.question}`} question={item.question} answers={item.answers} />
+      ))}
     </div>
   );
 }

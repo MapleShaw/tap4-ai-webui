@@ -1,6 +1,9 @@
 {
   "Common": {
-    "loading": "Loading..."
+    "loading": "Loading...",
+    "select": "Select...",
+    "search": "Search...",
+    "noResults": "No matching options"
   },
   "Navigation": {
     "title": "All AI Tools. One Atlas.",
@@ -23,7 +26,7 @@
   "Faq": {
     "1": {
       "question": "What is the Open-Source AI Tool Directory?",
-      "answer": "AI Tool Directory - tap4.ai is building an AI tool directory to help you get your favorite AI tools. You can find AI writing tools, AI marketing tools, AI rewriting tools, AI SEO tools, AI learning tools, AI generation tools, AI research tools, AI art tools, AI music tools, AI video tools, AI coding tools, AI image tools, and more."
+      "answer": "The AI Tool Directory - tap4.ai is building an AI tool directory to help you get your favorite AI tools. You can find AI writing tools, AI marketing tools, AI rewriting tools, AI SEO tools, AI learning tools, AI generation tools, AI research tools, AI art tools, AI music tools, AI video tools, AI coding tools, AI image tools, and more."
     },
     "2": {
       "question": "How to find your AI tool in the AI Tool Directory?",
@@ -45,16 +48,16 @@
       "answer": "We will support all types of AI tools soon. Please wait for a few days."
     },
     "6": {
-      "question": "How often is the AI tool list updated?",
+      "question": "How often is the AI tool list updated in the AI Tool Directory?",
       "answer": "The AI tool list will be updated daily."
     },
     "7": {
-      "question": "Does the AI Map support GPT-4o or Sora AI?",
+      "question": "Does the AI Tool Directory support GPT-4o or Sora AI?",
       "answer": "You can get GPT-4o or Sora AI tools here. There are introductions to GPT-4o and Sora video tools, and you can access the tool's website."
     },
     "8": {
       "question": "Troubleshooting",
-      "answer": "If the content doesn't appear, try using another browser, clear cache. If the problem still exists, contact us: mapleshaw@gmail.com"
+      "answer": "If the content doesn't appear, try using another browser, clear the cache. If the problem still exists, please contact us: mapleshaw@gmail.com"
     },
     "9": {
       "question": "How is the content of the AI Tool Directory generated?",
@@ -62,55 +65,55 @@
     },
     "10": {
       "question": "What are the usage rights of AI tools?",
-      "answer": "The AI Tool Directory is just a directory of AI tools. The usage rights of AI tools are based on the AI tool's website."
+      "answer": "The AI Tool Directory is just a directory of AI tools. The usage rights of AI tools are based on the website of the AI tool."
     },
     "11": {
-      "question": "Is the Web UI of the AI Map open-source?",
-      "answer": "Yes, we will open-source the Web UI of the AI Map on GitHub (https://github.com/6677-ai/tap4-ai-webui). Please give us a star."
+      "question": "Is the Web UI of the AI Tool Directory open-source?",
+      "answer": "Yes, we will open-source the Web UI of the AI Tool Directory on GitHub (https://github.com/6677-ai/tap4-ai-webui). Please give us a star."
     },
     "title": "Frequently Asked Questions"
   },
   "FooterNavigation": {
     "privacyPolicy": {
       "1-h1": "Open-Source AI Tool Directory Privacy Policy",
-      "1-p": "This page is used to notify visitors regarding our policies with the collection, use, and disclosure of personal information. If you choose to use our service, then you agree to the collection and use of information related to this policy. We collect personal information to provide and improve our service. Unless otherwise stated in this privacy policy, we will not share your information with anyone.",
+      "1-p": "This page is used to notify visitors regarding our policies with the collection, use, and disclosure of personal information if you choose to use our service, then you agree to the collection and use of information related to this policy. We collect personal information to provide and improve our service. Unless otherwise stated in this privacy policy, we will not share your information with anyone.",
       "2-h2": "1. Information Collection and Use",
       "2-p": "To provide better service, we may request certain personally identifiable information when you use our service. The information we request will be stored on your device, and we will not collect it in any way. This application uses third-party services that may collect information used to identify you.",
       "3-h2": "2. Log Data",
-      "3-p": "I want to inform you that every time you use our service, we collect data and information (through third-party products) when an error occurs in the application on your phone. This log data may include your device's IP address, device name, operating system version, configuration, time and date of use, and other statistical information.",
+      "3-p": "I want to inform you that every time you use our service, we collect data and information (through third-party products) in the event of an error in the application. This log data may include your device's IP address, device name, operating system version, configuration, and other statistics information.",
       "4-h2": "3. Cookies",
-      "4-p": "Cookies are files with small amounts of data, usually used as anonymous unique identifiers. These data are sent to your browser from the website you visit and stored on your device's memory. This service does not explicitly use these 'cookies'. However, this application may use third-party code and libraries that use 'cookies' to collect information and improve their service.",
+      "4-p": "Cookies are files with small amounts of data that are commonly used as anonymous unique identifiers. These files are sent to your browser from the website you visit and are stored on your device's internal memory. This service does not use these 'cookies' explicitly. However, the application may use third-party code and libraries that use 'cookies' to collect information and improve their service.",
       "5-h2": "4. Service Providers",
-      "5-p-1": "We may employ third-party companies and individuals for the following reasons:",
+      "5-p-1": "We may employ third-party companies and individuals due to the following reasons:",
       "5-li-1": "To facilitate our service;",
       "5-li-2": "To provide service on our behalf;",
       "5-li-3": "To perform services related to our service;",
-      "5-li-4": "To help us analyze how our service is used;",
-      "5-p-2": "I want to inform users of this service that these third parties have access to your personal information. The reason is that they are performing tasks assigned to them on our behalf. However, they have an obligation not to disclose or use this information for any other purpose.",
+      "5-li-4": "To assist us in analyzing how our service is used;",
+      "5-p-2": "I want to inform users of this service that these third parties have access to your personal information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.",
       "6-h2": "5. Security",
-      "6-p": "I value the trust you place in us by providing personal information, so we are committed to using commercially acceptable means to protect it. However, please remember that no method of transmission over the internet or electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.",
+      "6-p": "I value the trust you place in us by providing your personal information, so we are committed to using commercially acceptable means to protect it. But please remember that no method of transmission over the internet or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.",
       "7-h2": "6. Links to Other Sites",
-      "7-p": "This service may contain links to other websites. If you click on a third-party link, you will be directed to that website. Please note that these external websites are not operated by us. Therefore, I strongly advise you to review the privacy policies of these websites. I am not responsible for the content, privacy policies, or practices of any third-party website or service.",
+      "7-p": "This service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, I strongly advise you to review the privacy policies of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.",
       "8-h2": "7. Changes to This Privacy Policy",
-      "8-p": "I may update our privacy policy from time to time. Therefore, I suggest you review this page periodically for any changes. I will notify you of any changes by posting the new privacy policy on this page. These changes are effective as soon as they are posted on this page."
+      "8-p": "I may update our privacy policy from time to time. Thus, I advise you to review this page periodically for any changes. I will notify you of any changes by posting the new privacy policy on this page. These changes are effective as soon as they are posted on this page."
     },
     "termsConditions": {
       "1-h1": "AI Tool Directory Service Terms",
-      "1-p": "Welcome to the AI Tool Directory! Our website is located at https://tap4.ai ('Website'), dedicated to providing you with the ability to create custom images. By accessing or using our website, you agree to be bound by these service terms ('Terms'). If you do not agree to any term, then you are prohibited from using this website.",
+      "1-p": "Welcome to the AI Tool Directory! Our website is located at https://tap4.ai ('Website'), dedicated to providing you with the ability to create custom images. By accessing or using our website, you agree to be bound by these service terms ('Terms'). If you do not agree to any term, then you are prohibited from using the website.",
       "2-h2": "1. License to Use",
-      "2-p": "You are granted a limited, non-exclusive, non-transferable license to use this website and its services for personal, non-commercial purposes. This license does not include any right to copy, modify, or distribute the content of this website or use it for commercial purposes without our prior written consent.",
+      "2-p": "You are granted a limited, non-exclusive, non-transferable license to use the website and its services for personal, non-commercial purposes. This license does not include any right to copy, modify, or distribute the website content or use it for commercial purposes without our prior written consent.",
       "3-h2": "2. Ownership",
-      "3-p": "The ownership of images generated from text on the website belongs to the creator of the image. Tap4.ai does not claim ownership of user-created images.",
+      "3-p": "The ownership of the images generated on the website belongs to the creator of the image. Tap4.ai does not claim ownership of the images created by users.",
       "4-h2": "3. User Data Collection",
       "4-p": "We collect personal data (name, email, and payment information) and non-personal data (web page cookies) to improve our service. The use of this data is subject to our privacy policy, which can be found at",
       "terms-of-service": "Terms of Service",
       "5-h2": "4. Governing Law",
       "5-p": "These terms shall be governed by and construed in accordance with the laws of the United States, without giving effect to any principles of conflicts of law.",
       "6-h2": "5. Changes to Terms",
-      "6-p": "The AI Tool Directory reserves the right to modify or replace these terms at any time without notice. We will notify users of any changes by posting the new terms on this page. These changes are effective as soon as they are posted on this page.",
+      "6-p": "The AI Tool Directory reserves the right to modify or replace these terms at any time without notice. We will notify users of any changes through email. Your continued use of the website after these changes constitutes your acceptance of the new terms.",
       "7-h2": "6. Contact Information",
       "7-p": "If you have any questions about these terms, please contact us: contact@6677.ai",
-      "last-p": "By using the AI Tool Directory, you acknowledge that you have read, understood, and agree to be bound by these terms."
+      "last-p": "By using the AI Tool Directory, you acknowledge that you have read, understood, and agree to be bound by these service terms."
     }
   },
   "NotFound": {
@@ -119,7 +122,7 @@
   },
   "Home": {
     "title": "All AI Tools. One Atlas.",
-    "subTitle": "Your Professional Guide to Discover and Utilize Top AI Tools to Boost Productivity",
+    "subTitle": "Your Professional Guide to Discover and Utilize Top AI Tools to Boost Productivity!",
     "ai-navigate": "AI Tool List",
     "exploreMore": "Get More AI Tools",
     "checkDetail": "View Details",
@@ -146,14 +149,14 @@
   },
   "Startup": {
     "title": "Start Your Startup",
-    "subTitle": "The ultimate list to launch and promote your startup company website. To add to the list or help submit your product to the free list, please send an email to: contact@tap4.ai",
+    "subTitle": "The ultimate list to start and promote your startup company website. To add to the list or help submit your product to the free list, please send an email to: contact@tap4.ai",
     "updateTime": "Updated daily. Last updated:",
     "table": {
       "da": "DA",
       "website": "Website",
       "tags": "Tags",
       "price": "Price",
-      "submission": "Submission"
+      "submission": "Submit"
     },
     "detail": {
       "visitWebsite": "Visit Website",
@@ -162,7 +165,14 @@
   },
   "Explore": {
     "title": "All AI Tools. One Atlas.",
-    "subTitle": "Your Professional Guide to Discover and Utilize Top AI Tools to Boost Productivity"
+    "subTitle": "Your Professional Guide to Discover and Utilize Top AI Tools to Boost Productivity!",
+    "filterByTags": "Filter by Tags",
+    "sortBy": "Sort By",
+    "hotDesc": "Most Popular First",
+    "hotAsc": "Least Popular First",
+    "timeDesc": "Newest First",
+    "timeAsc": "Oldest First",
+    "reset": "Reset"
   },
   "Metadata": {
     "home": {
@@ -174,7 +184,7 @@
       "titleSubfix": "AI Tool Directory"
     },
     "explore": {
-      "title": "2024 Best AI Tool Exploration | Open-Source AI Tool Directory",
+      "title": "2024 Best AI Tools Exploration | Open-Source AI Tool Directory",
       "titlePrefix": "AI Tool Directory Exploration",
       "titleSuffix": "AI Tool Directory",
       "description": "The AI Tool Directory is a tool that provides a free AI tool directory. Get your favorite AI tools through the AI Tool Directory, aiming to collect all AI tools and provide the best service to users.",

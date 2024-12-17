@@ -1,9 +1,12 @@
 {
   "Common": {
-    "loading": "Laden..."
+    "loading": "Laden...",
+    "select": "Auswählen...",
+    "search": "Suchen...",
+    "noResults": "Keine passenden Optionen"
   },
   "Navigation": {
-    "title": "AI-Effizienz-Tool-Karte: Jeder kann leicht AI beherrschen",
+    "title": "AI-Effizienz-Tool-Karte: Lassen Sie jeden leicht AI beherrschen",
     "discover": "Entdecken Sie AI",
     "submit": "Einreichen",
     "newtools": "Neue Tools",
@@ -11,106 +14,106 @@
     "menu": "Menü"
   },
   "Footer": {
-    "title": "AI-Effizienz-Tool-Karte: Jeder kann leicht AI beherrschen",
-    "subTitle": "Ihr professioneller Leitfaden, um Spitzen-AI-Tools zu entdecken und Ihre Produktivität zu steigern!",
+    "title": "AI-Effizienz-Tool-Karte: Lassen Sie jeden leicht AI beherrschen",
+    "subTitle": "Ihr professioneller Leitfaden, entdecken und nutzen Sie Top-AI-Tools, um Ihre Produktivität zu steigern!",
     "support": "Unterstützung",
     "tap4": "AI-Karte",
-    "tattoo": "AI-Tattoo-Generator",
-    "privacy": "Datenschutzerklärung",
+    "tattoo": "AI-Tätowierungs-Generator",
+    "privacy": "Datenschutzrichtlinie",
     "termsConditions": "Bedingungen und Konditionen",
     "contactUs": "Kontaktieren Sie uns"
   },
   "Faq": {
     "1": {
-      "question": "Was ist die offene AI-Tool-Karte?",
-      "answer": "Die AI-Tool-Karte - tap4.ai baut ein Verzeichnis von AI-Tools auf, um Ihnen Ihre Lieblings-AI-Tools zu beschaffen. Sie können hier AI-Schreibtools, AI-Marketing-Tools, AI-Umbau-Tools, AI-SEO-Tools, AI-Lern-Tools, AI-Generierungs-Tools, AI-Forschungs-Tools, AI-Kunst-Tools, AI-Musik-Tools, AI-Video-Tools, AI-Codier-Tools, AI-Bild-Tools usw. finden."
+      "question": "Was ist das offene AI-Tool-Verzeichnis?",
+      "answer": "Das AI-Tool-Verzeichnis - tap4.ai baut ein Verzeichnis von AI-Tools auf, um Ihnen Ihre Lieblings-AI-Tools zu beschaffen. Sie können hier AI-Schreibtools, AI-Marketing-Tools, AI-Umbau-Tools, AI-SEO-Tools, AI-Lern-Tools, AI-Generatoren, AI-Forschungs-Tools, AI-Kunst-Tools, AI-Musik-Tools, AI-Video-Tools, AI-Codier-Tools, AI-Bild-Tools usw. finden."
     },
     "2": {
       "question": "Wie finde ich mein AI-Tool im AI-Tool-Verzeichnis?",
       "answer-1": "1. Öffnen Sie aiatlas.ai",
       "answer-2": "2. Durchsuchen Sie das AI-Tool-Verzeichnis nach AI-Tools",
-      "answer-3": "3. Klicken Sie auf das benötigte AI-Tool, um Details anzuzeigen und darauf zuzugreifen"
+      "answer-3": "3. Klicken Sie auf das benötigte AI-Tool, um Details anzuzeigen und auf es zuzugreifen"
     },
     "3": {
-      "question": "Was sind die Hauptfunktionen der AI-Tool-Karte?",
-      "answer-1": "1. Kostenlose AI-Tool-Verzeichnis: Hier finden Sie kostenlose AI-Tools",
-      "answer-2": "2. Liste von Start-ups: Kostenlose Liste von Start-ups für AI-Tool-Entwickler"
+      "question": "Was sind die Hauptfunktionen des AI-Tool-Verzeichnisses?",
+      "answer-1": "1. Kostenlose AI-Tool-Verzeichnis: Finden Sie Ihre Lieblings-AI-Tools kostenlos",
+      "answer-2": "2. Liste von Start-up-Unternehmen: Kostenlose Liste von Start-up-Unternehmen für AI-Tool-Entwickler"
     },
     "4": {
-      "question": "Ist die Einreichung von AI-Tools in die AI-Tool-Karte kostenlos?",
-      "answer": "Ja, es ist derzeit kostenlos. Sie sollten jedoch einen Rücklink zur AI-Tool-Karte teilen!"
+      "question": "Ist die Einreichung von AI-Tools im AI-Tool-Verzeichnis kostenlos?",
+      "answer": "Ja, es ist derzeit kostenlos. Sie sollten jedoch einen Rückverweis auf das AI-Tool-Verzeichnis teilen!"
     },
     "5": {
-      "question": "Welche Arten von AI-Tools werden von der AI-Tool-Karte unterstützt?",
-      "answer": "Wir werden bald alle Arten von AI-Tools unterstützen. Bitte warten Sie einige Tage."
+      "question": "Welche Arten von AI-Tools werden im AI-Tool-Verzeichnis unterstützt?",
+      "answer": "Wir werden in Kürze alle Arten von AI-Tools unterstützen. Bitte warten Sie einige Tage."
     },
     "6": {
-      "question": "Wie oft wird die AI-Tool-Liste aktualisiert?",
-      "answer": "Die AI-Tool-Liste wird täglich aktualisiert."
+      "question": "Wie oft wird die Liste der AI-Tools im AI-Tool-Verzeichnis aktualisiert?",
+      "answer": "Die Liste der AI-Tools wird täglich aktualisiert."
     },
     "7": {
-      "question": "Werden GPT-4o oder Sora AI unterstützt?",
-      "answer": "Sie können hier GPT-4o- oder Sora-AI-Tools erhalten. Hier gibt es eine Einführung in GPT-4o- und Sora-Videos, die Sie auf der Website des Tools besuchen können."
+      "question": "Unterstützt das AI-Tool-Verzeichnis GPT-4o oder Sora AI?",
+      "answer": "Sie können hier GPT-4o- oder Sora-AI-Tools finden. Hier gibt es eine Einführung zu GPT-4o- und Sora-Videos, die Sie auf die Website des Tools zugreifen können."
     },
     "8": {
       "question": "Fehlerbehebung",
       "answer": "Wenn der Inhalt nicht angezeigt wird, versuchen Sie, einen anderen Browser zu verwenden und den Cache zu leeren. Wenn das Problem noch besteht, kontaktieren Sie uns: mapleshaw@gmail.com"
     },
     "9": {
-      "question": "Wie werden die Inhalte der AI-Tool-Karte generiert?",
+      "question": "Wie werden die Inhalte des AI-Tool-Verzeichnisses generiert?",
       "answer": "Die Beschreibungen der AI-Tools werden von Anthropic's Claude generiert."
     },
     "10": {
       "question": "Was sind die Nutzungsrechte für AI-Tools?",
-      "answer": "Die AI-Tool-Karte ist nur ein Verzeichnis von AI-Tools. Die Nutzungsrechte für AI-Tools basieren auf der Website des AI-Tools."
+      "answer": "Das AI-Tool-Verzeichnis ist nur ein Verzeichnis von AI-Tools. Die Nutzungsrechte für AI-Tools basieren auf der Website des AI-Tools."
     },
     "11": {
-      "question": "Ist die Web-Oberfläche der AI-Tool-Karte open-source?",
-      "answer": "Ja, wir werden die Web-Oberfläche der AI-Tool-Karte auf GitHub (https://github.com/6677-ai/tap4-ai-webui) open-source machen. Bitte geben Sie uns einen Stern."
+      "question": "Ist die Web-Oberfläche des AI-Tool-Verzeichnisses Open-Source?",
+      "answer": "Ja, wir werden die Web-Oberfläche des AI-Tool-Verzeichnisses auf GitHub (https://github.com/6677-ai/tap4-ai-webui) open-source machen. Bitte geben Sie uns einen Stern."
     },
     "title": "Häufig gestellte Fragen"
   },
   "FooterNavigation": {
     "privacyPolicy": {
-      "1-h1": "Datenschutzerklärung der offenen AI-Tool-Karte",
-      "1-p": "Diese Seite informiert Besucher über die Erhebung, Verwendung und Offenlegung personenbezogener Daten. Wenn Sie unsere Dienste nutzen, stimmen Sie der Erhebung und Verwendung von Informationen gemäß dieser Richtlinie zu. Wir erheben personenbezogene Daten, um unsere Dienste bereitzustellen und zu verbessern. Wir teilen Ihre Informationen nicht mit Dritten, es sei denn, es ist in dieser Datenschutzerklärung anders angegeben.",
+      "1-h1": "Datenschutzrichtlinie des offenen AI-Tool-Verzeichnisses",
+      "1-p": "Diese Seite dient dazu, Besucher über die Erhebung, Verwendung und Offenlegung personenbezogener Daten zu informieren. Wenn Sie unsere Dienste nutzen, stimmen Sie der Erhebung und Verwendung von Informationen zu, die in dieser Richtlinie beschrieben sind. Wir erheben personenbezogene Daten, um Ihnen bessere Dienste anzubieten.",
       "2-h2": "1. Erhebung und Verwendung von Informationen",
-      "2-p": "Um unsere Dienste bereitzustellen, bitten wir Sie möglicherweise um bestimmte personenbezogene Daten. Die von uns angeforderten Informationen werden auf Ihrem Gerät gespeichert und wir teilen sie nicht mit Dritten.",
+      "2-p": "Um Ihnen bessere Dienste anzubieten, bitten wir Sie möglicherweise um bestimmte personenbezogene Daten, wenn Sie unsere Dienste nutzen. Die von uns angeforderten Informationen werden auf Ihrem Gerät gespeichert und wir teilen sie nicht mit Dritten.",
       "3-h2": "2. Protokolldaten",
-      "3-p": "Wir möchten Ihnen mitteilen, dass wir bei jedem Besuch unserer Website möglicherweise Protokolldaten erheben, wenn ein Fehler auftritt. Diese Protokolldaten können Ihre IP-Adresse, Geräteinformationen, Konfigurationsinformationen und andere statistische Informationen enthalten.",
+      "3-p": "Wir möchten Ihnen mitteilen, dass wir bei jedem Besuch unserer Website möglicherweise Protokolldaten erheben, wenn Sie unsere Dienste nutzen. Diese Protokolldaten können Ihre IP-Adresse, den Namen Ihres Geräts, die Version Ihres Betriebssystems, die Konfiguration Ihres Dienstes und andere statistische Informationen enthalten.",
       "4-h2": "3. Cookies",
-      "4-p": "Cookies sind Dateien mit geringem Dateninhalt, die normalerweise als anonyme eindeutige Kennung verwendet werden. Diese Daten werden von der besuchten Website an Ihren Browser gesendet und auf Ihrem Gerät gespeichert. Wir verwenden keine Cookies, um Ihre personenbezogenen Daten zu erheben. Wir verwenden jedoch möglicherweise Drittanbieter-Codes und -Bibliotheken, die Cookies verwenden, um Informationen zu erheben und ihre Dienste zu verbessern.",
+      "4-p": "Ein Cookie ist eine kleine Datei, die an Ihren Browser gesendet wird und auf Ihrem Gerät gespeichert wird. Wir verwenden Cookies nicht explizit. Wir verwenden möglicherweise Drittanbieter-Codes und -Bibliotheken, die Cookies verwenden, um Informationen zu sammeln und ihre Dienste zu verbessern.",
       "5-h2": "4. Dienstleister",
-      "5-p-1": "Wir können Dritte beauftragen, um unsere Dienste bereitzustellen:",
+      "5-p-1": "Wir können Dritte beauftragen, um unsere Dienste zu erbringen:",
       "5-li-1": "Um unsere Dienste zu fördern;",
       "5-li-2": "Um unsere Dienste zu vertreten;",
       "5-li-3": "Um Dienstleistungen im Zusammenhang mit unseren Diensten zu erbringen;",
-      "5-li-4": "Um die Verwendung unserer Dienste zu analysieren;",
-      "5-p-2": "Wir möchten Ihnen mitteilen, dass diese Dritten möglicherweise auf Ihre personenbezogenen Daten zugreifen können. Der Grund dafür ist, dass sie unsere Dienste im Auftrag von uns erbringen. Sie haben jedoch die Pflicht, Ihre Informationen nicht für andere Zwecke offenzulegen oder zu verwenden.",
+      "5-li-4": "Um die Nutzung unserer Dienste zu analysieren;",
+      "5-p-2": "Wir möchten Ihnen mitteilen, dass diese Dritten möglicherweise auf Ihre personenbezogenen Daten zugreifen können. Der Grund dafür ist, dass sie unsere Dienste erbringen.",
       "6-h2": "5. Sicherheit",
-      "6-p": "Wir achten darauf, Ihre personenbezogenen Daten zu schützen, indem wir kommerziell akzeptable Mittel verwenden, um sie zu schützen. Bitte beachten Sie jedoch, dass keine Übertragung von Informationen über das Internet oder elektronische Speicherung 100% sicher und zuverlässig ist.",
+      "6-p": "Wir achten darauf, Ihre personenbezogenen Daten zu schützen, indem wir kommerziell akzeptable Mittel verwenden, um sie zu schützen. Bitte beachten Sie jedoch, dass keine Übertragung von Informationen über das Internet oder elektronische Speicherung 100% sicher ist.",
       "7-h2": "6. Verlinkungen zu anderen Websites",
-      "7-p": "Unsere Dienste können Links zu anderen Websites enthalten. Wenn Sie auf einen Link zu einer Drittanbieter-Website klicken, werden Sie zu dieser Website weitergeleitet. Bitte beachten Sie, dass wir keine Kontrolle über den Inhalt, die Datenschutzerklärung oder die Praktiken dieser Drittanbieter-Websites haben.",
-      "8-h2": "7. Änderungen an dieser Datenschutzerklärung",
-      "8-p": "Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren. Wir empfehlen Ihnen, diese Seite regelmäßig zu überprüfen, um Änderungen zu erkennen. Wir werden Sie über Änderungen an dieser Datenschutzerklärung informieren, indem wir eine neue Version auf dieser Seite veröffentlichen."
+      "7-p": "Unsere Website kann Verlinkungen zu anderen Websites enthalten. Wenn Sie auf einen Link zu einer Drittanbieter-Website klicken, werden Sie zu dieser Website weitergeleitet. Bitte beachten Sie, dass wir keine Kontrolle über den Inhalt oder die Datenschutzpraktiken dieser Websites haben.",
+      "8-h2": "7. Änderungen an dieser Datenschutzrichtlinie",
+      "8-p": "Wir können diese Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Wir empfehlen Ihnen, diese Seite regelmäßig zu überprüfen, um Änderungen zu erkennen. Wir werden Änderungen an dieser Datenschutzrichtlinie auf dieser Seite bekannt geben."
     },
     "termsConditions": {
-      "1-h1": "Bedingungen und Konditionen der AI-Tool-Karte",
-      "1-p": "Willkommen bei der AI-Tool-Karte! Unsere Website befindet sich unter https://tap4.ai („Website“) und bietet Ihnen die Möglichkeit, benutzerdefinierte Bilder zu erstellen. Durch den Besuch oder die Verwendung unserer Website stimmen Sie den Bedingungen und Konditionen („Bedingungen“) zu. Wenn Sie nicht mit allen Bedingungen einverstanden sind, ist die Verwendung der Website untersagt.",
+      "1-h1": "Bedingungen und Konditionen des AI-Tool-Verzeichnisses",
+      "1-p": "Willkommen im AI-Tool-Verzeichnis! Unsere Website befindet sich unter https://tap4.ai (die \"Website\"), um Ihnen die Möglichkeit zu bieten, benutzerdefinierte Bilder zu erstellen. Durch den Besuch oder die Nutzung unserer Website stimmen Sie den Bedingungen und Konditionen (die \"Bedingungen\") zu.",
       "2-h2": "1. Nutzungsrecht",
       "2-p": "Sie erhalten eine begrenzte, nicht ausschließliche, nicht übertragbare Lizenz, um die Website und ihre Dienste für persönliche, nicht kommerzielle Zwecke zu nutzen. Ohne unsere vorherige schriftliche Zustimmung ist diese Lizenz nicht auf die Vervielfältigung, Modifizierung oder Verbreitung von Inhalten der Website oder die Verwendung für kommerzielle Zwecke ausgedehnt.",
       "3-h2": "2. Eigentum",
-      "3-p": "Das Eigentum an den auf der Website generierten Bildern gehört den Erstellern der Bilder. Tap4.ai beansprucht kein Eigentum an den von den Benutzern erstellten Bildern.",
+      "3-p": "Das Eigentum an den auf der Website generierten Bildern bleibt beim Ersteller der Bilder. Tap4.ai beansprucht kein Eigentum an den von den Benutzern erstellten Bildern.",
       "4-h2": "3. Datenerhebung",
-      "4-p": "Wir erheben personenbezogene Daten (Name, E-Mail-Adresse und Zahlungsinformationen) und nicht personenbezogene Daten (Web-Cookies), um unsere Dienste zu verbessern. Die Verwendung dieser Daten unterliegt unserer Datenschutzerklärung, die auf",
+      "4-p": "Wir erheben personenbezogene Daten (Name, E-Mail-Adresse und Zahlungsinformationen) und nicht personenbezogene Daten (Web-Cookies), um unsere Dienste zu verbessern. Die Verwendung dieser Daten unterliegt unserer Datenschutzrichtlinie, die auf",
       "terms-of-service": "Bedingungen und Konditionen",
       "5-h2": "4. Anwendbares Recht",
-      "5-p": "Diese Bedingungen unterliegen dem Recht der Vereinigten Staaten und werden entsprechend ausgelegt, ohne Berücksichtigung von Kollisionsnormen.",
+      "5-p": "Diese Bedingungen unterliegen dem Recht der Vereinigten Staaten und werden entsprechend interpretiert, ohne Berücksichtigung von Kollisionsnormen.",
       "6-h2": "5. Änderungen an diesen Bedingungen",
-      "6-p": "Die AI-Tool-Karte behält sich das Recht vor, diese Bedingungen jederzeit zu ändern oder zu ersetzen. Wir werden Sie über Änderungen an diesen Bedingungen informieren, indem wir eine neue Version auf dieser Seite veröffentlichen.",
+      "6-p": "Das AI-Tool-Verzeichnis behält sich das Recht vor, diese Bedingungen jederzeit zu ändern oder zu ersetzen. Wir werden Sie per E-Mail über Änderungen informieren. Wenn Sie die Website nach Änderungen an diesen Bedingungen weiterhin nutzen, gilt dies als Ihre Zustimmung zu den Änderungen.",
       "7-h2": "6. Kontaktinformationen",
       "7-p": "Wenn Sie Fragen zu diesen Bedingungen haben, kontaktieren Sie uns bitte: contact@6677.ai",
-      "last-p": "Die Verwendung der AI-Tool-Karte bedeutet, dass Sie diese Bedingungen akzeptieren."
+      "last-p": "Die Nutzung des AI-Tool-Verzeichnisses bedeutet, dass Sie diese Bedingungen akzeptieren."
     }
   },
   "NotFound": {
@@ -118,8 +121,8 @@
     "goHome": "Zurück zur Startseite"
   },
   "Home": {
-    "title": "AI-Effizienz-Tool-Karte: Jeder kann leicht AI beherrschen",
-    "subTitle": "Ihr professioneller Leitfaden, um Spitzen-AI-Tools zu entdecken und Ihre Produktivität zu steigern",
+    "title": "AI-Effizienz-Tool-Karte: Lassen Sie jeden leicht AI beherrschen",
+    "subTitle": "Ihr professioneller Leitfaden, entdecken und nutzen Sie Top-AI-Tools, um Ihre Produktivität zu steigern",
     "ai-navigate": "AI-Tool-Liste",
     "exploreMore": "Erkunden Sie mehr AI-Tools",
     "checkDetail": "Details anzeigen",
@@ -134,13 +137,13 @@
     "empty": "Keine Daten verfügbar"
   },
   "Submit": {
-    "title": "Einreichen Ihres AI-Tools",
-    "subTitle": "Einreichen Ihres AI-Tools und erhalten Sie Traffic von der AI-Tool-Karte",
+    "title": "Reichen Sie Ihr AI-Tool ein",
+    "subTitle": "Reichen Sie Ihr AI-Tool ein und erhalten Sie Traffic vom AI-Tool-Verzeichnis",
     "website": "Website-Name",
     "url": "Website-URL",
     "submit": "Einreichen",
     "add": "Hinzufügen",
-    "text": "Gehen Sie zu Ihrer Website-Startseite und dann können Sie Ihr Tool kostenlos erfolgreich einreichen!",
+    "text": "Gehen Sie zu Ihrer Website-Startseite und dann können Sie Ihr Website erfolgreich einreichen!",
     "networkError": "Netzwerkfehler",
     "success": "Erfolgreich"
   },
@@ -161,27 +164,34 @@
     }
   },
   "Explore": {
-    "title": "AI-Effizienz-Tool-Karte: Jeder kann leicht AI beherrschen",
-    "subTitle": "Ihr professioneller Leitfaden, um Spitzen-AI-Tools zu entdecken und Ihre Produktivität zu steigern"
+    "title": "AI-Effizienz-Tool-Karte: Lassen Sie jeden leicht AI beherrschen",
+    "subTitle": "Ihr professioneller Leitfaden, entdecken und nutzen Sie Top-AI-Tools, um Ihre Produktivität zu steigern",
+    "filterByTags": "Nach Schlüsselwörtern filtern",
+    "sortBy": "Sortieren nach",
+    "hotDesc": "Beliebtheit von hoch nach niedrig",
+    "hotAsc": "Beliebtheit von niedrig nach hoch",
+    "timeDesc": "Zeit von neu nach alt",
+    "timeAsc": "Zeit von alt nach neu",
+    "reset": "Zurücksetzen"
   },
   "Metadata": {
     "home": {
-      "title": "AI-SEO-Tools und agile Lösungen | AI-Tool-Karte",
-      "description": "Die AI-Tool-Karte bietet kostenlose AI-SEO-Tools und agile Erweiterungslösungen. Mit der AI-Tool-Karte können Sie Ihre Lieblings-AI-Tools finden und Unternehmen helfen, agile AI-Lösungen umzusetzen.",
-      "keywords": "AI-Tool-Karte, AI-SEO-Tools, agile Lösungen"
+      "title": "AI-SEO-Tools und agile Lösungen | AI-Tool-Verzeichnis",
+      "description": "Das AI-Tool-Verzeichnis bietet kostenlose AI-SEO-Tools und agile Erweiterungslösungen. Finden Sie Ihre Lieblings-AI-Tools im AI-Tool-Verzeichnis, um Unternehmen bei der Implementierung von agilen AI-Lösungen zu unterstützen.",
+      "keywords": "AI-Tool-Verzeichnis, AI-SEO-Tools, agile Lösungen"
     },
     "ai": {
-      "titleSubfix": "AI-Tool-Karte"
+      "titleSubfix": "AI-Tool-Verzeichnis"
     },
     "explore": {
-      "title": "2024 Best AI-Tools Erkundung | Offene AI-Tool-Karte",
-      "titlePrefix": "AI-Tool-Karte Erkundung",
-      "titleSuffix": "AI-Tool-Karte",
-      "description": "Die AI-Tool-Karte ist ein Tool, das kostenlose AI-Tools anbietet. Mit der AI-Tool-Karte können Sie Ihre Lieblings-AI-Tools finden und Unternehmen helfen, agile AI-Lösungen umzusetzen.",
-      "keywords": "AI-Tool-Karte"
+      "title": "2024 Best AI-Tools Erkunden | Offenes AI-Tool-Verzeichnis",
+      "titlePrefix": "AI-Tool-Verzeichnis Erkunden",
+      "titleSuffix": "AI-Tool-Verzeichnis",
+      "description": "Das AI-Tool-Verzeichnis ist ein Tool, das kostenlose AI-Tools anbietet. Finden Sie Ihre Lieblings-AI-Tools im AI-Tool-Verzeichnis, um Unternehmen bei der Implementierung von agilen AI-Lösungen zu unterstützen.",
+      "keywords": "AI-Tool-Verzeichnis"
     },
     "submit": {
-      "title": "Einreichen Ihres AI-Tools und erhalten Sie Traffic | AI-Tool-Karte"
+      "title": "Reichen Sie Ihr AI-Tool ein und erhalten Sie Traffic | AI-Tool-Verzeichnis"
     }
   }
 }

@@ -1,9 +1,12 @@
 {
   "Common": {
-    "loading": "Cargando..."
+    "loading": "Cargando...",
+    "select": "Seleccione...",
+    "search": "Buscar...",
+    "noResults": "No hay opciones coincidentes"
   },
   "Navigation": {
-    "title": "Mapa de herramientas de eficiencia de IA: haz que cada persona pueda dominar fácilmente la IA",
+    "title": "Mapa de herramientas de eficiencia de IA: haz que cualquier persona pueda dominar fácilmente la IA",
     "discover": "Descubre IA",
     "submit": "Enviar",
     "newtools": "Nuevas herramientas",
@@ -11,7 +14,7 @@
     "menu": "Menú"
   },
   "Footer": {
-    "title": "Mapa de herramientas de eficiencia de IA: haz que cada persona pueda dominar fácilmente la IA",
+    "title": "Mapa de herramientas de eficiencia de IA: haz que cualquier persona pueda dominar fácilmente la IA",
     "subTitle": "Tu guía profesional, descubre y aprovecha las herramientas de IA de alta calidad para mejorar la productividad",
     "support": "Soporte",
     "tap4": "Mapa de IA",
@@ -23,13 +26,13 @@
   "Faq": {
     "1": {
       "question": "¿Qué es el directorio de herramientas de IA de código abierto?",
-      "answer": "El directorio de herramientas de IA de tap4.ai está creando un directorio de herramientas de IA para ayudarte a obtener tus herramientas de IA favoritas. Puedes encontrar herramientas de IA de escritura, herramientas de IA de marketing, herramientas de IA de reescritura, herramientas de IA de SEO, herramientas de IA de aprendizaje, herramientas de IA de generación, herramientas de IA de investigación, herramientas de IA de arte, herramientas de IA de música, herramientas de IA de video, herramientas de IA de codificación, herramientas de IA de imágenes, etc."
+      "answer": "El directorio de herramientas de IA es una lista de herramientas de IA que te ayudan a encontrar tus herramientas de IA favoritas. Puedes encontrar herramientas de IA de escritura, herramientas de IA de marketing, herramientas de IA de reescritura, herramientas de IA de SEO, herramientas de IA de aprendizaje, herramientas de IA de generación, herramientas de IA de investigación, herramientas de IA de arte, herramientas de IA de música, herramientas de IA de video, herramientas de IA de codificación, herramientas de IA de imágenes, etc."
     },
     "2": {
       "question": "¿Cómo encontrar tus herramientas de IA en el directorio de herramientas de IA?",
       "answer-1": "1. Abre aiatlas.ai",
       "answer-2": "2. Navega por el directorio de herramientas de IA",
-      "answer-3": "3. Haz clic en la herramienta de IA que necesitas, vea los detalles y acceda a ella"
+      "answer-3": "3. Haz clic en la herramienta de IA que necesitas, vea los detalles y accede a ella"
     },
     "3": {
       "question": "¿Cuáles son las principales funciones del directorio de herramientas de IA?",
@@ -41,64 +44,64 @@
       "answer": "Sí, actualmente es gratuito. Pero debes compartir el enlace de retroalimentación del directorio de herramientas de IA"
     },
     "5": {
-      "question": "¿Qué tipos de herramientas de IA admite el directorio de herramientas de IA?",
-      "answer": "Apoyaremos todos los tipos de herramientas de IA pronto. Por favor, espera unos días."
+      "question": "¿Qué tipo de categorías de herramientas de IA admite el directorio de herramientas de IA?",
+      "answer": "Apoyaremos todas las categorías de herramientas de IA pronto. Por favor, espera unos días"
     },
     "6": {
       "question": "¿Cuál es la frecuencia de actualización de las herramientas de IA en el directorio de herramientas de IA?",
-      "answer": "La lista de herramientas de IA se actualizará diariamente."
+      "answer": "La lista de herramientas de IA se actualizará diariamente"
     },
     "7": {
-      "question": "¿Se admite GPT-4o o Sora AI aquí?",
-      "answer": "Puedes obtener herramientas de GPT-4o o Sora AI aquí. Hay una introducción a las herramientas de GPT-4o y Sora AI, puedes acceder al sitio web de la herramienta."
+      "question": "¿Se admiten GPT-4o o Sora AI aquí?",
+      "answer": "Puedes obtener herramientas de GPT-4o o Sora AI aquí. Hay una introducción a las herramientas de GPT-4o y Sora AI, puedes acceder al sitio web de la herramienta"
     },
     "8": {
       "question": "Solución de problemas",
-      "answer": "Si el contenido no se carga, intenta usar otro navegador, limpiar la caché. Si el problema persiste, contáctanos: mapleshaw@gmail.com"
+      "answer": "Si el contenido no se carga, intenta usar otro navegador, limpia la caché. Si el problema persiste, contáctanos: mapleshaw@gmail.com"
     },
     "9": {
       "question": "¿Cómo se generan los contenidos del directorio de herramientas de IA?",
-      "answer": "Los contenidos de descripción de las herramientas de IA son generados por Claude de Anthropic."
+      "answer": "El contenido de la descripción de las herramientas de IA es generado por Claude de Anthropic"
     },
     "10": {
-      "question": "¿Qué derechos de uso tienen las herramientas de IA?",
-      "answer": "El directorio de herramientas de IA solo es un directorio de herramientas de IA. Los derechos de uso de las herramientas de IA se basan en el sitio web de la herramienta de IA."
+      "question": "¿Cuáles son los derechos de uso de las herramientas de IA?",
+      "answer": "El directorio de herramientas de IA solo es un directorio de herramientas de IA. Los derechos de uso de las herramientas de IA se basan en el sitio web de la herramienta de IA"
     },
     "11": {
       "question": "¿Es de código abierto la interfaz de usuario web del directorio de herramientas de IA?",
-      "answer": "Sí, vamos a hacer que la interfaz de usuario web del directorio de herramientas de IA sea de código abierto en GitHub (https://github.com/6677-ai/tap4-ai-webui). Por favor, haz clic en la estrella."
+      "answer": "Sí, vamos a abrir la interfaz de usuario web del directorio de herramientas de IA en GitHub (https://github.com/6677-ai/tap4-ai-webui). Por favor, haz clic en la estrella"
     },
     "title": "Preguntas frecuentes"
   },
   "FooterNavigation": {
     "privacyPolicy": {
       "1-h1": "Política de privacidad del directorio de herramientas de IA de código abierto",
-      "1-p": "Esta página tiene como objetivo informar a los visitantes sobre nuestra política de recopilación, uso y divulgación de información personal. Si decides utilizar nuestros servicios, significa que aceptas la recopilación y el uso de información relacionada con esta política. Recopilo información personal para proporcionar y mejorar nuestros servicios. No compartiremos tu información con nadie, excepto según lo establecido en esta política de privacidad.",
+      "1-p": "Esta página tiene como objetivo informar a los visitantes sobre nuestra política de recopilación, uso y divulgación de información personal. Si decides utilizar nuestros servicios, significa que aceptas la recopilación y el uso de información relacionada con esta política. Recopilo información personal para proporcionar y mejorar nuestros servicios. No compartiré tu información con nadie, a menos que se especifique en esta política de privacidad.",
       "2-h2": "1. Recopilación y uso de información",
-      "2-p": "Para proporcionar un mejor servicio, puedo requerir cierta información que te permita identificarte cuando utilizas nuestros servicios. La información que solicito se almacenará en tu dispositivo y no la recopilaré de ninguna manera.",
+      "2-p": "Para proporcionar un mejor servicio, puedo requerir cierta información que te permita identificarte personalmente cuando utilizas nuestros servicios. La información que solicito se almacenará en tu dispositivo y no la recopilaré de ninguna manera.",
       "3-h2": "2. Datos de registro",
-      "3-p": "Quiero informarte que, cada vez que utilices nuestros servicios, puedo recopilar datos y información en tu dispositivo (a través de productos de terceros) en caso de que se produzca un error en la aplicación. Estos datos de registro pueden incluir tu dirección IP, nombre del dispositivo, versión del sistema operativo, configuración de la aplicación y otros datos estadísticos.",
+      "3-p": "Quiero informarte que, cada vez que utilices nuestros servicios, puedo recopilar datos y información en tu dispositivo (a través de productos de terceros). Estos datos de registro pueden incluir tu dirección IP, nombre de dispositivo, versión del sistema operativo, configuración del servicio cuando se utiliza, fecha y hora de uso del servicio y otra información estadística.",
       "4-h2": "3. Cookies",
-      "4-p": "Las cookies son archivos que contienen pequeñas cantidades de datos que se envían desde el sitio web que visitas a tu navegador y se almacenan en la memoria de tu dispositivo. Este servicio no utiliza cookies explícitamente. Sin embargo, la aplicación puede utilizar códigos y bibliotecas de terceros que utilicen cookies para recopilar información y mejorar sus servicios.",
+      "4-p": "Las cookies son archivos que contienen poca información y se envían desde el sitio web que visitas a tu navegador. Estos archivos se almacenan en la memoria de tu dispositivo. No utilizo explícitamente estas \"cookies\". Sin embargo, puedo utilizar códigos y bibliotecas de terceros que utilicen \"cookies\" para recopilar información y mejorar sus servicios.",
       "5-h2": "4. Proveedores de servicios",
-      "5-p-1": "Puedo contratar a terceros y particulares por los siguientes motivos:",
-      "5-li-1": "Promover nuestros servicios;",
+      "5-p-1": "Puedo contratar a terceros para:",
+      "5-li-1": "Promocionar nuestros servicios;",
       "5-li-2": "Representarnos para proporcionar servicios;",
       "5-li-3": "Realizar servicios relacionados con nuestros servicios;",
       "5-li-4": "Ayudarnos a analizar el uso de nuestros servicios;",
-      "5-p-2": "Quiero informarte que estos terceros pueden acceder a tu información personal. La razón es que representan a nosotros para realizar las tareas asignadas. Sin embargo, tienen la obligación de no divulgar o utilizar esta información para otros fines.",
+      "5-p-2": "Quiero informarte que estos terceros pueden acceder a tu información personal. La razón es que representan a nosotros para realizar tareas asignadas. Sin embargo, tienen la obligación de no divulgar o utilizar esta información para otros fines.",
       "6-h2": "5. Seguridad",
-      "6-p": "Me tomo en serio la confianza que depositas en mí al proporcionarme información personal, por lo que me comprometo a utilizar métodos comerciales aceptables para protegerla. Sin embargo, recuerda que no hay método de transmisión por Internet o método de almacenamiento electrónico que sea 100% seguro y confiable.",
-      "7-h2": "6. Enlaces a sitios web de terceros",
-      "7-p": "Este servicio puede contener enlaces a sitios web de terceros. Si haces clic en un enlace de terceros, serás dirigido a ese sitio web. Por favor, ten en cuenta que estos sitios web externos no son operados por mí. Por lo tanto, te recomiendo que revises las políticas de privacidad de esos sitios web.",
+      "6-p": "Me tomo en serio la confianza que depositas en mí al proporcionar información personal. Por lo tanto, me comprometo a utilizar métodos comerciales aceptables para protegerla. Sin embargo, recuerda que no hay método de transmisión por Internet o método de almacenamiento electrónico que sea 100% seguro y confiable.",
+      "7-h2": "6. Enlaces a otros sitios web",
+      "7-p": "Nuestros servicios pueden contener enlaces a otros sitios web. Si haces clic en un enlace de terceros, serás dirigido a ese sitio web. Por favor, ten en cuenta que estos sitios web externos no son operados por mí. Por lo tanto, te recomiendo que revises las políticas de privacidad de esos sitios web.",
       "8-h2": "7. Cambios en esta política de privacidad",
-      "8-p": "Puedo actualizar esta política de privacidad en cualquier momento. Por lo tanto, te recomiendo que la revises periódicamente. Publicaré cualquier cambio en esta página y entrarán en vigor inmediatamente después de su publicación."
+      "8-p": "Puedo actualizar esta política de privacidad en cualquier momento. Por lo tanto, te recomiendo que la revises periódicamente. Estos cambios entrarán en vigor cuando se publiquen en esta página."
     },
     "termsConditions": {
       "1-h1": "Términos y condiciones del directorio de herramientas de IA",
-      "1-p": "Bienvenido al directorio de herramientas de IA. Nuestro sitio web se encuentra en https://tap4.ai (el \"sitio web\"), y se compromete a proporcionarte la capacidad de crear imágenes personalizadas. Al acceder o utilizar nuestro sitio web, aceptas estar sujeto a estos términos y condiciones (los \"términos\"). Si no aceptas alguno de los términos, no debes utilizar el sitio web.",
+      "1-p": "Bienvenido al directorio de herramientas de IA. Nuestro sitio web se encuentra en https://tap4.ai (\"sitio web\"), y se compromete a proporcionarte la capacidad de crear imágenes personalizadas. Al acceder o utilizar nuestro sitio web, aceptas estar sujeto a estos términos y condiciones (\"términos\"). Si no aceptas cualquier término, no debes utilizar nuestro sitio web.",
       "2-h2": "1. Licencia de uso",
-      "2-p": "Se te otorga una licencia limitada, no exclusiva y no transferible para utilizar el sitio web y sus servicios para fines personales y no comerciales. Esta licencia no incluye el derecho a copiar, modificar o distribuir el contenido del sitio web o utilizarlo para fines comerciales sin nuestro consentimiento previo por escrito.",
+      "2-p": "Se te concede una licencia limitada, no exclusiva e intransferible para utilizar nuestro sitio web y servicios para fines personales y no comerciales. Esta licencia no incluye el derecho a copiar, modificar o distribuir el contenido del sitio web o utilizarlo para fines comerciales sin nuestro consentimiento previo por escrito.",
       "3-h2": "2. Propiedad",
       "3-p": "La propiedad de las imágenes generadas en el sitio web pertenece a la persona que creó la imagen. Tap4.ai no reclama la propiedad de las imágenes generadas por los usuarios.",
       "4-h2": "3. Recopilación de datos de usuario",
@@ -106,8 +109,8 @@
       "terms-of-service": "términos de servicio",
       "5-h2": "4. Ley aplicable",
       "5-p": "Estos términos se regirán e interpretarán de acuerdo con las leyes de los Estados Unidos, sin dar efecto a las disposiciones de conflicto de leyes.",
-      "6-h2": "5. Cambios en los términos",
-      "6-p": "El directorio de herramientas de IA se reserva el derecho a modificar o reemplazar estos términos en cualquier momento y sin previo aviso. Continuarás utilizando el sitio web después de cualquier cambio en estos términos, lo que constituirá tu aceptación de los cambios.",
+      "6-h2": "5. Cambios en estos términos",
+      "6-p": "Reservamos el derecho a modificar o reemplazar estos términos en cualquier momento. Te notificaremos cualquier cambio a través de un correo electrónico. Si continúas utilizando nuestro sitio web después de que se publiquen los cambios, se considerará que has aceptado los cambios.",
       "7-h2": "6. Información de contacto",
       "7-p": "Si tienes alguna pregunta sobre estos términos, por favor contáctanos en contact@6677.ai",
       "last-p": "Al utilizar el directorio de herramientas de IA, aceptas estos términos y condiciones."
@@ -118,7 +121,7 @@
     "goHome": "Volver al inicio"
   },
   "Home": {
-    "title": "Mapa de herramientas de eficiencia de IA: haz que cada persona pueda dominar fácilmente la IA",
+    "title": "Mapa de herramientas de eficiencia de IA: haz que cualquier persona pueda dominar fácilmente la IA",
     "subTitle": "Tu guía profesional, descubre y aprovecha las herramientas de IA de alta calidad para mejorar la productividad",
     "ai-navigate": "Lista de herramientas de IA",
     "exploreMore": "Obtener más herramientas de IA",
@@ -126,8 +129,8 @@
     "search": "Buscar",
     "result": "Resultados de búsqueda",
     "empty": "No hay datos",
-    "hotTools": "Herramientas recomendadas",
-    "newTools": "Nuevas herramientas"
+    "hotTools": "Herramientas de IA populares",
+    "newTools": "Nuevas herramientas de IA"
   },
   "Category": {
     "home": "Inicio",
@@ -145,9 +148,9 @@
     "success": "Éxito"
   },
   "Startup": {
-    "title": "Iniciar tu empresa",
-    "subTitle": "La lista definitiva de empresas emergentes para promocionar tu sitio web de empresa. Para agregar a la lista o ayudar a enviar tu producto a la lista gratuita, envíenos un correo electrónico a: contact@tap4.ai",
-    "updateTime": "Planificado y actualizado diariamente. Última actualización:",
+    "title": "Inicia tu startup",
+    "subTitle": "La lista definitiva de startups y promociona tu sitio web de startup. Para agregar a la lista o ayudar a enviar tu producto a la lista gratuita, envíenos un correo electrónico a: contact@tap4.ai",
+    "updateTime": "Se actualiza diariamente. Última actualización:",
     "table": {
       "da": "DA",
       "website": "Sitio web",
@@ -161,13 +164,20 @@
     }
   },
   "Explore": {
-    "title": "Mapa de herramientas de eficiencia de IA: haz que cada persona pueda dominar fácilmente la IA",
-    "subTitle": "Tu guía profesional, descubre y aprovecha las herramientas de IA de alta calidad para mejorar la productividad"
+    "title": "Mapa de herramientas de eficiencia de IA: haz que cualquier persona pueda dominar fácilmente la IA",
+    "subTitle": "Tu guía profesional, descubre y aprovecha las herramientas de IA de alta calidad para mejorar la productividad",
+    "filterByTags": "Filtrar por etiquetas",
+    "sortBy": "Ordenar por",
+    "hotDesc": "Popularidad de alta a baja",
+    "hotAsc": "Popularidad de baja a alta",
+    "timeDesc": "Tiempo de nuevo a antiguo",
+    "timeAsc": "Tiempo de antiguo a nuevo",
+    "reset": "Restablecer"
   },
   "Metadata": {
     "home": {
       "title": "Herramientas de IA y soluciones de marketing ágil | Directorio de herramientas de IA",
-      "description": "El directorio de herramientas de IA ofrece herramientas de IA y soluciones de marketing ágil gratuitas. Obtenga sus herramientas de IA favoritas a través del directorio de herramientas de IA y ayude a las empresas a implementar soluciones de IA ágiles.",
+      "description": "El directorio de herramientas de IA ofrece herramientas de IA y soluciones de marketing ágil gratuitas. Con el directorio de herramientas de IA, puedes encontrar tus herramientas de IA favoritas y ayudar a las empresas a implementar soluciones de IA ágiles.",
       "keywords": "Directorio de herramientas de IA, herramientas de IA, soluciones de marketing ágil"
     },
     "ai": {
@@ -177,7 +187,7 @@
       "title": "Explora las mejores herramientas de IA de 2024 | Directorio de herramientas de IA de código abierto",
       "titlePrefix": "Directorio de herramientas de IA",
       "titleSuffix": "Directorio de herramientas de IA",
-      "description": "El directorio de herramientas de IA es una herramienta que ofrece un directorio de herramientas de IA gratuitas. Obtenga sus herramientas de IA favoritas a través del directorio de herramientas de IA y ayude a las empresas a implementar soluciones de IA ágiles.",
+      "description": "El directorio de herramientas de IA es una herramienta que ofrece un directorio de herramientas de IA gratuitas. Con el directorio de herramientas de IA, puedes encontrar tus herramientas de IA favoritas y ayudar a las empresas a implementar soluciones de IA ágiles.",
       "keywords": "Directorio de herramientas de IA"
     },
     "submit": {

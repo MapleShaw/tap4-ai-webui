@@ -1,28 +1,36 @@
 'use client';
 
 import { useState } from 'react';
-import { CircleHelp } from 'lucide-react';
+import { ChevronDown, CircleHelp } from 'lucide-react';
 import { useTranslations } from 'next-intl';
+
+import { cn } from '@/lib/utils';
 
 function FaqItem({ question, answers }: { question: string; answers: string[] }) {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <div className='w-full max-w-2xl border-b border-white/10'>
+    <div className='w-full rounded-xl border border-white/10 bg-[#2C2D36]/50 backdrop-blur-sm transition-all duration-300 hover:border-white/20'>
       <button
         type='button'
         onClick={() => setIsOpen(!isOpen)}
-        className='flex w-full items-center justify-between py-4 text-left'
+        className='flex w-full items-center justify-between p-6 text-left'
       >
-        <h3 className='flex items-center gap-2 text-xl'>
-          <CircleHelp /> {question}
+        <h3 className='flex items-center gap-3 text-lg font-medium lg:text-xl'>
+          <CircleHelp className='size-6 text-blue-400' />
+          {question}
         </h3>
-        <span className={`transform transition-transform ${isOpen ? 'rotate-180' : ''}`}>▼</span>
+        <span className={cn('transform transition-transform duration-300', isOpen ? 'rotate-180' : '')}>
+          <ChevronDown className='size-5 text-white/60' />
+        </span>
       </button>
       {isOpen && (
-        <div className='pb-4'>
+        <div className='border-t border-white/10 px-6 py-4'>
           {answers.map((answer) => (
-            <p key={`faq-answer-${answer.slice(0, 20)}`} className='mt-2 text-white/60'>
+            <p
+              key={`faq-answer-${answer.slice(0, 20)}`}
+              className='mt-3 text-base leading-relaxed text-white/70 first:mt-0'
+            >
               {answer}
             </p>
           ))}
@@ -83,8 +91,8 @@ export default function Faq() {
   ];
 
   return (
-    <div className='mx-auto flex max-w-2xl flex-col items-center space-y-4 pb-5'>
-      <h2 className='mb-8 text-center text-2xl font-bold lg:text-3xl'>{t('title')}</h2>
+    <div className='mx-auto flex max-w-4xl flex-col items-center space-y-8 px-4 pb-10'>
+      <h2 className='text-center text-3xl font-bold text-white lg:text-4xl'>{t('title')}</h2>
       {faqItems.map((item) => (
         <FaqItem key={`faq-item-${item.question}`} question={item.question} answers={item.answers} />
       ))}

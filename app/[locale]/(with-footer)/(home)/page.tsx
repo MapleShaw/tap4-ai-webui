@@ -2,13 +2,12 @@ import { Metadata } from 'next';
 import dynamic from 'next/dynamic';
 import Link from 'next/link';
 import { createClient } from '@/db/supabase/client';
-import { CircleChevronRight } from 'lucide-react';
+import { CircleChevronRight, Flame, Sparkles } from 'lucide-react';
 import { getTranslations } from 'next-intl/server';
 
 import { RevalidateOneHour } from '@/lib/constants';
 import Faq from '@/components/Faq';
 import SearchForm from '@/components/home/SearchForm';
-import Icon from '@/components/image/Icon';
 import WebNavCardList from '@/components/webNav/WebNavCardList';
 
 import { TagList } from './Tag';
@@ -37,14 +36,20 @@ export const revalidate = RevalidateOneHour;
 export default async function Page() {
   const supabase = createClient();
   const t = await getTranslations('Home');
-  const [{ data: categoryList }, { data: navigationList }] = await Promise.all([
+
+  // 使用 Promise.all 并行获取三组数据
+  const [{ data: categoryList }, { data: hotList }, { data: newList }] = await Promise.all([
     supabase.from('navigation_category').select(),
     supabase
       .from('web_navigation')
       .select()
-      .order('star_rating', { ascending: false })
-      .order('collection_time', { ascending: false })
-      .limit(12),
+      .order('star_rating', { ascending: false }) // 最热排序
+      .limit(8),
+    supabase
+      .from('web_navigation')
+      .select()
+      .order('collection_time', { ascending: false }) // 最新排序
+      .limit(8),
   ]);
 
   return (
@@ -71,28 +76,34 @@ export default async function Page() {
             }))}
           />
         </div>
-        <div className='mb-16 flex flex-col gap-5'>
-          <h2 className='flex items-center gap-2 text-left text-[24px] font-semibold'>
-            <Icon src='/icons/hot.svg' className='h-6 w-6 text-red-500' width={24} height={24} />
+        <section className='flex flex-col gap-5'>
+          <h2 className='flex items-center gap-2 text-[18px] lg:text-2xl'>
+            <Flame className='size-5 text-orange-500' />
             {t('hotTools')}
           </h2>
-          <WebNavCardList dataList={navigationList!.slice(0, 6)} />
-        </div>
-        <div className='flex flex-col gap-5'>
-          <h2 className='flex items-center gap-2 text-left text-[24px] font-semibold'>
-            <Icon src='/icons/new.svg' className='h-6 w-6' />
+          <WebNavCardList dataList={hotList!} />
+        </section>
+
+        <section className='mt-10 flex flex-col gap-5'>
+          <h2 className='flex items-center gap-2 text-[18px] lg:text-2xl'>
+            <Sparkles className='size-5 text-blue-500' />
             {t('newTools')}
           </h2>
-          <WebNavCardList dataList={navigationList!.slice(6)} />
-          <Link
-            href='/explore'
-            className='mx-auto mb-5 flex w-fit items-center justify-center gap-5 rounded-[9px] border border-white p-[10px] text-sm leading-4 hover:opacity-70'
-          >
-            {t('exploreMore')}
-            <CircleChevronRight className='mt-[0.5] h-[20px] w-[20px]' />
-          </Link>
+          <WebNavCardList dataList={newList!} />
+        </section>
+
+        <Link
+          href='/explore'
+          className='mx-auto mb-5 mt-10 flex w-fit items-center justify-center gap-5 rounded-[9px] border border-white p-[10px] text-sm leading-4 hover:opacity-70'
+        >
+          {t('exploreMore')}
+          <CircleChevronRight className='mt-[0.5] h-[20px] w-[20px]' />
+        </Link>
+
+        <div className='mt-16 lg:mt-24'>
+          <Faq />
         </div>
-        <Faq />
+
         <ScrollToTop />
       </div>
     </div>

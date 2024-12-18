@@ -4,5 +4,11 @@
       "path": "/api/cron-trigger",
       "schedule": "0 11 * * *"
     }
+  ],
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.aiatlas.tech"
+    }
   ]
 }

@@ -11,11 +11,7 @@ function FaqItem({ question, answers }: { question: string; answers: string[] })
 
   return (
     <div className='w-full rounded-xl border border-white/10 bg-[#2C2D36]/50 backdrop-blur-sm transition-all duration-300 hover:border-white/20'>
-      <button
-        type='button'
-        onClick={() => setIsOpen(!isOpen)}
-        className='flex w-full items-center justify-between p-6 text-left'
-      >
+      <button type='button' onClick={() => setIsOpen(!isOpen)} className='flex w-full items-center justify-between p-4'>
         <h3 className='flex items-center gap-3 text-lg font-medium lg:text-xl'>
           <CircleHelp className='size-6 text-blue-400' />
           {question}
@@ -24,18 +20,20 @@ function FaqItem({ question, answers }: { question: string; answers: string[] })
           <ChevronDown className='size-5 text-white/60' />
         </span>
       </button>
-      {isOpen && (
-        <div className='border-t border-white/10 px-6 py-4'>
-          {answers.map((answer) => (
-            <p
-              key={`faq-answer-${answer.slice(0, 20)}`}
-              className='mt-3 text-base leading-relaxed text-white/70 first:mt-0'
-            >
-              {answer}
-            </p>
-          ))}
+      <div className={cn('grid transition-all duration-300', isOpen ? 'grid-rows-[1fr]' : 'grid-rows-[0fr]')}>
+        <div className='overflow-hidden'>
+          <div className='border-t border-white/10 px-4 py-3'>
+            {answers.map((answer) => (
+              <p
+                key={`faq-answer-${answer.slice(0, 20)}`}
+                className='mt-2 text-base leading-relaxed text-white/70 first:mt-0'
+              >
+                {answer}
+              </p>
+            ))}
+          </div>
         </div>
-      )}
+      </div>
     </div>
   );
 }
@@ -91,7 +89,7 @@ export default function Faq() {
   ];
 
   return (
-    <div className='mx-auto flex max-w-4xl flex-col items-center space-y-8 px-4 pb-10'>
+    <div className='mx-auto flex max-w-4xl flex-col items-center space-y-4 px-4 pb-10'>
       <h2 className='text-center text-3xl font-bold text-white lg:text-4xl'>{t('title')}</h2>
       {faqItems.map((item) => (
         <FaqItem key={`faq-item-${item.question}`} question={item.question} answers={item.answers} />
